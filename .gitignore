@@ -1,0 +1,5 @@
+assets/qa-*.png
+assets/*section*.png
+assets/tour-card-*.png
+*.tmp
+*.log
