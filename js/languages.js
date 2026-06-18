@@ -431,6 +431,127 @@ window.IntoNatureLanguages = (() => {
       "Their care continues after working life, because the dogs remain part of the family.":
         "Leur prise en charge continue après leur vie de travail, car les chiens restent membres de la famille.",
       "Meet our dogs": "Rencontrer nos chiens",
+      "Our dogs come first": "Nos chiens passent avant tout",
+      "What dog wellbeing means at Into Nature":
+        "Ce que le bien-être canin signifie chez Into Nature",
+      "At Into Nature, our sled dogs are the heart of every experience we offer.":
+        "Chez Into Nature, nos chiens de traîneau sont au cœur de chaque expérience que nous proposons.",
+      "As a small, family-run company, we spend every day with them — feeding, training, playing, resting, and simply being together.":
+        "En tant que petite entreprise familiale, nous passons chaque jour avec eux : les nourrir, les entraîner, jouer, se reposer et simplement être ensemble.",
+      "You’ve probably read on many websites that “our dogs are more than equipment” or “our dogs are family.” Here, we want to show you what those words truly mean for us in daily life.":
+        "Vous avez probablement lu sur de nombreux sites que « nos chiens sont plus que du matériel » ou que « nos chiens font partie de la famille ». Ici, nous voulons vous montrer ce que ces mots signifient réellement pour nous au quotidien.",
+      "What “family” means to us": "Ce que « famille » signifie pour nous",
+      "For us, calling our dogs family isn’t a slogan — it is how we live with them.":
+        "Pour nous, dire que nos chiens font partie de la famille n'est pas un slogan : c'est notre façon de vivre avec eux.",
+      "We know each dog’s personality, their quirks, their favorite scratch spots, the teammates they prefer to run beside, and how they express excitement or tiredness.":
+        "Nous connaissons la personnalité de chaque chien, ses petites habitudes, ses endroits préférés pour les caresses, les coéquipiers avec lesquels il préfère courir, et sa façon d'exprimer l'excitation ou la fatigue.",
+      "Being small allows us to give every dog real individual attention.":
+        "Notre petite taille nous permet d'accorder une véritable attention individuelle à chaque chien.",
+      "We spend time with them even when no tours are running — playtime, free-running, brushing sessions, warm-up walks, recovery routines and simple quiet moments together.":
+        "Nous passons du temps avec eux même lorsqu'aucune excursion n'a lieu : jeux, course libre, brossage, promenades d'échauffement, routines de récupération et simples moments calmes ensemble.",
+      "Daily choices": "Choix quotidiens",
+      "For us, “family” means:": "Pour nous, « famille » signifie :",
+      "These are the everyday decisions behind the tours: small, practical choices that shape how the dogs live, rest, play and work.":
+        "Ce sont les décisions quotidiennes derrière les excursions : de petits choix pratiques qui façonnent la façon dont les chiens vivent, se reposent, jouent et travaillent.",
+      "Respecting each dog as an individual": "Respecter chaque chien comme un individu",
+      "Listening to their needs and energy levels":
+        "Écouter leurs besoins et leur niveau d'énergie",
+      "Making decisions based on their well-being":
+        "Prendre des décisions basées sur leur bien-être",
+      "Creating a life with freedom, social play, comfort and safety":
+        "Créer une vie faite de liberté, de jeu social, de confort et de sécurité",
+      "Being present with them every day": "Être présents avec eux chaque jour",
+      "Staying committed to them for their entire life":
+        "Rester engagés envers eux toute leur vie",
+      "Nutrition": "Nutrition",
+      "Fuel for Arctic athletes": "Le carburant des athlètes arctiques",
+      "Our dogs receive a high-quality, energy-rich diet tailored specifically for working Arctic sled dogs.":
+        "Nos chiens reçoivent une alimentation de grande qualité, riche en énergie, spécialement adaptée aux chiens de traîneau arctiques de travail.",
+      "We provide premium ingredients to support strong muscles, healthy coats, and stable energy throughout the seasons.":
+        "Nous utilisons des ingrédients de qualité pour soutenir des muscles forts, un pelage sain et une énergie stable tout au long des saisons.",
+      "Their diet is adjusted individually and seasonally — a young energetic dog doesn’t eat the same as a senior or a dog taking a rest day.":
+        "Leur alimentation est ajustée individuellement et selon les saisons : un jeune chien plein d'énergie ne mange pas comme un senior ou un chien en jour de repos.",
+      "We monitor each dog’s body condition closely and adapt portions so every dog stays in perfect shape: never too thin, never too heavy.":
+        "Nous suivons de près la condition physique de chaque chien et adaptons les portions afin que chacun reste en parfaite forme : jamais trop maigre, jamais trop lourd.",
+      "Hydration is just as important. Our dogs have constant access to fresh water, and on training days they receive hydration support such as warm water or electrolytes to help them recover well.":
+        "L'hydratation est tout aussi importante. Nos chiens ont toujours accès à de l'eau fraîche et, les jours d'entraînement, ils reçoivent un soutien d'hydratation comme de l'eau tiède ou des électrolytes pour bien récupérer.",
+      "Housing & environment": "Habitat & environnement",
+      "Warm, safe and stimulating": "Chaud, sûr et stimulant",
+      "Our dogs live in a warm, safe, and stimulating environment designed for their comfort and freedom.":
+        "Nos chiens vivent dans un environnement chaud, sûr et stimulant, conçu pour leur confort et leur liberté.",
+      "A well and full insulated dog house": "Une niche bien et entièrement isolée",
+      "Fresh, clean bedding": "Une litière fraîche et propre",
+      "Protection from wind and snow": "Protection contre le vent et la neige",
+      "Daily cleaning and checkups": "Nettoyage et contrôles quotidiens",
+      "Beyond their homes, our dogs enjoy something quite special: over 25,000 m² of natural forest enclosure where they can run, explore, play in social groups, and simply be dogs.":
+        "Au-delà de leurs niches, nos chiens profitent de quelque chose de très spécial : plus de 25 000 m² d'enclos forestier naturel où ils peuvent courir, explorer, jouer en groupes sociaux et simplement être des chiens.",
+      "This huge space gives them mental stimulation, natural movement, and the freedom they deserve.":
+        "Ce vaste espace leur offre une stimulation mentale, du mouvement naturel et la liberté qu'ils méritent.",
+      "Health, massage & recovery": "Santé, massage & récupération",
+      "Daily care that keeps them strong": "Des soins quotidiens qui les gardent forts",
+      "Caring for hardworking dogs means giving their bodies the recovery they need.":
+        "Prendre soin de chiens travailleurs signifie donner à leur corps la récupération dont il a besoin.",
+      "Gentle muscle massage": "Massage musculaire doux",
+      "Stretching before and after activity": "Étirements avant et après l'activité",
+      "Infrared light therapy for circulation and recovery":
+        "Thérapie par lumière infrarouge pour la circulation et la récupération",
+      "Paw care and regular checks": "Soins des pattes et contrôles réguliers",
+      "Close monitoring of joints, coats, and behaviour":
+        "Suivi attentif des articulations, du pelage et du comportement",
+      "Veterinary support whenever needed": "Soutien vétérinaire dès que nécessaire",
+      "These small daily practices make a big difference, keeping our dogs comfortable, strong, and injury-free.":
+        "Ces petites pratiques quotidiennes font une grande différence et gardent nos chiens confortables, forts et sans blessures.",
+      "Mental stimulation & play": "Stimulation mentale & jeu",
+      "Joy, curiosity and freedom": "Joie, curiosité et liberté",
+      "A good life is not only about physical health — it’s also about joy and curiosity.":
+        "Une bonne vie ne concerne pas seulement la santé physique : elle concerne aussi la joie et la curiosité.",
+      "Our dogs enjoy daily enrichment such as exploring the forest enclosure, social play with compatible friends, spending time with us, and discovering new smells and paths.":
+        "Nos chiens profitent chaque jour d'activités enrichissantes comme explorer l'enclos forestier, jouer avec des compagnons compatibles, passer du temps avec nous et découvrir de nouvelles odeurs et de nouveaux chemins.",
+      "We love seeing them roll in the snow, nap in the sun, race each other for fun, or simply wander quietly through the trees.":
+        "Nous aimons les voir se rouler dans la neige, faire la sieste au soleil, courir ensemble pour le plaisir ou simplement se promener tranquillement entre les arbres.",
+      "These free moments are part of what makes their life rich and fulfilling.":
+        "Ces moments libres font partie de ce qui rend leur vie riche et épanouissante.",
+      "Retirement & lifetime care": "Retraite & soins à vie",
+      "Our responsibility to our dogs doesn’t end when their working life does.":
+        "Notre responsabilité envers nos chiens ne s'arrête pas lorsque leur vie de travail se termine.",
+      "When a dog retires, they stay with us or go to a carefully chosen forever home where they can enjoy a calm, happy life.":
+        "Lorsqu'un chien prend sa retraite, il reste avec nous ou rejoint un foyer choisi avec soin où il peut profiter d'une vie calme et heureuse.",
+      "We honour every dog’s journey — from young enthusiasm to wise old age.":
+        "Nous honorons le parcours de chaque chien, du jeune enthousiasme à la sagesse de l'âge.",
+      "Meet our Pack": "Rencontrez notre meute",
+      "Want to see the faces behind these stories?":
+        "Envie de voir les visages derrière ces histoires ?",
+      "Meet all our dogs here — their names, personalities, roles in the team, and adorable quirks.":
+        "Rencontrez tous nos chiens ici : leurs noms, leurs personnalités, leurs rôles dans l'équipe et leurs adorables particularités.",
+      "Into Nature dog pack": "Meute de chiens Into Nature",
+      "The Queen": "La reine",
+      "The Legend": "La légende",
+      "The Colonel": "Le colonel",
+      "The Unique": "L'unique",
+      "The Magic": "Le magique",
+      "The Machine": "La machine",
+      "The Golden boy": "Le garçon en or",
+      "Boss": "Chef",
+      "The Fabulous": "Le fabuleux",
+      "The clown": "Le clown",
+      "The Tank": "Le tank",
+      "The calm student": "L'élève calme",
+      "The Princess": "La princesse",
+      "The Big guy": "Le grand gars",
+      "The Champion": "Le champion",
+      "The high on caffeine": "L'hyperactif",
+      "The sweet one": "Le doux",
+      "The Viking": "Le viking",
+      "The teddy bear": "L'ours en peluche",
+      "The cutty": "Le malin",
+      "Mister Lova lova": "Monsieur Lova lova",
+      "The wild": "Le sauvage",
+      "The Bad Boy": "Le bad boy",
+      "Thank you for caring": "Merci de vous en soucier",
+      "By choosing a small, transparent company like Into Nature, you support ethical dog sledding in Tromsø.":
+        "En choisissant une petite entreprise transparente comme Into Nature, vous soutenez le traîneau à chiens éthique à Tromsø.",
+      "We’re proud to share our world with you — and even prouder to give our dogs the life they deserve.":
+        "Nous sommes fiers de partager notre monde avec vous, et encore plus fiers d'offrir à nos chiens la vie qu'ils méritent.",
       "Plan your Arctic day with confidence.": "Planifiez votre journée arctique en toute confiance.",
       "Everything you need to know before joining us in Malangen, from transport and clothing to weather, safety and what happens on the day.":
         "Tout ce que vous devez savoir avant de nous rejoindre à Malangen, du transport et des vêtements à la météo, la sécurité et le déroulement de la journée.",
