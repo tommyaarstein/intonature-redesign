@@ -65,6 +65,18 @@ window.IntoNatureLanguages = (() => {
           "Comparez les excursions en traîneau à chiens, les sorties aurores, la pêche sur glace et les raquettes avec Into Nature près de Tromsø.",
       },
     },
+    "dogs.html": {
+      en: {
+        title: "Dogs & Welfare | Into Nature Arctic Adventures",
+        description:
+          "Meet Into Nature's sled dogs and learn what dog wellbeing means at a small family-run kennel near Tromsø.",
+      },
+      fr: {
+        title: "Chiens & bien-être | Into Nature Arctic Adventures",
+        description:
+          "Rencontrez les chiens de traîneau d'Into Nature et découvrez ce que le bien-être canin signifie dans un petit chenil familial près de Tromsø.",
+      },
+    },
   };
 
   const translations = {
@@ -227,6 +239,151 @@ window.IntoNatureLanguages = (() => {
       "This site will later embed the 2izii booking and payment service. Until then, the booking buttons stay internal and do not send visitors to the old Wix site.":
         "Ce site intégrera plus tard le service de réservation et de paiement 2izii. En attendant, les boutons de réservation restent internes et n'envoient pas les visiteurs vers l'ancien site Wix.",
       "Contact Into Nature": "Contacter Into Nature",
+      "Winter Adventures": "Aventures hivernales",
+      "Be the Musher": "Devenez musher",
+      "Remote Malangen Fjord - approx. 90 minutes drive from Tromsø":
+        "Fjord de Malangen isolé - environ 90 minutes de route depuis Tromsø",
+      "Location": "Lieu",
+      "Max capacity": "Capacité maximale",
+      "Service Description": "Description du service",
+      "Important": "Important",
+      "This service is not available, please contact for more information.":
+        "Ce service n'est pas disponible, veuillez nous contacter pour plus d'informations.",
+      "Terms and conditions": "Conditions générales",
+      "Join our dog sledding adventure on the beautiful Malangen Fjord peninsula, where you'll drive your own team of eager Alaskan huskies through quiet forest trails and open landscapes.":
+        "Rejoignez notre aventure en traîneau à chiens sur la magnifique péninsule du fjord de Malangen, où vous conduirez votre propre attelage de huskies d'Alaska enthousiastes à travers des sentiers forestiers paisibles et de grands paysages ouverts.",
+      "This is a small-group experience that offers a calm, personal encounter with our dogs and the Arctic wilderness.":
+        "C'est une expérience en petit groupe qui offre une rencontre calme et personnelle avec nos chiens et la nature arctique.",
+      "Before starting the tour, you'll receive clear instructions on how to handle the sled, how to brake, and how to work with your husky team. Once we're ready, you'll head out on the trail for a peaceful ride surrounded by snow-covered mountains and pure winter silence.":
+        "Avant de commencer l'excursion, vous recevrez des instructions claires pour manier le traîneau, freiner et travailler avec votre attelage de huskies. Une fois prêts, vous partirez sur la piste pour une sortie paisible entourée de montagnes enneigées et du silence pur de l'hiver.",
+      "Warm clothing and winter boots": "Vêtements chauds et bottes d'hiver",
+      "Drink/snack": "Boisson/en-cas",
+      "Dogyard visit": "Visite du chenil",
+      "Dogsledding": "Traîneau à chiens",
+      "Firecamp": "Camp autour du feu",
+      "Cuddling dogs": "Moments avec les chiens",
+      "We provide warm clothing and winter boots, to stay comfortable during the excursion.":
+        "Nous fournissons des vêtements chauds et des bottes d'hiver pour rester confortable pendant l'excursion.",
+      "Don't forget to bring your own hat an winter gloves / mittens.":
+        "N'oubliez pas d'apporter votre propre bonnet et des gants / moufles d'hiver.",
+      "Group size: max 6-8 guests ( For bigger group, please send us an email).":
+        "Taille du groupe : max. 6-8 personnes (pour un groupe plus grand, veuillez nous envoyer un e-mail).",
+      "Skill level: This tour requires basic fitness and the ability to balance on the sled. There are a few gentle uphills where you will need to help the dogs by stepping or pushing.":
+        "Niveau requis : cette excursion demande une condition physique de base et la capacité de garder l'équilibre sur le traîneau. Il y a quelques montées douces où vous devrez aider les chiens en marchant ou en poussant.",
+      "Duration: approx. 3 hours (1 hour dog sledding)":
+        "Durée : environ 3 heures (1 heure de traîneau à chiens)",
+      "Transport from Tromsø is not included. Most guests choose to drive themselves, or you can come with a taxi.":
+        "Le transport depuis Tromsø n'est pas inclus. La plupart des clients choisissent de venir avec leur propre voiture, ou vous pouvez venir en taxi.",
+      "If you're looking for an authentic dogsledding experience away from the big crowds around Tromsø, this tour is perfect for you.":
+        "Si vous cherchez une expérience authentique de traîneau à chiens loin des grandes foules autour de Tromsø, cette excursion est parfaite pour vous.",
+      "PLEASE READ OUR TERMS AND CONDITIONS BEFORE BOOKING:":
+        "VEUILLEZ LIRE NOS CONDITIONS GÉNÉRALES AVANT DE RÉSERVER :",
+      "Embark on a Magical Dog Sledding Adventure Under the Northern Lights!":
+        "Embarquez pour une aventure magique en traîneau à chiens sous les aurores boréales !",
+      "Step into the magic of winter with our guided dog sledding adventure.":
+        "Entrez dans la magie de l'hiver avec notre aventure guidée en traîneau à chiens.",
+      "Sit back in the sled, wrapped up warmly, while our guides handle the driving, using a large team of our racing huskies. This means you'll experience more speed and excitement as the dogs race through the trails, giving you an exhilarating ride through the snow-covered wilderness.":
+        "Installez-vous confortablement dans le traîneau, bien au chaud, pendant que nos guides conduisent avec un grand attelage de nos huskies de course. Vous vivrez ainsi plus de vitesse et d'intensité lorsque les chiens parcourent les pistes, pour une sortie exaltante dans la nature enneigée.",
+      "And As we glide through the serene landscape, you'll feel the peacefulness of nature all around...":
+        "Et tandis que nous glissons à travers ce paysage serein, vous ressentirez la paix de la nature tout autour de vous...",
+      "As night falls, we'll keep our eyes on the sky, hoping to catch a glimpse of the spectacular Northern Lights.":
+        "À la tombée de la nuit, nous garderons les yeux tournés vers le ciel, dans l'espoir d'apercevoir les spectaculaires aurores boréales.",
+      "While we can't promise they'll appear, the experience of being out in the crisp evening air, surrounded by snow and stars, is something you won't soon forget.":
+        "Même si nous ne pouvons pas promettre qu'elles apparaîtront, l'expérience d'être dehors dans l'air frais du soir, entouré de neige et d'étoiles, est quelque chose que vous n'oublierez pas de sitôt.",
+      "Whether you're looking for a cozy ride through winter's beauty or the thrill of spotting the Aurora Borealis, this is a perfect way to enjoy an Arctic evening.":
+        "Que vous recherchiez une sortie confortable dans la beauté de l'hiver ou le frisson d'observer les aurores boréales, c'est une façon idéale de profiter d'une soirée arctique.",
+      "Guided dog sledding adventure": "Aventure guidée en traîneau à chiens",
+      "Sit back in the sled while our guides handle the driving":
+        "Installez-vous dans le traîneau pendant que nos guides conduisent",
+      "A large team of our racing huskies": "Un grand attelage de nos huskies de course",
+      "Evening ride through the snow-covered wilderness":
+        "Sortie en soirée à travers la nature enneigée",
+      "We can't promise the Northern Lights will appear.":
+        "Nous ne pouvons pas promettre que les aurores boréales apparaîtront.",
+      "The experience takes place in the crisp evening air, surrounded by snow and stars.":
+        "L'expérience se déroule dans l'air frais du soir, entouré de neige et d'étoiles.",
+      "This tour is for guests looking for winter beauty or the thrill of spotting the Aurora Borealis.":
+        "Cette excursion s'adresse aux clients qui recherchent la beauté de l'hiver ou le frisson d'observer les aurores boréales.",
+      "Important: Please note that transportation to and from this activity is not included!":
+        "Important : veuillez noter que le transport vers et depuis cette activité n'est pas inclus !",
+      "Dog sledding Expeditions": "Expéditions en traîneau à chiens",
+      "Sledding Time: Approx. 5 hours, Total activity duration: 6 hours":
+        "Temps en traîneau : environ 5 heures, durée totale de l'activité : 6 heures",
+      "Max capacity 4 people.": "Capacité maximale : 4 personnes.",
+      "We meet at our place: Skutvikveien 186, 9055 Mestervik":
+        "Nous nous retrouvons chez nous : Skutvikveien 186, 9055 Mestervik",
+      "After welcoming you and equipped you with winter boots and oversuit if needed,":
+        "Après vous avoir accueillis et équipés de bottes d'hiver et d'une combinaison si nécessaire,",
+      "We introduce you to our dogs, and teach you how to drive a sledge safely.":
+        "Nous vous présentons nos chiens et vous apprenons à conduire un traîneau en toute sécurité.",
+      "We'll harness the dogs, bring them to the teams and off we go...":
+        "Nous harnacherons les chiens, les placerons dans les attelages, puis nous partirons...",
+      "Winter boots and oversuit if needed":
+        "Bottes d'hiver et combinaison si nécessaire",
+      "Instruction on how to drive a sledge safely":
+        "Instructions pour conduire un traîneau en toute sécurité",
+      "Campfire, light meal and hot drinks":
+        "Feu de camp, repas léger et boissons chaudes",
+      "Snack and hot drink in our traditional Lavvo":
+        "En-cas et boisson chaude dans notre lavvo traditionnel",
+      "1 guest per sled: Only driver.": "1 client par traîneau : conducteur uniquement.",
+      "We run on our own trails, and will go through forests, hills, lakes and rivers in our beautiful winter landscape.":
+        "Nous circulons sur nos propres pistes et traversons forêts, collines, lacs et rivières dans notre magnifique paysage hivernal.",
+      "Half way we will stop to make a campfire and enjoy a light meal and some hot drinks with a beautiful scenery on mountains peaks and fjords.":
+        "À mi-chemin, nous nous arrêterons pour faire un feu de camp et profiter d'un repas léger et de boissons chaudes avec une belle vue sur les sommets et les fjords.",
+      "When we come back, we let the dogs run free again in the dogyard and give them a well-deserved snack.":
+        "À notre retour, nous laisserons les chiens courir librement à nouveau dans le chenil et leur donnerons un en-cas bien mérité.",
+      "3 hr": "3 h",
+      "4 people": "4 personnes",
+      "8 people": "8 personnes",
+      "Approx. 5 hours": "Environ 5 heures",
+      "6 hours": "6 heures",
+      "NOK 2,490": "NOK 2,490",
+      "NOK 3,690": "NOK 3,690",
+      "NOK 8,000": "NOK 8,000",
+      "NOK 1,995": "NOK 1,995",
+      "NOK 1,650": "NOK 1,650",
+      "Start time: 10:30 AM": "Heure de départ : 10h30",
+      "Duration: 3-4 hours": "Durée : 3-4 heures",
+      "Max capacity 8 people": "Capacité maximale : 8 personnes",
+      "We meet at our camp in the morning to make the most of the daylight.":
+        "Nous nous retrouvons à notre camp le matin pour profiter au maximum de la lumière du jour.",
+      "The day consist of a snowhoes hike through a snow-covered forest to reach our beautiful and frozen lake.":
+        "La journée consiste en une randonnée en raquettes à travers une forêt enneigée pour rejoindre notre magnifique lac gelé.",
+      "At the camp place, you will learn the art of drilling through the ice, setting up your fishing gear, and trying your luck at catching fish beneath the frozen surface.":
+        "Sur le lieu du camp, vous apprendrez l'art de percer la glace, d'installer votre matériel de pêche et de tenter votre chance pour attraper du poisson sous la surface gelée.",
+      "It's a fun and educational experience for everyone.":
+        "C'est une expérience amusante et éducative pour tous.",
+      "Snowhoes hike through a snow-covered forest":
+        "Randonnée en raquettes à travers une forêt enneigée",
+      "Ice fishing at our beautiful and frozen lake":
+        "Pêche sur glace sur notre magnifique lac gelé",
+      "Learn the art of drilling through the ice":
+        "Apprendre l'art de percer la glace",
+      "Setting up your fishing gear": "Installer votre matériel de pêche",
+      "Hot drink, snack and marshmallows around a crackling bonfire":
+        "Boisson chaude, en-cas et marshmallows autour d'un feu crépitant",
+      "At the camp place, you will try your luck at catching fish beneath the frozen surface.":
+        "Sur le lieu du camp, vous tenterez votre chance pour attraper du poisson sous la surface gelée.",
+      "It's the perfect opportunity to relax and connect with your loved ones.":
+        "C'est l'occasion parfaite de se détendre et de partager un moment avec vos proches.",
+      "The day consist of a snowhoes hike through a snow-covered, frozen lake, small hills .":
+        "La journée consiste en une randonnée en raquettes à travers un lac gelé enneigé et de petites collines.",
+      "During the hike you will learn more about the Arctic nature, the wildlife around us and mainly enjoy the beautiful landscape of Malangen peninsula.":
+        "Pendant la randonnée, vous en apprendrez davantage sur la nature arctique, la faune autour de nous, et profiterez surtout du magnifique paysage de la péninsule de Malangen.",
+      "Snowhoes hike through a snow-covered, frozen lake, small hills .":
+        "Randonnée en raquettes à travers un lac gelé enneigé et de petites collines.",
+      "Learn more about the Arctic nature and the wildlife around us":
+        "En apprendre davantage sur la nature arctique et la faune autour de nous",
+      "Enjoy the beautiful landscape of Malangen peninsula":
+        "Profiter du magnifique paysage de la péninsule de Malangen",
+      "Stop and make a crackling bonfire": "Faire une pause et allumer un feu crépitant",
+      "Hot drink, snack and marshmallows":
+        "Boisson chaude, en-cas et marshmallows",
+      "During the hike, we will have a stop and make a crackling bonfire.":
+        "Pendant la randonnée, nous ferons une pause pour allumer un feu crépitant.",
+      "Warm up with a hot drink and enjoy a snack while sharing stories and roasting marshmallows.":
+        "Réchauffez-vous avec une boisson chaude et profitez d'un en-cas en partageant des histoires et en faisant griller des marshmallows.",
 
       "Small groups": "Petits groupes",
       "A calmer experience and more time with the guide and dogs.":

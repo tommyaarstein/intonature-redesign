@@ -1357,6 +1357,7 @@ footer a {
 .activity-columns {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
   gap: 16px;
   margin-bottom: 26px;
 }
@@ -1437,6 +1438,273 @@ footer a {
   margin-top: 24px;
 }
 
+.dogs-page {
+  background: var(--snow);
+}
+
+.dogs-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 0.92fr) minmax(360px, 0.78fr);
+  gap: clamp(34px, 6vw, 90px);
+  align-items: center;
+  padding: 154px clamp(20px, 6vw, 86px) 86px;
+  background:
+    linear-gradient(90deg, var(--white), rgba(238, 244, 242, 0.72));
+}
+
+.dogs-hero-copy {
+  max-width: 850px;
+  min-width: 0;
+}
+
+.dogs-hero h1,
+.welfare-intro h2,
+.welfare-principles h2,
+.welfare-section h2,
+.retirement-band h2,
+.pack-heading h2,
+.thank-you-band h2 {
+  margin-bottom: 18px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.dogs-hero h1 {
+  color: var(--ink);
+  font-size: clamp(48px, 7.5vw, 96px);
+  margin-top: 0;
+  overflow-wrap: anywhere;
+}
+
+.dogs-hero p,
+.welfare-intro p,
+.welfare-section p,
+.retirement-band p,
+.pack-heading p,
+.thank-you-band p {
+  color: var(--muted);
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+.dogs-hero-image {
+  min-height: 620px;
+  border-radius: 8px;
+  background:
+    linear-gradient(0deg, rgba(12, 34, 34, 0.18), rgba(12, 34, 34, 0)),
+    url("../assets/intonature-story.jpg") center / cover;
+  box-shadow: var(--shadow);
+}
+
+.welfare-intro,
+.retirement-band {
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(320px, 0.85fr);
+  gap: clamp(34px, 6vw, 86px);
+  padding: clamp(70px, 8vw, 112px) clamp(20px, 6vw, 86px);
+  background: var(--snow);
+}
+
+.welfare-intro > *,
+.welfare-principles > *,
+.welfare-section > *,
+.retirement-band > *,
+.pack-section > *,
+.thank-you-band > * {
+  min-width: 0;
+}
+
+.welfare-intro h2,
+.retirement-band h2 {
+  font-size: clamp(36px, 5vw, 68px);
+}
+
+.welfare-intro-text {
+  max-width: 700px;
+}
+
+.welfare-principles {
+  display: grid;
+  grid-template-columns: minmax(280px, 0.56fr) minmax(0, 1fr);
+  gap: clamp(30px, 5vw, 76px);
+  align-items: start;
+  padding: clamp(70px, 8vw, 112px) clamp(20px, 6vw, 86px);
+  background:
+    linear-gradient(135deg, rgba(15, 75, 69, 0.08), rgba(255, 255, 255, 0.76) 42%),
+    #edf5f2;
+  color: var(--ink);
+}
+
+.principle-copy {
+  max-width: 520px;
+}
+
+.welfare-principles .section-note {
+  color: var(--teal);
+}
+
+.welfare-principles h2 {
+  color: var(--ink);
+  font-size: clamp(36px, 5vw, 64px);
+  overflow-wrap: anywhere;
+}
+
+.principle-copy p {
+  color: var(--muted);
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+.principle-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.principle-grid article {
+  display: grid;
+  grid-template-columns: 46px minmax(0, 1fr);
+  gap: 14px;
+  align-items: start;
+  min-height: 132px;
+  border: 1px solid rgba(11, 45, 41, 0.12);
+  border-radius: 8px;
+  padding: clamp(18px, 2vw, 24px);
+  background: rgba(255, 255, 255, 0.82);
+  box-shadow: 0 18px 42px rgba(11, 45, 41, 0.07);
+}
+
+.principle-grid span {
+  display: grid;
+  width: 38px;
+  height: 38px;
+  place-items: center;
+  border-radius: 999px;
+  background: rgba(15, 75, 69, 0.1);
+  color: var(--teal);
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.principle-grid strong {
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(20px, 2vw, 30px);
+  font-weight: 500;
+  line-height: 1.12;
+  overflow-wrap: anywhere;
+}
+
+.welfare-section {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  padding: clamp(70px, 8vw, 112px) clamp(20px, 6vw, 86px);
+  background: var(--white);
+}
+
+.welfare-section-alt {
+  background: #e7f0ed;
+}
+
+.welfare-section article {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: clamp(24px, 4vw, 44px);
+  background: rgba(255, 255, 255, 0.78);
+}
+
+.welfare-section h2 {
+  font-size: clamp(32px, 4vw, 52px);
+}
+
+.welfare-section ul {
+  display: grid;
+  gap: 10px;
+  margin: 20px 0;
+  padding-left: 20px;
+  color: var(--muted);
+  font-size: 16px;
+  line-height: 1.55;
+}
+
+.retirement-band {
+  align-items: center;
+  background:
+    linear-gradient(90deg, rgba(255, 255, 255, 0.94), rgba(255, 255, 255, 0.68)),
+    url("../assets/intonature-tour-2.jpg") center / cover;
+}
+
+.pack-section {
+  padding: clamp(70px, 8vw, 112px) clamp(20px, 6vw, 86px);
+  background: var(--snow);
+}
+
+.pack-heading {
+  max-width: 860px;
+  margin-bottom: 38px;
+}
+
+.pack-heading h2 {
+  font-size: clamp(36px, 5vw, 68px);
+}
+
+.pack-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.pack-grid article {
+  min-height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 18px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.9), rgba(238, 244, 242, 0.68));
+  box-shadow: 0 14px 34px rgba(16, 32, 31, 0.06);
+}
+
+.pack-grid span {
+  color: var(--teal);
+  font-size: 12px;
+  font-weight: 900;
+  line-height: 1.25;
+  text-transform: uppercase;
+}
+
+.pack-grid strong {
+  margin-top: 32px;
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.thank-you-band {
+  padding: clamp(70px, 8vw, 112px) clamp(20px, 6vw, 86px);
+  background: var(--pine);
+  color: var(--white);
+  text-align: center;
+}
+
+.thank-you-band h2 {
+  color: var(--white);
+  font-size: clamp(38px, 5vw, 72px);
+}
+
+.thank-you-band p {
+  max-width: 780px;
+  margin-right: auto;
+  margin-left: auto;
+  color: rgba(255, 255, 255, 0.78);
+}
+
 @media (max-width: 980px) {
   .nav-links {
     display: none;
@@ -1508,6 +1776,26 @@ footer a {
 
   .activity-section:nth-of-type(even) .activity-media {
     order: 0;
+  }
+
+  .dogs-hero,
+  .welfare-intro,
+  .welfare-principles,
+  .welfare-section,
+  .retirement-band {
+    grid-template-columns: 1fr;
+  }
+
+  .dogs-hero {
+    padding-top: 124px;
+  }
+
+  .dogs-hero-image {
+    min-height: 460px;
+  }
+
+  .pack-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
@@ -1715,6 +2003,57 @@ footer a {
 
   .activity-content .button {
     width: 100%;
+  }
+
+  .dogs-hero,
+  .welfare-intro,
+  .welfare-principles,
+  .welfare-section,
+  .retirement-band,
+  .pack-section,
+  .thank-you-band {
+    padding: 58px 16px;
+  }
+
+  .dogs-hero {
+    padding-top: 112px;
+  }
+
+  .dogs-hero h1 {
+    font-size: 42px;
+    margin-top: 0;
+  }
+
+  .welfare-intro h2,
+  .welfare-principles h2,
+  .welfare-section h2,
+  .retirement-band h2,
+  .pack-heading h2,
+  .thank-you-band h2 {
+    overflow-wrap: anywhere;
+  }
+
+  .dogs-hero-image {
+    min-height: 360px;
+  }
+
+  .pack-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .pack-grid article {
+    min-height: 126px;
+  }
+
+  .principle-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .principle-grid article {
+    grid-template-columns: 42px minmax(0, 1fr);
+    gap: 16px;
+    min-height: auto;
+    padding: 18px;
   }
 
   .reviews-section {
