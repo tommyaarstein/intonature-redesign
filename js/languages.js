@@ -372,8 +372,8 @@ window.IntoNatureLanguages = (() => {
         "La journée consiste en une randonnée en raquettes à travers un lac gelé enneigé et de petites collines.",
       "During the hike you will learn more about the Arctic nature, the wildlife around us and mainly enjoy the beautiful landscape of Malangen peninsula.":
         "Pendant la randonnée, vous en apprendrez davantage sur la nature arctique, la faune autour de nous, et profiterez surtout du magnifique paysage de la péninsule de Malangen.",
-      "Snowhoes hike through a snow-covered, frozen lake, small hills .":
-        "Randonnée en raquettes à travers un lac gelé enneigé et de petites collines.",
+      "Snowshoe hike through a snow-covered landscape with a frozen lake and small hills":
+        "Randonnée en raquettes à travers un paysage enneigé avec un lac gelé et de petites collines.",
       "Learn more about the Arctic nature and the wildlife around us":
         "En apprendre davantage sur la nature arctique et la faune autour de nous",
       "Enjoy the beautiful landscape of Malangen peninsula":
