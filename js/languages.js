@@ -109,6 +109,7 @@ window.IntoNatureLanguages = (() => {
       "Into Nature on Instagram": "Into Nature sur Instagram",
       "Into Nature on Facebook": "Into Nature sur Facebook",
 
+      "Home": "Accueil",
       "Adventures": "Aventures",
       "Dogs & Welfare": "Chiens & bien-être",
       "About": "À propos",
