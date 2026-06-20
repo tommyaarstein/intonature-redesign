@@ -8,7 +8,7 @@ window.IntoNatureLanguages = (() => {
       toggleAria: "Switch language to French",
     },
     fr: {
-      label: "français",
+      label: "fran\u00e7ais",
       shortLabel: "FR",
       nextLabel: "EN",
       htmlLang: "fr",
@@ -75,6 +75,30 @@ window.IntoNatureLanguages = (() => {
         title: "Chiens & bien-être | Into Nature Arctic Adventures",
         description:
           "Rencontrez les chiens de traîneau d'Into Nature et découvrez ce que le bien-être canin signifie dans un petit chenil familial près de Tromsø.",
+      },
+    },
+    "about.html": {
+      en: {
+        title: "About Into Nature | Arctic Adventures near Tromso",
+        description:
+          "Meet Into Nature, a small family-run kennel and Arctic adventure company in Malangen near Tromso.",
+      },
+      fr: {
+        title: "A propos d'Into Nature | Aventures arctiques pres de Tromso",
+        description:
+          "Rencontrez Into Nature, un petit chenil familial et une entreprise d'aventures arctiques a Malangen pres de Tromso.",
+      },
+    },
+    "gallery.html": {
+      en: {
+        title: "Arctic Moments | Into Nature Gallery",
+        description:
+          "A visual gallery from Into Nature: dog sledding, northern lights, racing, kennel life and Arctic landscapes in Malangen.",
+      },
+      fr: {
+        title: "Moments arctiques | Galerie Into Nature",
+        description:
+          "Une galerie visuelle d'Into Nature : traineau a chiens, aurores boreales, courses, vie au chenil et paysages arctiques a Malangen.",
       },
     },
   };
@@ -415,6 +439,168 @@ window.IntoNatureLanguages = (() => {
       "Guests mention the dogs, calm guiding and personal feeling as reasons the experience stands out.":
         "Les clients mentionnent les chiens, l'accompagnement calme et l'ambiance personnelle comme raisons qui rendent l'expérience unique.",
       "Dogs & welfare": "Chiens & bien-être",
+      "About Into Nature": "A propos d'Into Nature",
+      "A life built around dogs, nature and the Arctic.":
+        "Une vie construite autour des chiens, de la nature et de l'Arctique.",
+      "Into Nature is a small, family-run kennel and outdoor company in Malangen. The work is simple at heart: care for the dogs, live close to nature and invite guests into honest Arctic experiences.":
+        "Into Nature est un petit chenil familial et une entreprise de plein air a Malangen. L'essentiel est simple : prendre soin des chiens, vivre pres de la nature et inviter les visiteurs a vivre des experiences arctiques sinceres.",
+      "Our story": "Notre histoire",
+      "From one dream to a working husky kennel.":
+        "D'un reve a un chenil de huskies en activite.",
+      "Quentin came from France to Norway in 2008, drawn north by wilderness, dogs and adventure. He began working as a sled dog handler in 2010 and guided guests in Northern Norway and Svalbard before building Into Nature.":
+        "Quentin est arrive de France en Norvege en 2008, attire par la nature sauvage, les chiens et l'aventure. Il a commence a travailler comme handler de chiens de traineau en 2010 et a guide des visiteurs dans le nord de la Norvege et au Svalbard avant de creer Into Nature.",
+      "The first four dogs arrived in 2013. Since then the kennel has grown slowly and personally, shaped by daily care, training, guiding and a belief that small groups create better experiences for guests and dogs.":
+        "Les quatre premiers chiens sont arrives en 2013. Depuis, le chenil a grandi lentement et personnellement, avec les soins quotidiens, l'entrainement, le guidage et la conviction que les petits groupes creent de meilleures experiences pour les visiteurs et les chiens.",
+      "What defines Into Nature": "Ce qui definit Into Nature",
+      "Dogs first": "Les chiens d'abord",
+      "The dogs are family and working partners. Their wellbeing shapes the pace, the tours and the decisions.":
+        "Les chiens sont la famille et des partenaires de travail. Leur bien-etre influence le rythme, les excursions et les decisions.",
+      "Small by choice": "Petit par choix",
+      "Small groups make the experience calmer, more personal and closer to the landscape around Malangen.":
+        "Les petits groupes rendent l'experience plus calme, plus personnelle et plus proche des paysages autour de Malangen.",
+      "Real Arctic life": "La vraie vie arctique",
+      "Guests step into the life of a working kennel, not a rushed stop on a crowded route.":
+        "Les visiteurs entrent dans la vie d'un chenil en activite, pas dans un arret presse sur un itineraire bonde.",
+      "Long distance racing": "Course longue distance",
+      "Crazy mushing, steady care and thousands of quiet kilometres.":
+        "Mushing engage, soins constants et des milliers de kilometres silencieux.",
+      "Long distance dog sledding is part of Into Nature's identity. The races demand patience, trust, preparation and a deep understanding of every dog in the team.":
+        "Le traineau a chiens longue distance fait partie de l'identite d'Into Nature. Les courses demandent patience, confiance, preparation et une comprehension profonde de chaque chien de l'equipe.",
+      "Quentin has been involved with sled dogs since 2010 and has raced in long distance events such as Finnmarkslopet and Femundlopet. That experience feeds directly back into the kennel: training, nutrition, rest, recovery and respect for each dog's limits.":
+        "Quentin travaille avec les chiens de traineau depuis 2010 et a participe a des courses longue distance comme la Finnmarkslopet et la Femundlopet. Cette experience revient directement au chenil : entrainement, nutrition, repos, recuperation et respect des limites de chaque chien.",
+      "Meet the dogs": "Rencontrer les chiens",
+      "Arctic moments": "Moments arctiques",
+      "See the places, dogs and quiet details behind the tours.":
+        "Decouvrez les lieux, les chiens et les petits details derriere les excursions.",
+      "Open gallery": "Ouvrir la galerie",
+      "Small glimpses from life in Malangen.":
+        "Petits apercus de la vie a Malangen.",
+      "Dogs, northern lights, racing, camp life and quiet wilderness details. This is the visual side of Into Nature.":
+        "Chiens, aurores boreales, courses, vie au camp et details paisibles de la nature sauvage. Voici le cote visuel d'Into Nature.",
+      "Into Nature image gallery": "Galerie photo Into Nature",
+      "Dog sledding": "Traineau a chiens",
+      "Aurora nights": "Nuits d'aurores",
+      "Malangen": "Malangen",
+      "Trail days": "Jours de piste",
+      "Winter camp": "Camp d'hiver",
+      "Husky snowshoes": "Raquettes avec huskies",
+      "Race training": "Entrainement de course",
+      "At camp": "Au camp",
+      "Kennel life": "Vie au chenil",
+      "Want to experience this in person?": "Envie de vivre cela en personne ?",
+      "Choose an adventure": "Choisir une aventure",
+      "Into Nature was born from a simple idea: building a life around sled dogs, nature, and genuine outdoor experiences.":
+        "Into Nature est ne d'une idee simple : construire une vie autour des chiens de traineau, de la nature et d'experiences authentiques en plein air.",
+      "A path that eventually led north.":
+        "Un chemin qui a fini par mener vers le nord.",
+      "I am Quentin, originally from Belgium, but my path eventually led me north.":
+        "Je suis Quentin, originaire de Belgique, mais mon chemin m'a finalement mene vers le nord.",
+      "For many years I travelled in search of adventure, working with sled dogs, exploring remote wilderness areas, and challenging myself through long-distance expeditions. Along the way I spent time in countries such as Canada, Finland, Russia and Nepal, always drawn to wild places and life outdoors.":
+        "Pendant de nombreuses annees, j'ai voyage a la recherche d'aventure, travaille avec des chiens de traineau, explore des regions sauvages et reculees, et releve des defis lors d'expeditions longue distance. En chemin, j'ai passe du temps dans des pays comme le Canada, la Finlande, la Russie et le Nepal, toujours attire par les lieux sauvages et la vie dehors.",
+      "Yet it was Norway that truly felt like home.":
+        "Pourtant, c'est la Norvege qui m'a vraiment donne le sentiment d'etre chez moi.",
+      "After returning to Northern Norway to work with sled dogs, I met the person who would change my life. Together, we bought an old farm on the Malangen Peninsula and began building what would become Into Nature.":
+        "Apres etre revenu dans le nord de la Norvege pour travailler avec des chiens de traineau, j'ai rencontre la personne qui allait changer ma vie. Ensemble, nous avons achete une vieille ferme sur la peninsule de Malangen et commence a construire ce qui deviendrait Into Nature.",
+      "What started as a dream slowly became reality: our own kennel, our own dogs, and a life centred around the Arctic wilderness.":
+        "Ce qui avait commence comme un reve est lentement devenu realite : notre propre chenil, nos propres chiens et une vie centree sur la nature sauvage arctique.",
+      "The dogs remain at the heart": "Les chiens restent au coeur",
+      "Today, the dogs remain at the heart of everything we do. Tourism is not the reason we have dogs. In many ways, it is the opposite. Sharing our life with guests allows us to continue caring for the dogs, training them, racing them, and dedicating ourselves fully to this lifestyle.":
+        "Aujourd'hui, les chiens restent au coeur de tout ce que nous faisons. Le tourisme n'est pas la raison pour laquelle nous avons des chiens. A bien des egards, c'est l'inverse. Partager notre vie avec des visiteurs nous permet de continuer a prendre soin des chiens, les entrainer, courir avec eux et nous consacrer pleinement a ce mode de vie.",
+      "Exceptional dog care": "Des soins exceptionnels pour les chiens",
+      "Our kennel is built around the belief that great dog sledding starts with exceptional dog care. Every dog receives individual attention, quality nutrition, structured training, and daily care. Their wellbeing is our highest priority and shapes every decision we make.":
+        "Notre chenil repose sur la conviction qu'un excellent traineau a chiens commence par des soins exceptionnels. Chaque chien recoit une attention individuelle, une alimentation de qualite, un entrainement structure et des soins quotidiens. Leur bien-etre est notre priorite absolue et guide chacune de nos decisions.",
+      "Intentionally small": "Intentionnellement petit",
+      "Into Nature is intentionally small. We prefer personal experiences over large groups, meaningful encounters over mass tourism, and quality over quantity.":
+        "Into Nature est volontairement petit. Nous preferons les experiences personnelles aux grands groupes, les rencontres significatives au tourisme de masse, et la qualite a la quantite.",
+      "Daily life": "Vie quotidienne",
+      "A small part of the Arctic world we call home.":
+        "Une petite partie du monde arctique que nous appelons chez nous.",
+      "Beyond our tours, we remain deeply involved in long-distance mushing. Racing teaches patience, humility, and an incredible respect for the dogs. Over the years we have competed in events such as Finnmarksløpet, including the demanding 1200 km race, constantly learning and growing alongside our team.":
+        "Au-dela de nos excursions, nous restons profondement impliques dans le mushing longue distance. La course enseigne la patience, l'humilite et un immense respect pour les chiens. Au fil des ans, nous avons participe a des evenements comme la Finnmarkslopet, y compris l'exigeante course de 1200 km, en apprenant et en evoluant constamment aux cotes de notre equipe.",
+      "When you visit us, you are not simply joining an activity.":
+        "Lorsque vous nous rendez visite, vous ne participez pas simplement a une activite.",
+      "You are stepping into our daily life, meeting the dogs that make it possible, and experiencing a small part of the Arctic world we are fortunate to call home.":
+        "Vous entrez dans notre vie quotidienne, rencontrez les chiens qui la rendent possible et decouvrez une petite partie du monde arctique que nous avons la chance d'appeler notre maison.",
+      "We look forward to welcoming you.":
+        "Nous avons hate de vous accueillir.",
+      "Crazy Mushing is the name for our Long Distance Racing Dogyard.":
+        "Crazy Mushing est le nom de notre chenil de course longue distance.",
+      "Long distance mushing competitions are a test of endurance, skill, and teamwork between mushers and their sled dogs. These competitions can cover hundreds of kilometers across remote, rugged terrain, challenging both the physical and mental capabilities of the participants.":
+        "Les competitions de mushing longue distance sont un test d'endurance, de competence et de travail d'equipe entre les mushers et leurs chiens de traineau. Elles peuvent couvrir des centaines de kilometres a travers des terrains recules et difficiles, mettant a l'epreuve les capacites physiques et mentales des participants.",
+      "We do participate to the longest race in Europe, The Finnmarksløpet.":
+        "Nous participons a la plus longue course d'Europe, la Finnmarkslopet.",
+      "The bond between the musher and their dogs is crucial in long distance mushing, as they work together to navigate through the unpredictable conditions of the wilderness. This partnership requires a deep understanding of each other's strengths and weaknesses, and an unbreakable trust between them.":
+        "Le lien entre le musher et ses chiens est essentiel en mushing longue distance, car ils travaillent ensemble pour traverser les conditions imprevisibles de la nature sauvage. Ce partenariat exige une profonde comprehension des forces et faiblesses de chacun, ainsi qu'une confiance indefectible.",
+      "The stunning natural beauty of the landscapes that these competitions traverse is a breathtaking sight to behold. The icy tundras, snow-capped mountains, and frozen lakes create a surreal and almost otherworldly atmosphere. The quiet solitude of the wilderness is only broken by the sound of sled runners gliding over the snow, and the harmonious barking of the dogs.":
+        "La beaute naturelle des paysages traverses par ces competitions est a couper le souffle. Les toundras glacees, les montagnes enneigees et les lacs geles creent une atmosphere presque surnaturelle. Le silence de la nature sauvage n'est rompu que par le bruit des patins du traineau sur la neige et les aboiements harmonieux des chiens.",
+      "Despite the grueling nature of the competition, the spirit of camaraderie and sportsmanship is ever-present. Competitors often help each other out on the trail, sharing food and supplies, and lending a helping hand whenever necessary. The shared love and respect for the sled dogs, and the wilderness they traverse, create a sense of community among the participants.":
+        "Malgre la durete de la competition, l'esprit de camaraderie et de sportivite est toujours present. Les concurrents s'aident souvent sur la piste, partagent nourriture et materiel, et donnent un coup de main lorsque c'est necessaire. L'amour et le respect communs pour les chiens de traineau et les espaces sauvages traverses creent un vrai sentiment de communaute.",
+      "In the end, the long distance mushing competition is a celebration of the bond between humans and animals, the beauty of nature, and the human spirit of perseverance and endurance. It is a true testament to the resilience and adaptability of both humans and animals, and a reminder of the power of teamwork and unity.":
+        "Au final, la competition de mushing longue distance celebre le lien entre les humains et les animaux, la beaute de la nature et l'esprit humain de perseverance et d'endurance. Elle temoigne de la resilience et de l'adaptabilite des humains comme des animaux, et rappelle la force du travail d'equipe et de l'unite.",
+      "For us, dog sledding is more than a winter activity.":
+        "Pour nous, le traineau a chiens est bien plus qu'une activite hivernale.",
+      "It is a year-round commitment built on training, preparation, trust, and an extraordinary partnership between musher and dogs.":
+        "C'est un engagement toute l'annee, fonde sur l'entrainement, la preparation, la confiance et un partenariat extraordinaire entre le musher et les chiens.",
+      "Long-distance racing is where those values are put to the test.":
+        "La course longue distance est l'endroit ou ces valeurs sont mises a l'epreuve.",
+      "The lessons we learn on the trail shape how we train our dogs, care for them, and guide the experiences we share with our guests.":
+        "Les lecons apprises sur la piste influencent notre facon d'entrainer nos chiens, de prendre soin d'eux et de guider les experiences que nous partageons avec nos visiteurs.",
+      "What is Finnmarksløpet?": "Qu'est-ce que la Finnmarkslopet ?",
+      "Finnmarksløpet is Europe's longest sled dog race and one of the most demanding endurance events in the world.":
+        "La Finnmarkslopet est la plus longue course de chiens de traineau d'Europe et l'une des epreuves d'endurance les plus exigeantes au monde.",
+      "The race crosses the vast landscapes of Northern Norway, taking mushers and their teams through mountains, plateaus, forests, coastal regions, and unpredictable Arctic weather.":
+        "La course traverse les vastes paysages du nord de la Norvege, emmenant les mushers et leurs equipes a travers montagnes, plateaux, forets, regions cotieres et meteo arctique imprevisible.",
+      "Success is not determined by speed alone.":
+        "La reussite ne depend pas seulement de la vitesse.",
+      "It depends on preparation, teamwork, navigation, strategy, dog care, and the ability to make good decisions while facing fatigue and changing conditions.":
+        "Elle depend de la preparation, du travail d'equipe, de la navigation, de la strategie, des soins aux chiens et de la capacite a prendre de bonnes decisions face a la fatigue et aux conditions changeantes.",
+      "Every kilometre is completed together with the dogs.":
+        "Chaque kilometre est parcouru avec les chiens.",
+      "Check Finnmarksløpet website": "Voir le site de la Finnmarkslopet",
+      "People sometimes ask why we choose to take part in races lasting hundreds or even thousands of kilometres.":
+        "On nous demande parfois pourquoi nous choisissons de participer a des courses de plusieurs centaines, voire milliers de kilometres.",
+      "The answer is simple: we love working with our dogs.":
+        "La reponse est simple : nous aimons travailler avec nos chiens.",
+      "Racing gives our dogs a purpose, a challenge, and an opportunity to do what they were bred to do. It also pushes us to become better caretakers, trainers, and teammates.":
+        "La course donne a nos chiens un objectif, un defi et l'occasion de faire ce pour quoi ils ont ete eleves. Elle nous pousse aussi a devenir de meilleurs soigneurs, entraineurs et coequipiers.",
+      "Preparing for long-distance races requires attention to every detail, from nutrition and conditioning to recovery, health, and mental wellbeing.":
+        "La preparation aux courses longue distance demande une attention a chaque detail, de la nutrition et du conditionnement a la recuperation, la sante et le bien-etre mental.",
+      "The dogs teach us patience, humility, and respect every single day.":
+        "Les chiens nous enseignent chaque jour la patience, l'humilite et le respect.",
+      "Everything we learn through racing benefits the kennel as a whole and helps us provide the highest level of care possible.":
+        "Tout ce que nous apprenons grace a la course profite au chenil dans son ensemble et nous aide a offrir le meilleur niveau de soins possible.",
+      "Our Finnmarksløpet Journey": "Notre parcours Finnmarkslopet",
+      "Long-distance racing has been part of our dream since the beginning.":
+        "La course longue distance fait partie de notre reve depuis le debut.",
+      "Year after year, we have trained, learned, and developed our team with the goal of becoming stronger together.":
+        "Annee apres annee, nous avons entraine, appris et developpe notre equipe avec l'objectif de devenir plus forts ensemble.",
+      "In 2026, we entered and completed the legendary Finnmarksløpet 1200 km race for the first time.":
+        "En 2026, nous avons pris le depart et termine pour la premiere fois la legendaire Finnmarkslopet 1200 km.",
+      "As rookies in the longest and most demanding category of the event, our goal was simply to complete the race while taking excellent care of the dogs along the way.":
+        "En tant que rookies dans la categorie la plus longue et la plus exigeante de l'evenement, notre objectif etait simplement de terminer la course tout en prenant excellent soin des chiens tout au long du parcours.",
+      "Together, we crossed the finish line in 5th place.":
+        "Ensemble, nous avons franchi la ligne d'arrivee a la 5e place.",
+      "For us, the result was far more than a ranking. It was a reflection of years of preparation, trust, and teamwork between musher and dogs.":
+        "Pour nous, ce resultat etait bien plus qu'un classement. Il refletait des annees de preparation, de confiance et de travail d'equipe entre le musher et les chiens.",
+      "Most importantly, every dog returned home healthy, proud, and ready for the next adventure.":
+        "Le plus important : chaque chien est rentre a la maison en bonne sante, fier et pret pour la prochaine aventure.",
+      "What Racing Means for Our Guests": "Ce que la course signifie pour nos visiteurs",
+      "Racing is not separate from what we do at Into Nature.":
+        "La course n'est pas separee de ce que nous faisons chez Into Nature.",
+      "It is part of the same philosophy.":
+        "Elle fait partie de la meme philosophie.",
+      "The knowledge gained through long-distance mushing influences how we train, feed, recover, and care for our dogs throughout the year.":
+        "Les connaissances acquises grace au mushing longue distance influencent notre facon d'entrainer, nourrir, recuperer et prendre soin de nos chiens toute l'annee.",
+      "When guests visit our kennel, they are meeting dogs that are not only beloved family members, but also dedicated athletes.":
+        "Lorsque les visiteurs viennent au chenil, ils rencontrent des chiens qui sont non seulement des membres adores de la famille, mais aussi des athletes devoues.",
+      "They are experiencing a way of life built around respect for the dogs and a deep understanding of what they are capable of achieving.":
+        "Ils decouvrent un mode de vie construit autour du respect des chiens et d'une comprehension profonde de ce qu'ils sont capables d'accomplir.",
+      "Long-distance racing is one chapter of our story, but the heart of it remains unchanged.":
+        "La course longue distance est un chapitre de notre histoire, mais le coeur de celle-ci reste inchange.",
+      "Whether we are preparing for a 1200 km race or introducing a guest to dog sledding for the first time, our focus is always the same:":
+        "Que nous preparions une course de 1200 km ou que nous fassions decouvrir le traineau a chiens a un visiteur pour la premiere fois, notre priorite reste toujours la meme :",
+      "healthy dogs, meaningful experiences, and a lifelong passion for the trail.":
+        "des chiens en bonne sante, des experiences qui ont du sens et une passion de toute une vie pour la piste.",
       "Our dogs are family before they are athletes.":
         "Nos chiens sont une famille avant d'être des athlètes.",
       "Into Nature is a small family-run kennel where every tour starts with respect for the dogs. Daily care, rest, training and time in nature are part of the work, not an afterthought.":
