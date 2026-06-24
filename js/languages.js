@@ -89,18 +89,6 @@ window.IntoNatureLanguages = (() => {
           "Rencontrez Into Nature, un petit chenil familial et une entreprise d'aventures arctiques a Malangen pres de Tromso.",
       },
     },
-    "gallery.html": {
-      en: {
-        title: "Arctic Moments | Into Nature Gallery",
-        description:
-          "A visual gallery from Into Nature: dog sledding, northern lights, racing, kennel life and Arctic landscapes in Malangen.",
-      },
-      fr: {
-        title: "Moments arctiques | Galerie Into Nature",
-        description:
-          "Une galerie visuelle d'Into Nature : traineau a chiens, aurores boreales, courses, vie au chenil et paysages arctiques a Malangen.",
-      },
-    },
   };
 
   const translations = {
@@ -469,25 +457,6 @@ window.IntoNatureLanguages = (() => {
       "Quentin has been involved with sled dogs since 2010 and has raced in long distance events such as Finnmarkslopet and Femundlopet. That experience feeds directly back into the kennel: training, nutrition, rest, recovery and respect for each dog's limits.":
         "Quentin travaille avec les chiens de traineau depuis 2010 et a participe a des courses longue distance comme la Finnmarkslopet et la Femundlopet. Cette experience revient directement au chenil : entrainement, nutrition, repos, recuperation et respect des limites de chaque chien.",
       "Meet the dogs": "Rencontrer les chiens",
-      "Arctic moments": "Moments arctiques",
-      "See the places, dogs and quiet details behind the tours.":
-        "Decouvrez les lieux, les chiens et les petits details derriere les excursions.",
-      "Open gallery": "Ouvrir la galerie",
-      "Small glimpses from life in Malangen.":
-        "Petits apercus de la vie a Malangen.",
-      "Dogs, northern lights, racing, camp life and quiet wilderness details. This is the visual side of Into Nature.":
-        "Chiens, aurores boreales, courses, vie au camp et details paisibles de la nature sauvage. Voici le cote visuel d'Into Nature.",
-      "Into Nature image gallery": "Galerie photo Into Nature",
-      "Dog sledding": "Traineau a chiens",
-      "Aurora nights": "Nuits d'aurores",
-      "Malangen": "Malangen",
-      "Trail days": "Jours de piste",
-      "Winter camp": "Camp d'hiver",
-      "Husky snowshoes": "Raquettes avec huskies",
-      "Race training": "Entrainement de course",
-      "At camp": "Au camp",
-      "Kennel life": "Vie au chenil",
-      "Want to experience this in person?": "Envie de vivre cela en personne ?",
       "Choose an adventure": "Choisir une aventure",
       "Into Nature was born from a simple idea: building a life around sled dogs, nature, and genuine outdoor experiences.":
         "Into Nature est ne d'une idee simple : construire une vie autour des chiens de traineau, de la nature et d'experiences authentiques en plein air.",
