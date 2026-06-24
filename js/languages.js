@@ -89,6 +89,18 @@ window.IntoNatureLanguages = (() => {
           "Rencontrez Into Nature, un petit chenil familial et une entreprise d'aventures arctiques a Malangen pres de Tromso.",
       },
     },
+    "faq.html": {
+      en: {
+        title: "FAQ & Contact | Into Nature Arctic Adventures",
+        description:
+          "Frequently asked questions and contact form for Into Nature Arctic Adventures near Tromso.",
+      },
+      fr: {
+        title: "FAQ & Contact | Into Nature Arctic Adventures",
+        description:
+          "Questions frequentes et formulaire de contact pour Into Nature Arctic Adventures pres de Tromso.",
+      },
+    },
   };
 
   const translations = {
@@ -128,6 +140,61 @@ window.IntoNatureLanguages = (() => {
       "FAQ": "FAQ",
       "Menu": "Menu",
       "Book": "Réserver",
+      "FAQ & Contact": "FAQ & Contact",
+      "Questions before your Arctic adventure?":
+        "Des questions avant votre aventure arctique ?",
+      "Here you will find practical answers about transport, clothing, weather, Northern Lights, booking and visiting our base in Malangen.":
+        "Vous trouverez ici des reponses pratiques sur le transport, les vetements, la meteo, les aurores boreales, la reservation et la visite de notre base a Malangen.",
+      "Frequently asked questions": "Questions frequentes",
+      "Start here if you are comparing tours or planning the practical details before booking.":
+        "Commencez ici si vous comparez les excursions ou preparez les details pratiques avant de reserver.",
+      "Is transport from and to Tromso included?":
+        "Le transport depuis et vers Tromso est-il inclus ?",
+      "Unfortunately no. Transport to and from our activities is not included. Most guests drive themselves or arrange a taxi to our base in Malangen.":
+        "Malheureusement non. Le transport vers et depuis nos activites n'est pas inclus. La plupart des visiteurs viennent avec leur propre voiture ou organisent un taxi jusqu'a notre base a Malangen.",
+      "Can I see the Northern Lights?": "Puis-je voir les aurores boreales ?",
+      "The Aurora dog sledding package is an evening trip with a better chance of seeing the Northern Lights. The Northern Lights are a natural phenomenon, so they can never be guaranteed.":
+        "L'activite Aurora dog sledding est une sortie en soiree avec une meilleure chance d'observer les aurores boreales. Les aurores boreales sont un phenomene naturel, elles ne peuvent donc jamais etre garanties.",
+      "What is included, and what should I bring?":
+        "Qu'est-ce qui est inclus, et que dois-je apporter ?",
+      "Warm clothing and winter boots are included for selected activities. Please bring your own hat and gloves or mittens, and check the activity page for the exact inclusions.":
+        "Des vetements chauds et des bottes d'hiver sont inclus pour certaines activites. Merci d'apporter votre propre bonnet et vos gants ou moufles, et de verifier la page de l'activite pour les inclusions exactes.",
+      "What happens if there is bad weather?":
+        "Que se passe-t-il en cas de mauvais temps ?",
+      "Arctic weather can change quickly, so routes or programs may be adjusted for safety. If conditions are unsafe, Into Nature may cancel the activity. In that case, guests receive an 80% refund. Safety always comes first.":
+        "La meteo arctique peut changer rapidement, les itineraires ou programmes peuvent donc etre adaptes pour des raisons de securite. Si les conditions ne sont pas sures, Into Nature peut annuler l'activite. Dans ce cas, les visiteurs recoivent un remboursement de 80 %. La securite passe toujours en premier.",
+      "Where is Into Nature located?": "Ou se trouve Into Nature ?",
+      "Into Nature is based in Malangen, outside Tromso. The drive from Tromso takes around 90 minutes depending on road and weather conditions.":
+        "Into Nature est base a Malangen, pres de Tromso. Le trajet depuis Tromso prend environ 90 minutes selon la route et les conditions meteo.",
+      "Can children or beginners join?":
+        "Les enfants ou les debutants peuvent-ils participer ?",
+      "Some activities are beginner friendly, while others require more balance, fitness or time outdoors. The best choice depends on the activity, age, weather and group size.":
+        "Certaines activites conviennent aux debutants, tandis que d'autres demandent plus d'equilibre, de condition physique ou de temps dehors. Le meilleur choix depend de l'activite, de l'age, de la meteo et de la taille du groupe.",
+      "How many guests can join a tour?":
+        "Combien de visiteurs peuvent participer a une excursion ?",
+      "The tours are kept small so the experience stays calm and personal. Group size depends on the activity, and larger private groups should contact Into Nature before booking.":
+        "Les excursions restent en petits groupes pour garder une experience calme et personnelle. La taille du groupe depend de l'activite, et les grands groupes prives doivent contacter Into Nature avant de reserver.",
+      "Can I book a private trip?": "Puis-je reserver une sortie privee ?",
+      "Private requests may be possible depending on the season, availability and type of activity. Send a message with your preferred dates, number of guests and what you would like to experience.":
+        "Les demandes privees peuvent etre possibles selon la saison, les disponibilites et le type d'activite. Envoyez un message avec vos dates preferees, le nombre de visiteurs et ce que vous souhaitez vivre.",
+      "Contact us": "Contactez-nous",
+      "Need help choosing the right activity?":
+        "Besoin d'aide pour choisir la bonne activite ?",
+      "Send a short message with your dates, group size and what you are hoping to experience. The form is prepared for email delivery, but sending is not connected while the site is still in testing.":
+        "Envoyez un court message avec vos dates, la taille du groupe et ce que vous souhaitez vivre. Le formulaire est prepare pour l'envoi par e-mail, mais l'envoi n'est pas connecte tant que le site est encore en test.",
+      "Name": "Nom",
+      "Email": "E-mail",
+      "Country": "Pays",
+      "Preferred dates of the activity": "Dates preferees de l'activite",
+      "Example: 12-15 February 2027": "Exemple : 12-15 fevrier 2027",
+      "Number of guests": "Nombre de visiteurs",
+      "Message": "Message",
+      "characters": "caracteres",
+      "Send message": "Envoyer le message",
+      "The form is not connected yet while the website is in testing.":
+        "Le formulaire n'est pas encore connecte pendant que le site est en test.",
+      "The form is not connected yet while the website is in testing. No message was sent.":
+        "Le formulaire n'est pas encore connecte pendant que le site est en test. Aucun message n'a ete envoye.",
       "Arctic adventures near Tromsø": "Aventures arctiques près de Tromsø",
       "A small family-run kennel and outdoor company where dogs, nature and authentic Arctic experiences come first.":
         "Une petite entreprise familiale de chenil et d'activités en plein air où les chiens, la nature et les expériences arctiques authentiques passent avant tout.",
@@ -895,6 +962,17 @@ window.IntoNatureLanguages = (() => {
       }
 
       element.setAttribute("alt", translateValue(element.dataset.i18nAltSource, language));
+    });
+
+    document.querySelectorAll("[placeholder]").forEach((element) => {
+      if (!element.dataset.i18nPlaceholderSource) {
+        element.dataset.i18nPlaceholderSource = element.getAttribute("placeholder");
+      }
+
+      element.setAttribute(
+        "placeholder",
+        translateValue(element.dataset.i18nPlaceholderSource, language)
+      );
     });
   };
 

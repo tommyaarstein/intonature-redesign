@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>FAQ & Contact | Into Nature Arctic Adventures</title>
+    <meta
+      name="description"
+      content="Frequently asked questions and contact form for Into Nature Arctic Adventures near Tromso."
+    >
+    <link rel="icon" href="assets/shared/logo/intonature-logo-black.png">
+    <link rel="stylesheet" href="css/styles.css?v=20260618-1">
+  </head>
+  <body class="legal-page">
+    <header class="site-header" aria-label="Primary navigation">
+      <a class="brand page-brand" href="index.html#top" aria-label="Into Nature Arctic Adventures home">
+        <img class="brand-logo" src="assets/shared/logo/intonature-logo-black.png" alt="">
+      </a>
+      <nav class="nav-links" aria-label="Main menu">
+        <a href="index.html#top">Home</a>
+        <a href="index.html#adventures">Adventures</a>
+        <a href="index.html#welfare">Dogs &amp; Welfare</a>
+        <a href="about.html">About</a>
+        <a href="index.html#faq">FAQ</a>
+      </nav>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="mobile-menu">
+        <span class="menu-toggle-lines" aria-hidden="true"></span>
+        <span>Menu</span>
+      </button>
+      <div class="header-actions">
+        <button class="language-toggle" type="button" aria-label="Switch language" aria-live="polite">
+          <span class="language-toggle-current">English</span>
+          <span class="language-toggle-next">FR</span>
+        </button>
+        <a class="nav-cta" href="index.html#booking">Book</a>
+      </div>
+      <nav class="mobile-menu" id="mobile-menu" aria-label="Mobile menu">
+        <a href="index.html#top">Home</a>
+        <a href="index.html#adventures">Adventures</a>
+        <a href="index.html#welfare">Dogs &amp; Welfare</a>
+        <a href="about.html">About</a>
+        <a href="index.html#faq">FAQ</a>
+      </nav>
+    </header>
+
+    <main class="faq-page" id="top">
+      <section class="faq-hero">
+        <span class="section-note">FAQ & Contact</span>
+        <h1>Questions before your Arctic adventure?</h1>
+        <p>
+          Here you will find practical answers about transport, clothing, weather,
+          Northern Lights, booking and visiting our base in Malangen.
+        </p>
+      </section>
+
+      <section class="faq-page-section" aria-label="Frequently asked questions">
+        <div class="section-heading compact">
+          <h2>Frequently asked questions</h2>
+          <p>
+            Start here if you are comparing tours or planning the practical details before booking.
+          </p>
+        </div>
+        <div class="faq-list faq-list-wide">
+          <details open>
+            <summary>Is transport from and to Tromsø included?</summary>
+            <p>Unfortunately no. Transport to and from our activities is not included. Most guests drive themselves or arrange a taxi to our base in Malangen.</p>
+          </details>
+          <details>
+            <summary>Can I see the Northern Lights?</summary>
+            <p>The Aurora dog sledding package is an evening trip with a better chance of seeing the Northern Lights. The Northern Lights are a natural phenomenon, so they can never be guaranteed.</p>
+          </details>
+          <details>
+            <summary>What is included, and what should I bring?</summary>
+            <p>Warm clothing and winter boots are included for selected activities. Please bring your own hat and gloves or mittens, and check the activity page for the exact inclusions.</p>
+          </details>
+          <details>
+            <summary>What happens if there is bad weather?</summary>
+            <p>Arctic weather can change quickly, so routes or programs may be adjusted for safety. If conditions are unsafe, Into Nature may cancel the activity. In that case, guests receive an 80% refund. Safety always comes first.</p>
+          </details>
+          <details>
+            <summary>Where is Into Nature located?</summary>
+            <p>Into Nature is based in Malangen, outside Tromsø. The drive from Tromsø takes around 90 minutes depending on road and weather conditions.</p>
+          </details>
+          <details>
+            <summary>Can children or beginners join?</summary>
+            <p>Some activities are beginner friendly, while others require more balance, fitness or time outdoors. The best choice depends on the activity, age and group size.</p>
+          </details>
+          <details>
+            <summary>How many guests can join a tour?</summary>
+            <p>The tours are kept small so the experience stays calm and personal. Group size depends on the activity, and larger private groups should contact Into Nature before booking.</p>
+          </details>
+        </div>
+      </section>
+
+      <section class="contact-section" id="contact">
+        <div class="contact-intro">
+          <span class="section-note">Contact us</span>
+          <h2>Need help choosing the right activity?</h2>
+          <p>
+            Send a short message with your dates, group size and what you are hoping to experience.
+            The form is prepared for email delivery, but sending is not connected while the site is still in testing.
+          </p>
+        </div>
+        <form class="contact-form" action="#" method="post" data-contact-form>
+          <div class="form-grid">
+            <label>
+              <span>Name*</span>
+              <input type="text" name="name" autocomplete="name" required>
+            </label>
+            <label>
+              <span>Email*</span>
+              <input type="email" name="email" autocomplete="email" required>
+            </label>
+            <label class="country-field">
+              <span>Country</span>
+              <span class="country-combobox">
+                <input
+                  type="text"
+                  name="country"
+                  autocomplete="country-name"
+                  aria-controls="country-options"
+                  aria-expanded="false"
+                  required
+                >
+                <span class="country-options" id="country-options" role="listbox" hidden></span>
+              </span>
+            </label>
+            <label>
+              <span>Preferred dates of the activity*</span>
+              <input type="text" name="preferred_dates" placeholder="Example: 12-15 February 2027">
+            </label>
+            <label>
+              <span>Number of guests*</span>
+              <input type="number" name="guests" min="1" inputmode="numeric" required>
+            </label>
+            <label class="form-field-wide">
+              <span>Message*</span>
+              <textarea name="message" rows="7" maxlength="2500" required></textarea>
+              <small><span data-message-count>0</span>/2500 characters</small>
+            </label>
+          </div>
+          <button class="button button-primary dark" type="submit">Send message</button>
+          <p class="form-status" data-form-status aria-live="polite">
+            The form is not connected yet while the website is in testing.
+          </p>
+        </form>
+      </section>
+    </main>
+
+    <footer>
+      <div class="footer-main">
+        <address class="footer-contact">
+          <strong>Into Nature AS</strong>
+          <span>Org.nr. 933834239</span>
+          <span>Skutvikveien 186, 9055 Mestervik</span>
+          <a href="mailto:info@intonaturearctic.com">info@intonaturearctic.com</a>
+          <a href="tel:+4740880502">+47 408 80 502</a>
+        </address>
+        <div class="footer-actions">
+          <a class="footer-contact-button" href="faq.html#contact">Contact us</a>
+          <nav class="footer-links" aria-label="Legal links">
+            <a href="terms-and-conditions.html">Terms and conditions</a>
+            <a href="privacy.html">Privacy</a>
+          </nav>
+          <div class="social-links" aria-label="Social media links">
+            <a href="https://www.instagram.com/intonaturearctic/" aria-label="Into Nature on Instagram">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <rect x="3" y="3" width="18" height="18" rx="5"></rect>
+                <circle cx="12" cy="12" r="4"></circle>
+                <circle cx="17.5" cy="6.5" r="1.1"></circle>
+              </svg>
+            </a>
+            <a href="https://www.facebook.com/intonaturearctic/" aria-label="Into Nature on Facebook">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M14.2 8.4V6.9c0-.7.5-1.1 1.2-1.1h1.5V3.2h-2.3c-2.6 0-3.9 1.6-3.9 3.8v1.4H8.4v2.9h2.3v9.5h3.2v-9.5h2.5l.5-2.9h-3Z"></path>
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+      <p class="footer-copyright">&copy; 2026 By Into Nature.</p>
+    </footer>
+    <script src="js/languages.js?v=20260617-1"></script>
+    <script src="js/main.js?v=20260617-1"></script>
+  </body>
+</html>

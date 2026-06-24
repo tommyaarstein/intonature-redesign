@@ -6,12 +6,19 @@ const languageNext = document.querySelector(".language-toggle-next");
 const legalModalLinks = document.querySelectorAll(
   'a[href="terms-and-conditions.html"], a[href="privacy.html"]'
 );
+const countryOptions = document.querySelector("#country-options");
+const contactForm = document.querySelector("[data-contact-form]");
+const countryInput = contactForm?.querySelector('input[name="country"]');
+const messageField = contactForm?.querySelector('textarea[name="message"]');
+const messageCount = document.querySelector("[data-message-count]");
+const formStatus = document.querySelector("[data-form-status]");
 
 const LANGUAGE_STORAGE_KEY = "intoNatureLanguage";
 const legalContentCache = new Map();
 let languageLabelTimeout;
 let languageFadeTimeout;
 let lastFocusedElement;
+let availableCountries = [];
 
 const getStoredLanguage = () => {
   try {
@@ -34,6 +41,111 @@ const updateLanguageLabels = (isFrench) => {
     languageCurrent.textContent = isFrench ? "EN" : "English";
     languageNext.textContent = isFrench ? "français" : "FR";
   }
+};
+
+const getRegionCodes = () => {
+  try {
+    if (Intl.supportedValuesOf) {
+      return Intl.supportedValuesOf("region").filter((code) => /^[A-Z]{2}$/.test(code));
+    }
+  } catch {
+    // Some browsers do not support "region" in Intl.supportedValuesOf yet.
+  }
+
+  return [
+    "AF", "AX", "AL", "DZ", "AS", "AD", "AO", "AI", "AQ", "AG", "AR", "AM", "AW", "AU", "AT", "AZ",
+    "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BQ", "BA", "BW", "BV", "BR",
+    "IO", "BN", "BG", "BF", "BI", "CV", "KH", "CM", "CA", "KY", "CF", "TD", "CL", "CN", "CX", "CC",
+    "CO", "KM", "CG", "CD", "CK", "CR", "CI", "HR", "CU", "CW", "CY", "CZ", "DK", "DJ", "DM", "DO",
+    "EC", "EG", "SV", "GQ", "ER", "EE", "SZ", "ET", "FK", "FO", "FJ", "FI", "FR", "GF", "PF", "TF",
+    "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GL", "GD", "GP", "GU", "GT", "GG", "GN", "GW", "GY",
+    "HT", "HM", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IR", "IQ", "IE", "IM", "IL", "IT", "JM",
+    "JP", "JE", "JO", "KZ", "KE", "KI", "KP", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY",
+    "LI", "LT", "LU", "MO", "MG", "MW", "MY", "MV", "ML", "MT", "MH", "MQ", "MR", "MU", "YT", "MX",
+    "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NC", "NZ", "NI",
+    "NE", "NG", "NU", "NF", "MK", "MP", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH",
+    "PN", "PL", "PT", "PR", "QA", "RE", "RO", "RU", "RW", "BL", "SH", "KN", "LC", "MF", "PM", "VC",
+    "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SX", "SK", "SI", "SB", "SO", "ZA", "GS",
+    "SS", "ES", "LK", "SD", "SR", "SJ", "SE", "CH", "SY", "TW", "TJ", "TZ", "TH", "TL", "TG", "TK",
+    "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "UA", "AE", "GB", "US", "UM", "UY", "UZ", "VU",
+    "VE", "VN", "VG", "VI", "WF", "EH", "YE", "ZM", "ZW",
+  ];
+};
+
+const populateCountryOptions = (language = "en") => {
+  if (!countryOptions || !Intl.DisplayNames) return;
+
+  const displayNames = new Intl.DisplayNames([language], { type: "region" });
+  const countries = getRegionCodes()
+    .map((code) => displayNames.of(code))
+    .filter(Boolean);
+
+  countries.push("Kosovo");
+
+  const uniqueCountries = [...new Set(countries)]
+    .sort((a, b) => a.localeCompare(b, language, { sensitivity: "base" }));
+
+  availableCountries = uniqueCountries;
+  renderCountryOptions(countryInput?.value || "");
+};
+
+const hideCountryOptions = () => {
+  countryOptions?.setAttribute("hidden", "");
+  countryInput?.setAttribute("aria-expanded", "false");
+};
+
+const showCountryOptions = () => {
+  if (!countryOptions) return;
+
+  countryOptions.removeAttribute("hidden");
+  countryInput?.setAttribute("aria-expanded", "true");
+};
+
+const renderCountryOptions = (query = "") => {
+  if (!countryOptions) return;
+
+  const normalizedQuery = query.trim().toLocaleLowerCase();
+  const filteredCountries = normalizedQuery
+    ? [
+        ...availableCountries.filter((country) =>
+          country.toLocaleLowerCase().startsWith(normalizedQuery)
+        ),
+        ...availableCountries.filter((country) => {
+          const normalizedCountry = country.toLocaleLowerCase();
+          return (
+            !normalizedCountry.startsWith(normalizedQuery) &&
+            normalizedCountry.includes(normalizedQuery)
+          );
+        }),
+      ]
+    : availableCountries;
+
+  if (filteredCountries.length === 0) {
+    const empty = document.createElement("span");
+    empty.className = "country-option-empty";
+    empty.textContent = "No countries found";
+    countryOptions.replaceChildren(empty);
+    return;
+  }
+
+  countryOptions.replaceChildren(
+    ...filteredCountries.map((country) => {
+      const option = document.createElement("button");
+      option.type = "button";
+      option.setAttribute("role", "option");
+      option.textContent = country;
+      option.addEventListener("mousedown", (event) => {
+        event.preventDefault();
+      });
+      option.addEventListener("click", () => {
+        if (countryInput) {
+          countryInput.value = country;
+        }
+        hideCountryOptions();
+      });
+      return option;
+    })
+  );
 };
 
 const setLanguage = (language, options = {}) => {
@@ -68,6 +180,7 @@ const setLanguage = (language, options = {}) => {
   }
 
   storeLanguage(activeLanguage);
+  populateCountryOptions(activeLanguage);
 };
 
 menuToggle?.addEventListener("click", () => {
@@ -198,6 +311,51 @@ legalModalLinks.forEach((link) => {
     event.preventDefault();
     openLegalModal(link);
   });
+});
+
+messageField?.addEventListener("input", () => {
+  if (messageCount) {
+    messageCount.textContent = String(messageField.value.length);
+  }
+});
+
+countryInput?.addEventListener("focus", () => {
+  renderCountryOptions(countryInput.value);
+  showCountryOptions();
+});
+
+countryInput?.addEventListener("input", () => {
+  renderCountryOptions(countryInput.value);
+  showCountryOptions();
+});
+
+countryInput?.addEventListener("keydown", (event) => {
+  if (event.key === "Escape") {
+    hideCountryOptions();
+  }
+});
+
+document.addEventListener("click", (event) => {
+  const target = event.target;
+  if (
+    target instanceof Node &&
+    countryInput &&
+    countryOptions &&
+    !countryInput.contains(target) &&
+    !countryOptions.contains(target)
+  ) {
+    hideCountryOptions();
+  }
+});
+
+contactForm?.addEventListener("submit", (event) => {
+  event.preventDefault();
+
+  if (formStatus) {
+    formStatus.textContent = document.documentElement.lang === "fr"
+      ? "Le formulaire n'est pas encore connecté pendant que le site est en test. Aucun message n'a été envoyé."
+      : "The form is not connected yet while the website is in testing. No message was sent.";
+  }
 });
 
 setLanguage(getStoredLanguage() || "en");
