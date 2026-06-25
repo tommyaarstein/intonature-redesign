@@ -746,8 +746,8 @@ window.IntoNatureLanguages = (() => {
       "Meet our Pack": "Rencontrez notre meute",
       "Want to see the faces behind these stories?":
         "Envie de voir les visages derrière ces histoires ?",
-      "Meet all our dogs here — their names, personalities, roles in the team, and adorable quirks.":
-        "Rencontrez tous nos chiens ici : leurs noms, leurs personnalités, leurs rôles dans l'équipe et leurs adorables particularités.",
+      "Meet all our dogs here — their names and adorable quirks.":
+        "Rencontrez tous nos chiens ici : leurs noms et leurs adorables particularités.",
       "Into Nature dog pack": "Meute de chiens Into Nature",
       "The Queen": "La reine",
       "The Legend": "La légende",

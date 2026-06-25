@@ -203,6 +203,19 @@ img {
   background: rgba(255, 255, 255, 0.1);
 }
 
+.mobile-book-link {
+  margin-top: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.34);
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--pine);
+}
+
+.mobile-book-link:hover,
+.mobile-book-link:focus-visible {
+  background: var(--white);
+  color: var(--pine);
+}
+
 .nav-links a,
 .nav-cta,
 .button,
@@ -2287,7 +2300,7 @@ body.modal-open {
 
   .menu-toggle {
     display: inline-flex;
-    order: -1;
+    order: 2;
   }
 
   .page-brand {
@@ -2296,11 +2309,17 @@ body.modal-open {
   }
 
   .header-actions {
+    order: 1;
     flex: 0 0 auto;
+    gap: 0;
   }
 
   .language-toggle {
     width: 124px;
+  }
+
+  .nav-cta {
+    display: none;
   }
 
   .mobile-menu.is-open {
@@ -2356,6 +2375,10 @@ body.modal-open {
   .activity-section,
   .activity-section:nth-of-type(even) {
     grid-template-columns: 1fr;
+  }
+
+  .activity-section + .activity-section {
+    border-top: 1px solid rgba(20, 58, 53, 0.14);
   }
 
   .faq-page-section,
@@ -2464,12 +2487,11 @@ body.modal-open {
   }
 
   .nav-cta {
-    min-width: 66px;
-    min-height: 38px;
+    display: none;
   }
 
   .header-actions {
-    gap: 14px;
+    gap: 0;
   }
 
   .language-toggle {
@@ -2489,28 +2511,26 @@ body.modal-open {
   }
 
   .menu-toggle {
-    position: fixed;
-    top: 86px;
-    left: 16px;
-    z-index: 999;
-    min-height: 42px;
+    position: static;
+    z-index: auto;
+    min-height: 38px;
     border-color: rgba(255, 255, 255, 0.3);
-    padding: 0 14px;
-    background: rgba(8, 26, 25, 0.86);
-    box-shadow: 0 16px 38px rgba(5, 18, 17, 0.22);
+    padding: 0 11px;
+    background: rgba(255, 255, 255, 0.13);
+    box-shadow: none;
   }
 
   .menu-toggle span:last-child {
-    display: inline;
+    display: none;
   }
 
   .mobile-menu {
-    position: fixed;
-    top: 134px;
-    right: auto;
+    position: absolute;
+    top: calc(100% + 4px);
+    right: 16px;
     left: 16px;
-    z-index: 998;
-    width: min(280px, calc(100vw - 32px));
+    z-index: auto;
+    width: auto;
     border-color: rgba(255, 255, 255, 0.2);
     background: rgba(8, 26, 25, 0.96);
     box-shadow: 0 22px 54px rgba(5, 18, 17, 0.32);
