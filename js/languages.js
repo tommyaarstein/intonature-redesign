@@ -190,6 +190,8 @@ window.IntoNatureLanguages = (() => {
       "Number of guests": "Nombre de visiteurs",
       "Message": "Message",
       "characters": "caracteres",
+      "I have read and agree to the": "J'ai lu et j'accepte la",
+      "Privacy Policy": "politique de confidentialite",
       "Send message": "Envoyer le message",
       "The form is not connected yet while the website is in testing.":
         "Le formulaire n'est pas encore connecte pendant que le site est en test.",
