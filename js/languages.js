@@ -164,8 +164,8 @@ window.IntoNatureLanguages = (() => {
       "Arctic weather can change quickly, so routes or programs may be adjusted for safety. If conditions are unsafe, Into Nature may cancel the activity. In that case, guests receive an 80% refund. Safety always comes first.":
         "La meteo arctique peut changer rapidement, les itineraires ou programmes peuvent donc etre adaptes pour des raisons de securite. Si les conditions ne sont pas sures, Into Nature peut annuler l'activite. Dans ce cas, les visiteurs recoivent un remboursement de 80 %. La securite passe toujours en premier.",
       "Where is Into Nature located?": "Ou se trouve Into Nature ?",
-      "Into Nature is based in Malangen, outside Tromso. The drive from Tromso takes around 90 minutes depending on road and weather conditions.":
-        "Into Nature est base a Malangen, pres de Tromso. Le trajet depuis Tromso prend environ 90 minutes selon la route et les conditions meteo.",
+      "Into Nature is based at Skutvikveien 186, 9055 Mestervik, in Malangen outside Tromsø. The drive from Tromsø takes around 90 minutes depending on road and weather conditions.":
+        "Into Nature est base a Skutvikveien 186, 9055 Mestervik, a Malangen pres de Tromso. Le trajet depuis Tromso prend environ 90 minutes selon la route et les conditions meteo.",
       "Can children or beginners join?":
         "Les enfants ou les debutants peuvent-ils participer ?",
       "Some activities are beginner friendly, while others require more balance, fitness or time outdoors. The best choice depends on the activity, age, weather and group size.":
