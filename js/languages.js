@@ -57,12 +57,12 @@ window.IntoNatureLanguages = (() => {
       en: {
         title: "Adventures | Into Nature Arctic Adventures",
         description:
-          "Compare dog sledding, aurora tours, ice fishing and snowshoe adventures with Into Nature near Tromsø.",
+          "Compare dog sledding, aurora tours and ice fishing adventures with Into Nature near Tromsø.",
       },
       fr: {
         title: "Aventures | Into Nature Arctic Adventures",
         description:
-          "Comparez les excursions en traîneau à chiens, les sorties aurores, la pêche sur glace et les raquettes avec Into Nature près de Tromsø.",
+          "Comparez les excursions en traîneau à chiens, les sorties aurores et la pêche sur glace avec Into Nature près de Tromsø.",
       },
     },
     "dogs.html": {
@@ -161,8 +161,8 @@ window.IntoNatureLanguages = (() => {
         "Des vetements chauds et des bottes d'hiver sont inclus pour certaines activites. Merci d'apporter votre propre bonnet et vos gants ou moufles, et de verifier la page de l'activite pour les inclusions exactes.",
       "What happens if there is bad weather?":
         "Que se passe-t-il en cas de mauvais temps ?",
-      "Arctic weather can change quickly, so routes or programs may be adjusted for safety. If conditions are unsafe, Into Nature may cancel the activity. In that case, guests receive an 80% refund. Safety always comes first.":
-        "La meteo arctique peut changer rapidement, les itineraires ou programmes peuvent donc etre adaptes pour des raisons de securite. Si les conditions ne sont pas sures, Into Nature peut annuler l'activite. Dans ce cas, les visiteurs recoivent un remboursement de 80 %. La securite passe toujours en premier.",
+      "Arctic weather can change quickly, and routes or programs may be adjusted for safety. If Into Nature decides conditions are unsafe and cancels the tour, guests receive a 100% refund. This refund does not apply if a guest chooses not to attend.":
+        "La meteo arctique peut changer rapidement, les itineraires ou programmes peuvent donc etre adaptes pour des raisons de securite. Si Into Nature juge que les conditions ne sont pas sures et annule l'excursion, les visiteurs recoivent un remboursement de 100 %. Ce remboursement ne s'applique pas si un visiteur choisit de ne pas participer.",
       "Where is Into Nature located?": "Ou se trouve Into Nature ?",
       "Into Nature is based at Skutvikveien 186, 9055 Mestervik, in Malangen outside Tromsø. The drive from Tromsø takes around 90 minutes depending on road and weather conditions.":
         "Into Nature est base a Skutvikveien 186, 9055 Mestervik, a Malangen pres de Tromso. Le trajet depuis Tromso prend environ 90 minutes selon la route et les conditions meteo.",
@@ -218,8 +218,8 @@ window.IntoNatureLanguages = (() => {
       "Best for": "Idéal pour",
       "Couples, families and curious travelers": "Couples, familles et voyageurs curieux",
       "Choose the right winter adventure": "Choisissez la bonne aventure hivernale",
-      "We are offering a selection of 5 unique trips in the arctic wilderness ranging from a relaxing trip to a more hands-on experience.":
-        "Nous proposons une sélection de 5 excursions uniques dans la nature arctique, allant d'une sortie relaxante à une expérience plus active.",
+      "We are offering a selection of 4 unique trips in the arctic wilderness ranging from a relaxing trip to a more hands-on experience.":
+        "Nous proposons une sélection de 4 excursions uniques dans la nature arctique, allant d'une sortie relaxante à une expérience plus active.",
 
       "Dog Sledding - Be the Musher": "Traîneau à chiens - Devenez musher",
       "Hands-on husky sledding through quiet forest trails and open Arctic landscapes.":
@@ -229,8 +229,12 @@ window.IntoNatureLanguages = (() => {
       "1 hour dog sledding": "1 heure de traîneau à chiens",
       "max 6-8 guests": "max. 6-8 personnes",
       "Warm clothing included": "Vêtements chauds inclus",
+      "Dog enclosure visit": "Visite de l'enclos des chiens",
+      "Warm toddy & Balsfjord lefse": "Toddy chaud & lefse maison de Balsfjord",
       "Small group pace": "Rythme de petit groupe",
       "From NOK 2,490,-": "À partir de NOK 2,490,-",
+      "Adult NOK 3,290": "Adulte NOK 3,290",
+      "Child NOK 2,490": "Enfant NOK 2,490",
       "Transport from Tromsø not included.": "Transport depuis Tromsø non inclus.",
       "View tour": "Voir l'excursion",
       "Aurora Dog Sledding": "Traîneau à chiens sous les aurores",
@@ -260,17 +264,10 @@ window.IntoNatureLanguages = (() => {
       "10.30AM start": "Départ à 10h30",
       "3-4 hours": "3-4 heures",
       "NOK 1,995,-": "NOK 1,995,-",
-      "Husky Snowshoes": "Raquettes avec huskies",
-      "A calm snowshoe hike through Arctic nature, frozen lake scenery and small hills, with bonfire and hot drinks.":
-        "Une randonnée paisible en raquettes à travers la nature arctique, les paysages de lacs gelés et de petites collines, avec feu de camp et boissons chaudes.",
-      "Bonfire & hot drink": "Feu de camp & boisson chaude",
-      "10.30 AM start": "Départ à 10h30",
-      "NOK 1,650,-": "NOK 1,650,-",
-
       "Winter adventures": "Aventures hivernales",
       "Choose your Arctic experience": "Choisissez votre expérience arctique",
-      "Compare Into Nature's dog sledding, aurora, snowshoe and ice fishing activities. Each experience is small-scale, local and based from Malangen near Tromsø.":
-        "Comparez les activités de traîneau à chiens, d'aurores, de raquettes et de pêche sur glace d'Into Nature. Chaque expérience est locale, en petit groupe et basée à Malangen près de Tromsø.",
+      "Compare Into Nature's dog sledding, aurora and ice fishing activities. Each experience is small-scale, local and based from Malangen near Tromsø.":
+        "Comparez les activités de traîneau à chiens, d'aurores et de pêche sur glace d'Into Nature. Chaque expérience est locale, en petit groupe et basée à Malangen près de Tromsø.",
       "A first-time friendly way to try driving a dog sled with local guides.":
         "Une façon adaptée aux débutants d'essayer de conduire un traîneau à chiens avec des guides locaux.",
       "Hands-on husky sledding through quiet forest trails and open Arctic landscapes. A first-time friendly way to try driving a dog sled with local guides.":
@@ -311,12 +308,7 @@ window.IntoNatureLanguages = (() => {
         "Feu de camp, boisson chaude, en-cas et marshmallows",
       "A quieter activity for guests who want a slower Arctic day.":
         "Une activité plus tranquille pour les clients qui veulent une journée arctique plus douce.",
-      "A calm snowshoe hike through Arctic nature, frozen lake scenery and small hills, with bonfire, hot drinks and time outdoors with Into Nature's huskies.":
-        "Une randonnée paisible en raquettes dans la nature arctique, entre paysages de lacs gelés et petites collines, avec feu de camp, boissons chaudes et du temps dehors avec les huskies d'Into Nature.",
       "Snack and marshmallows": "En-cas et marshmallows",
-      "Frozen lake scenery and small hills": "Paysages de lacs gelés et petites collines",
-      "A calm outdoor experience at small group pace.":
-        "Une expérience calme en plein air au rythme d'un petit groupe.",
       "Booking will be added here": "La réservation sera ajoutée ici",
       "This site will later embed the 2izii booking and payment service. Until then, the booking buttons stay internal and do not send visitors to the old Wix site.":
         "Ce site intégrera plus tard le service de réservation et de paiement 2izii. En attendant, les boutons de réservation restent internes et n'envoient pas les visiteurs vers l'ancien site Wix.",
@@ -333,13 +325,23 @@ window.IntoNatureLanguages = (() => {
         "Ce service n'est pas disponible, veuillez nous contacter pour plus d'informations.",
       "Terms and conditions": "Conditions générales",
       "Join our dog sledding adventure on the beautiful Malangen Fjord peninsula, where you'll drive your own team of eager Alaskan huskies through quiet forest trails and open landscapes.":
-        "Rejoignez notre aventure en traîneau à chiens sur la magnifique péninsule du fjord de Malangen, où vous conduirez votre propre attelage de huskies d'Alaska enthousiastes à travers des sentiers forestiers paisibles et de grands paysages ouverts.",
+        "Rejoignez notre aventure en traîneau à chiens sur la magnifique péninsule du fjord de Malangen, où vous conduirez votre propre attelage de huskies d'Alaska à travers des sentiers forestiers paisibles et de grands paysages ouverts.",
       "This is a small-group experience that offers a calm, personal encounter with our dogs and the Arctic wilderness.":
         "C'est une expérience en petit groupe qui offre une rencontre calme et personnelle avec nos chiens et la nature arctique.",
+      "During your visit, you will also see the dogs running freely in their enclosure, a unique part of the experience that guests often love.":
+        "Pendant votre visite, vous verrez aussi les chiens courir librement dans leur enclos, une partie unique de l'expérience que les visiteurs apprécient souvent beaucoup.",
       "Before starting the tour, you'll receive clear instructions on how to handle the sled, how to brake, and how to work with your husky team. Once we're ready, you'll head out on the trail for a peaceful ride surrounded by snow-covered mountains and pure winter silence.":
         "Avant de commencer l'excursion, vous recevrez des instructions claires pour manier le traîneau, freiner et travailler avec votre attelage de huskies. Une fois prêts, vous partirez sur la piste pour une sortie paisible entourée de montagnes enneigées et du silence pur de l'hiver.",
+      "We provide warm clothing and winter boots, to stay comfortable during the excursion. Don't forget to bring your own hat an winter gloves / mittens.":
+        "Nous fournissons des vêtements chauds et des bottes d'hiver pour rester confortable pendant l'excursion. N'oubliez pas d'apporter votre propre bonnet et des gants / moufles d'hiver.",
+      "Our starting point is easy to reach by car, and winter roads are normally well maintained.":
+        "Notre point de départ est facile d'accès en voiture, et les routes d'hiver sont normalement bien entretenues.",
       "Warm clothing and winter boots": "Vêtements chauds et bottes d'hiver",
       "Drink/snack": "Boisson/en-cas",
+      "See the dogs run freely in their enclosure":
+        "Voir les chiens courir librement dans leur enclos",
+      "Warm saft/toddy and homemade Balsfjord lefse":
+        "Saft/toddy chaud et lefse maison de Balsfjord",
       "Dogyard visit": "Visite du chenil",
       "Dogsledding": "Traîneau à chiens",
       "Firecamp": "Camp autour du feu",
@@ -352,8 +354,6 @@ window.IntoNatureLanguages = (() => {
         "Taille du groupe : max. 6-8 personnes (pour un groupe plus grand, veuillez nous envoyer un e-mail).",
       "Skill level: This tour requires basic fitness and the ability to balance on the sled. There are a few gentle uphills where you will need to help the dogs by stepping or pushing.":
         "Niveau requis : cette excursion demande une condition physique de base et la capacité de garder l'équilibre sur le traîneau. Il y a quelques montées douces où vous devrez aider les chiens en marchant ou en poussant.",
-      "Duration: approx. 3 hours (1 hour dog sledding)":
-        "Durée : environ 3 heures (1 heure de traîneau à chiens)",
       "Transport from Tromsø is not included. Most guests choose to drive themselves, or you can come with a taxi.":
         "Le transport depuis Tromsø n'est pas inclus. La plupart des clients choisissent de venir avec leur propre voiture, ou vous pouvez venir en taxi.",
       "If you're looking for an authentic dogsledding experience away from the big crowds around Tromsø, this tour is perfect for you.":
@@ -389,9 +389,6 @@ window.IntoNatureLanguages = (() => {
       "Important: Please note that transportation to and from this activity is not included!":
         "Important : veuillez noter que le transport vers et depuis cette activité n'est pas inclus !",
       "Dog sledding Expeditions": "Expéditions en traîneau à chiens",
-      "Sledding Time: Approx. 5 hours, Total activity duration: 6 hours":
-        "Temps en traîneau : environ 5 heures, durée totale de l'activité : 6 heures",
-      "Max capacity 4 people.": "Capacité maximale : 4 personnes.",
       "We meet at our place: Skutvikveien 186, 9055 Mestervik":
         "Nous nous retrouvons chez nous : Skutvikveien 186, 9055 Mestervik",
       "After welcoming you and equipped you with winter boots and oversuit if needed,":
@@ -413,21 +410,20 @@ window.IntoNatureLanguages = (() => {
         "Nous circulons sur nos propres pistes et traversons forêts, collines, lacs et rivières dans notre magnifique paysage hivernal.",
       "Half way we will stop to make a campfire and enjoy a light meal and some hot drinks with a beautiful scenery on mountains peaks and fjords.":
         "À mi-chemin, nous nous arrêterons pour faire un feu de camp et profiter d'un repas léger et de boissons chaudes avec une belle vue sur les sommets et les fjords.",
-      "When we come back, we let the dogs run free again in the dogyard and give them a well-deserved snack.":
-        "À notre retour, nous laisserons les chiens courir librement à nouveau dans le chenil et leur donnerons un en-cas bien mérité.",
+      "When we come back, we let the dogs run free again in their enclosure and give them a well-deserved snack.":
+        "À notre retour, nous laisserons les chiens courir librement à nouveau dans leur enclos et leur donnerons un en-cas bien mérité.",
+      "Then we go enjoy a snack as well and a hot drink in our traditional Lavvo.":
+        "Ensuite, nous irons aussi profiter d'un en-cas et d'une boisson chaude dans notre lavvo traditionnel.",
       "3 hr": "3 h",
       "4 people": "4 personnes",
       "8 people": "8 personnes",
       "Approx. 5 hours": "Environ 5 heures",
       "6 hours": "6 heures",
       "NOK 2,490": "NOK 2,490",
+      "Adult NOK 3,290 Child NOK 2,490": "Adulte NOK 3,290 Enfant NOK 2,490",
       "NOK 3,690": "NOK 3,690",
       "NOK 8,000": "NOK 8,000",
       "NOK 1,995": "NOK 1,995",
-      "NOK 1,650": "NOK 1,650",
-      "Start time: 10:30 AM": "Heure de départ : 10h30",
-      "Duration: 3-4 hours": "Durée : 3-4 heures",
-      "Max capacity 8 people": "Capacité maximale : 8 personnes",
       "We meet at our camp in the morning to make the most of the daylight.":
         "Nous nous retrouvons à notre camp le matin pour profiter au maximum de la lumière du jour.",
       "The day consist of a snowhoes hike through a snow-covered forest to reach our beautiful and frozen lake.":
@@ -436,6 +432,8 @@ window.IntoNatureLanguages = (() => {
         "Sur le lieu du camp, vous apprendrez l'art de percer la glace, d'installer votre matériel de pêche et de tenter votre chance pour attraper du poisson sous la surface gelée.",
       "It's a fun and educational experience for everyone.":
         "C'est une expérience amusante et éducative pour tous.",
+      "After the excitement of snowshoeing and ice fishing, we will gather around a crackling bonfire.":
+        "Après l'excitation de la randonnée en raquettes et de la pêche sur glace, nous nous réunirons autour d'un feu crépitant.",
       "Snowhoes hike through a snow-covered forest":
         "Randonnée en raquettes à travers une forêt enneigée",
       "Ice fishing at our beautiful and frozen lake":
@@ -449,21 +447,8 @@ window.IntoNatureLanguages = (() => {
         "Sur le lieu du camp, vous tenterez votre chance pour attraper du poisson sous la surface gelée.",
       "It's the perfect opportunity to relax and connect with your loved ones.":
         "C'est l'occasion parfaite de se détendre et de partager un moment avec vos proches.",
-      "The day consist of a snowhoes hike through a snow-covered, frozen lake, small hills .":
-        "La journée consiste en une randonnée en raquettes à travers un lac gelé enneigé et de petites collines.",
-      "During the hike you will learn more about the Arctic nature, the wildlife around us and mainly enjoy the beautiful landscape of Malangen peninsula.":
-        "Pendant la randonnée, vous en apprendrez davantage sur la nature arctique, la faune autour de nous, et profiterez surtout du magnifique paysage de la péninsule de Malangen.",
-      "Snowshoe hike through a snow-covered landscape with a frozen lake and small hills":
-        "Randonnée en raquettes à travers un paysage enneigé avec un lac gelé et de petites collines.",
-      "Learn more about the Arctic nature and the wildlife around us":
-        "En apprendre davantage sur la nature arctique et la faune autour de nous",
-      "Enjoy the beautiful landscape of Malangen peninsula":
-        "Profiter du magnifique paysage de la péninsule de Malangen",
-      "Stop and make a crackling bonfire": "Faire une pause et allumer un feu crépitant",
       "Hot drink, snack and marshmallows":
         "Boisson chaude, en-cas et marshmallows",
-      "During the hike, we will have a stop and make a crackling bonfire.":
-        "Pendant la randonnée, nous ferons une pause pour allumer un feu crépitant.",
       "Warm up with a hot drink and enjoy a snack while sharing stories and roasting marshmallows.":
         "Réchauffez-vous avec une boisson chaude et profitez d'un en-cas en partageant des histoires et en faisant griller des marshmallows.",
 
@@ -801,15 +786,15 @@ window.IntoNatureLanguages = (() => {
       "The Aurora dog sledding package is offering evening trips for a better chance of seeing the Northern Lights. Unfortunally we can not promise that you will see the Northern Lights.":
         "L'offre de traîneau à chiens sous les aurores propose des sorties en soirée pour augmenter les chances de voir les aurores boréales. Malheureusement, nous ne pouvons pas garantir que vous les verrez.",
       "What is included, and what should I bring?": "Qu'est-ce qui est inclus, et que dois-je apporter ?",
-      "We are supplying warm clothes and snow shoes except for gloves\\mittens and hat. Please look at the activity you want to do for information about what is included.":
-        "Nous fournissons des vêtements chauds et des raquettes, sauf les gants\\moufles et le bonnet. Veuillez consulter l'activité souhaitée pour savoir ce qui est inclus.",
+      "We are supplying warm clothes and winter shoes except for gloves\\mittens and hat. Please look at the activity you want to do for information about what is included.":
+        "Nous fournissons des vêtements chauds et des chaussures d'hiver, sauf les gants\\moufles et le bonnet. Veuillez consulter l'activité souhaitée pour savoir ce qui est inclus.",
       "What happens if there is bad weather?": "Que se passe-t-il en cas de mauvais temps ?",
-      "Arctic weather can change quickly, so routes or programs may be adjusted for safety. If conditions are unsafe, Into Nature may cancel the activity. In that case, guests receive an 80% refund. Safety always comes first.":
-        "La météo arctique peut changer rapidement, les itinéraires ou programmes peuvent donc être adaptés pour des raisons de sécurité. Si les conditions ne sont pas sûres, Into Nature peut annuler l'activité. Dans ce cas, les clients reçoivent un remboursement de 80 %. La sécurité passe toujours en premier.",
+      "Arctic weather can change quickly, and routes or programs may be adjusted for safety. If Into Nature decides conditions are unsafe and cancels the tour, guests receive a 100% refund. This refund does not apply if a guest chooses not to attend.":
+        "La météo arctique peut changer rapidement, les itinéraires ou programmes peuvent donc être adaptés pour des raisons de sécurité. Si Into Nature juge que les conditions ne sont pas sûres et annule l'excursion, les clients reçoivent un remboursement de 100 %. Ce remboursement ne s'applique pas si un client choisit de ne pas participer.",
       "More frequently asked questions": "Plus de questions fréquentes",
       "Start planning your day in Malangen": "Commencez à planifier votre journée à Malangen",
-      "Dog sledding, aurora evenings, snowshoe hikes and ice fishing, guided by a small family-run kennel outside Tromsø.":
-        "Traîneau à chiens, soirées sous les aurores, randonnées en raquettes et pêche sur glace, guidés par un petit chenil familial près de Tromsø.",
+      "Dog sledding, aurora evenings and ice fishing, guided by a small family-run kennel outside Tromsø.":
+        "Traîneau à chiens, soirées sous les aurores et pêche sur glace, guidés par un petit chenil familial près de Tromsø.",
       "Choose your tour": "Choisir votre excursion",
       "Terms and conditions": "Conditions générales",
       "Privacy": "Confidentialité",
@@ -845,8 +830,8 @@ window.IntoNatureLanguages = (() => {
       "5. Program Changes on a Guided Tour": "5. Modifications du programme lors d'une excursion guidée",
       "Circumstances such as extreme temperatures or rapid weather changes may force changes in our programs to ensure the safety of our guests. In the event of unforeseen circumstances or weather conditions affecting the routes related to the program, no refunds will be issued. The safety of our guests is always our top priority. Into Nature also reserves the right to cancel the activity if the minimum number of participants is not reached or if the conditions are deemed unsafe.":
         "Des circonstances telles que des températures extrêmes ou des changements météorologiques rapides peuvent nous obliger à modifier nos programmes afin d'assurer la sécurité de nos clients. En cas de circonstances imprévues ou de conditions météorologiques affectant les itinéraires liés au programme, aucun remboursement ne sera effectué. La sécurité de nos clients est toujours notre priorité absolue. Into Nature se réserve également le droit d'annuler l'activité si le nombre minimum de participants n'est pas atteint ou si les conditions sont jugées dangereuses.",
-      "In such cases, the Client will receive an 80% refund.":
-        "Dans de tels cas, le Client recevra un remboursement de 80 %.",
+      "In such cases, the Client will receive a 100% refund.":
+        "Dans de tels cas, le Client recevra un remboursement de 100 %.",
       "6. Responsibility and Liability": "6. Responsabilité",
       "Participants are responsible for evaluating whether they are physically and mentally prepared for the activities they have booked. Participants must follow all instructions given by our tour guides. Into Nature reserves the right to refuse participation if the participant is considered a safety risk. In this case, the participant will receive a 40% refund of the total amount.":
         "Les participants sont responsables d'évaluer s'ils sont physiquement et mentalement prêts pour les activités qu'ils ont réservées. Les participants doivent suivre toutes les instructions données par nos guides. Into Nature se réserve le droit de refuser la participation si le participant est considéré comme présentant un risque pour la sécurité. Dans ce cas, le participant recevra un remboursement de 40 % du montant total.",
