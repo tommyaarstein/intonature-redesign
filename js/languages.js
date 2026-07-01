@@ -57,12 +57,12 @@ window.IntoNatureLanguages = (() => {
       en: {
         title: "Adventures | Into Nature Arctic Adventures",
         description:
-          "Compare dog sledding, aurora tours and ice fishing adventures with Into Nature near Tromsø.",
+          "Compare dog sledding, multi-day expeditions, aurora tours and ice fishing adventures with Into Nature near Tromsø.",
       },
       fr: {
         title: "Aventures | Into Nature Arctic Adventures",
         description:
-          "Comparez les excursions en traîneau à chiens, les sorties aurores et la pêche sur glace avec Into Nature près de Tromsø.",
+          "Comparez les excursions en traîneau à chiens, les expéditions de plusieurs jours, les sorties aurores et la pêche sur glace avec Into Nature près de Tromsø.",
       },
     },
     "dogs.html": {
@@ -84,9 +84,9 @@ window.IntoNatureLanguages = (() => {
           "Meet Into Nature, a small family-run kennel and Arctic adventure company in Malangen near Tromso.",
       },
       fr: {
-        title: "A propos d'Into Nature | Aventures arctiques pres de Tromso",
+        title: "À propos d'Into Nature | Aventures arctiques près de Tromsø",
         description:
-          "Rencontrez Into Nature, un petit chenil familial et une entreprise d'aventures arctiques a Malangen pres de Tromso.",
+          "Rencontrez Into Nature, un petit chenil familial et une entreprise d'aventures arctiques à Malangen, près de Tromsø.",
       },
     },
     "faq.html": {
@@ -98,7 +98,7 @@ window.IntoNatureLanguages = (() => {
       fr: {
         title: "FAQ & Contact | Into Nature Arctic Adventures",
         description:
-          "Questions frequentes et formulaire de contact pour Into Nature Arctic Adventures pres de Tromso.",
+          "Questions fréquentes et formulaire de contact pour Into Nature Arctic Adventures près de Tromsø.",
       },
     },
   };
@@ -144,67 +144,68 @@ window.IntoNatureLanguages = (() => {
       "Questions before your Arctic adventure?":
         "Des questions avant votre aventure arctique ?",
       "Here you will find practical answers about transport, clothing, weather, Northern Lights, booking and visiting our base in Malangen.":
-        "Vous trouverez ici des reponses pratiques sur le transport, les vetements, la meteo, les aurores boreales, la reservation et la visite de notre base a Malangen.",
-      "Frequently asked questions": "Questions frequentes",
+        "Vous trouverez ici des réponses pratiques sur le transport, les vêtements, la météo, les aurores boréales, la réservation et la visite de notre base à Malangen.",
+      "Frequently asked questions": "Questions fréquentes",
       "Start here if you are comparing tours or planning the practical details before booking.":
-        "Commencez ici si vous comparez les excursions ou preparez les details pratiques avant de reserver.",
+        "Commencez ici si vous comparez les excursions ou préparez les détails pratiques avant de réserver.",
       "Is transport from and to Tromso included?":
-        "Le transport depuis et vers Tromso est-il inclus ?",
+        "Le transport depuis et vers Tromsø est-il inclus ?",
       "Unfortunately no. Transport to and from our activities is not included. Most guests drive themselves or arrange a taxi to our base in Malangen.":
-        "Malheureusement non. Le transport vers et depuis nos activites n'est pas inclus. La plupart des visiteurs viennent avec leur propre voiture ou organisent un taxi jusqu'a notre base a Malangen.",
-      "Can I see the Northern Lights?": "Puis-je voir les aurores boreales ?",
+        "Malheureusement non. Le transport vers et depuis nos activités n'est pas inclus. La plupart des visiteurs viennent avec leur propre voiture ou organisent un taxi jusqu'à notre base à Malangen.",
+      "Can I see the Northern Lights?": "Puis-je voir les aurores boréales ?",
       "The Aurora dog sledding package is an evening trip with a better chance of seeing the Northern Lights. The Northern Lights are a natural phenomenon, so they can never be guaranteed.":
-        "L'activite Aurora dog sledding est une sortie en soiree avec une meilleure chance d'observer les aurores boreales. Les aurores boreales sont un phenomene naturel, elles ne peuvent donc jamais etre garanties.",
+        "L'activité Aurora Dog Sledding est une sortie en soirée qui offre de meilleures chances d'observer les aurores boréales. Les aurores boréales sont un phénomène naturel : elles ne peuvent donc jamais être garanties.",
       "What is included, and what should I bring?":
         "Qu'est-ce qui est inclus, et que dois-je apporter ?",
       "Warm clothing and winter boots are included for selected activities. Please bring your own hat and gloves or mittens, and check the activity page for the exact inclusions.":
-        "Des vetements chauds et des bottes d'hiver sont inclus pour certaines activites. Merci d'apporter votre propre bonnet et vos gants ou moufles, et de verifier la page de l'activite pour les inclusions exactes.",
+        "Des vêtements chauds et des bottes d'hiver sont inclus pour certaines activités. Merci d'apporter votre propre bonnet et des gants ou des moufles, et de vérifier la page de l'activité pour connaître les inclusions exactes.",
       "What happens if there is bad weather?":
         "Que se passe-t-il en cas de mauvais temps ?",
       "Arctic weather can change quickly, and routes or programs may be adjusted for safety. If Into Nature decides conditions are unsafe and cancels the tour, guests receive a 100% refund. This refund does not apply if a guest chooses not to attend.":
-        "La meteo arctique peut changer rapidement, les itineraires ou programmes peuvent donc etre adaptes pour des raisons de securite. Si Into Nature juge que les conditions ne sont pas sures et annule l'excursion, les visiteurs recoivent un remboursement de 100 %. Ce remboursement ne s'applique pas si un visiteur choisit de ne pas participer.",
-      "Where is Into Nature located?": "Ou se trouve Into Nature ?",
+        "La météo arctique peut changer rapidement, les itinéraires ou programmes peuvent donc être adaptés pour des raisons de sécurité. Si Into Nature juge que les conditions ne sont pas sûres et annule l'excursion, les visiteurs reçoivent un remboursement de 100 %. Ce remboursement ne s'applique pas si un visiteur choisit de ne pas participer.",
+      "Where is Into Nature located?": "Où se trouve Into Nature ?",
       "Into Nature is based at Skutvikveien 186, 9055 Mestervik, in Malangen outside Tromsø. The drive from Tromsø takes around 90 minutes depending on road and weather conditions.":
-        "Into Nature est base a Skutvikveien 186, 9055 Mestervik, a Malangen pres de Tromso. Le trajet depuis Tromso prend environ 90 minutes selon la route et les conditions meteo.",
+        "Into Nature est basé à Skutvikveien 186, 9055 Mestervik, à Malangen près de Tromsø. Le trajet depuis Tromsø prend environ 90 minutes selon l'état des routes et les conditions météo.",
+      "Open location in Google Maps": "Ouvrir l'emplacement dans Google Maps",
       "Can children or beginners join?":
-        "Les enfants ou les debutants peuvent-ils participer ?",
+        "Les enfants ou les débutants peuvent-ils participer ?",
       "Some activities are beginner friendly, while others require more balance, fitness or time outdoors. The best choice depends on the activity, age, weather and group size.":
-        "Certaines activites conviennent aux debutants, tandis que d'autres demandent plus d'equilibre, de condition physique ou de temps dehors. Le meilleur choix depend de l'activite, de l'age, de la meteo et de la taille du groupe.",
+        "Certaines activités conviennent aux débutants, tandis que d'autres demandent plus d'équilibre, de condition physique ou de temps dehors. Le meilleur choix dépend de l'activité, de l'âge, de la météo et de la taille du groupe.",
       "How many guests can join a tour?":
-        "Combien de visiteurs peuvent participer a une excursion ?",
+        "Combien de visiteurs peuvent participer à une excursion ?",
       "The tours are kept small so the experience stays calm and personal. Group size depends on the activity, and larger private groups should contact Into Nature before booking.":
-        "Les excursions restent en petits groupes pour garder une experience calme et personnelle. La taille du groupe depend de l'activite, et les grands groupes prives doivent contacter Into Nature avant de reserver.",
-      "Can I book a private trip?": "Puis-je reserver une sortie privee ?",
-      "Private requests may be possible depending on the season, availability and type of activity. Send a message with your preferred dates, number of guests and what you would like to experience.":
-        "Les demandes privees peuvent etre possibles selon la saison, les disponibilites et le type d'activite. Envoyez un message avec vos dates preferees, le nombre de visiteurs et ce que vous souhaitez vivre.",
+        "Les excursions restent en petits groupes afin que l'expérience demeure calme et personnelle. La taille du groupe dépend de l'activité, et les grands groupes privés doivent contacter Into Nature avant de réserver.",
+      "Can I book a private trip?": "Puis-je réserver une sortie privée ?",
+      "Private trips may be possible depending on the season, availability and type of activity. Contact Into Nature with your preferred dates, number of guests and what you would like to experience.":
+        "Des sorties privées peuvent être possibles selon la saison, les disponibilités et le type d'activité. Contactez Into Nature avec vos dates préférées, le nombre de visiteurs et ce que vous souhaitez vivre.",
       "Contact us": "Contactez-nous",
       "Need help choosing the right activity?":
-        "Besoin d'aide pour choisir la bonne activite ?",
+        "Besoin d'aide pour choisir la bonne activité ?",
       "Send a short message with your dates, group size and what you are hoping to experience. The form is prepared for email delivery, but sending is not connected while the site is still in testing.":
-        "Envoyez un court message avec vos dates, la taille du groupe et ce que vous souhaitez vivre. Le formulaire est prepare pour l'envoi par e-mail, mais l'envoi n'est pas connecte tant que le site est encore en test.",
+        "Envoyez un court message avec vos dates, la taille du groupe et ce que vous souhaitez vivre. Le formulaire est préparé pour l'envoi par e-mail, mais l'envoi n'est pas encore connecté tant que le site est en test.",
       "Name": "Nom",
       "Email": "E-mail",
       "Country": "Pays",
-      "Preferred dates of the activity": "Dates preferees de l'activite",
-      "Example: 12-15 February 2027": "Exemple : 12-15 fevrier 2027",
+      "Preferred dates of the activity": "Dates préférées de l'activité",
+      "Example: 12-15 February 2027": "Exemple : 12-15 février 2027",
       "Number of guests": "Nombre de visiteurs",
       "Message": "Message",
-      "characters": "caracteres",
+      "characters": "caractères",
       "I have read and agree to the": "J'ai lu et j'accepte la",
-      "Privacy Policy": "politique de confidentialite",
+      "Privacy Policy": "politique de confidentialité",
       "Send message": "Envoyer le message",
       "The form is not connected yet while the website is in testing.":
-        "Le formulaire n'est pas encore connecte pendant que le site est en test.",
+        "Le formulaire n'est pas encore connecté pendant que le site est en test.",
       "The form is not connected yet while the website is in testing. No message was sent.":
-        "Le formulaire n'est pas encore connecte pendant que le site est en test. Aucun message n'a ete envoye.",
+        "Le formulaire n'est pas encore connecté pendant que le site est en test. Aucun message n'a été envoyé.",
       "Arctic adventures near Tromsø": "Aventures arctiques près de Tromsø",
       "A small family-run kennel and outdoor company where dogs, nature and authentic Arctic experiences come first.":
-        "Une petite entreprise familiale de chenil et d'activités en plein air où les chiens, la nature et les expériences arctiques authentiques passent avant tout.",
+        "Un petit chenil familial et une entreprise d'activités de plein air où les chiens, la nature et les expériences arctiques authentiques passent avant tout.",
       "View winter tours": "Voir les excursions d'hiver",
       "Plan a private trip": "Planifier une excursion privée",
       "Into Nature we go": "Into Nature we go",
       "Remote, personal, dog-first experiences":
-        "Des expériences isolées, personnelles et centrées sur les chiens",
+        "Des expériences reculées, personnelles et centrées sur les chiens",
       "Small groups, local hosts and a working husky kennel outside the busy city tour routes.":
         "Petits groupes, hôtes locaux et chenil de huskies en activité, loin des circuits touristiques bondés de la ville.",
       "Built for travelers who want the real Arctic, not a rushed tourist stop.":
@@ -212,19 +213,21 @@ window.IntoNatureLanguages = (() => {
       "Based on the Malangen Fjord peninsula, approximately 90 minutes from Tromsø, Into Nature specialises in calm, authentic wilderness experiences for small and private groups.":
         "Basée sur la péninsule du fjord de Malangen, à environ 90 minutes de Tromsø, Into Nature est spécialisée dans les expériences calmes et authentiques en pleine nature pour petits groupes et groupes privés.",
       "Group style": "Type de groupe",
-      "Small and private options": "Options en petit groupe et privées",
+      "Small groups & private trips by request":
+        "Petits groupes et sorties privées sur demande",
       "Base": "Base",
       "Malangen, near Tromsø": "Malangen, près de Tromsø",
       "Best for": "Idéal pour",
       "Couples, families and curious travelers": "Couples, familles et voyageurs curieux",
       "Choose the right winter adventure": "Choisissez la bonne aventure hivernale",
-      "We are offering a selection of 4 unique trips in the arctic wilderness ranging from a relaxing trip to a more hands-on experience.":
-        "Nous proposons une sélection de 4 excursions uniques dans la nature arctique, allant d'une sortie relaxante à une expérience plus active.",
+      "We are offering a selection of 5 unique trips in the arctic wilderness ranging from a relaxing trip to a more hands-on experience.":
+        "Nous proposons une sélection de 5 excursions uniques dans la nature arctique, allant d'une sortie relaxante à une expérience plus active.",
 
       "Dog Sledding - Be the Musher": "Traîneau à chiens - Devenez musher",
       "Hands-on husky sledding through quiet forest trails and open Arctic landscapes.":
         "Conduite active d'un traîneau de huskies à travers des sentiers forestiers paisibles et de grands paysages arctiques.",
-      "First-time friendly": "Adapté aux débutants",
+      "Basic fitness required": "Condition physique de base requise",
+      "Some uphill pushing": "Quelques montées à aider en poussant",
       "Approx. 3 hours": "Environ 3 heures",
       "1 hour dog sledding": "1 heure de traîneau à chiens",
       "max 6-8 guests": "max. 6-8 personnes",
@@ -233,8 +236,8 @@ window.IntoNatureLanguages = (() => {
       "Warm toddy & Balsfjord lefse": "Toddy chaud & lefse maison de Balsfjord",
       "Small group pace": "Rythme de petit groupe",
       "From NOK 2,490,-": "À partir de NOK 2,490,-",
-      "Adult NOK 3,290": "Adulte NOK 3,290",
-      "Child NOK 2,490": "Enfant NOK 2,490",
+      "Adults 12+": "Adultes 12+",
+      "Children 0-11": "Enfants 0-11",
       "Transport from Tromsø not included.": "Transport depuis Tromsø non inclus.",
       "View tour": "Voir l'excursion",
       "Aurora Dog Sledding": "Traîneau à chiens sous les aurores",
@@ -254,6 +257,18 @@ window.IntoNatureLanguages = (() => {
       "Approx. 5 hours sledding": "Environ 5 heures de traîneau",
       "6 hours total": "6 heures au total",
       "NOK 8,000,-": "NOK 8,000,-",
+      "Multi-Day Dog Sledding Expeditions":
+        "Expéditions de plusieurs jours en traîneau à chiens",
+      "Two-day and five-day Arctic expeditions for guests who want to travel deeper into the winter wilderness with their own dog team.":
+        "Des expéditions arctiques de deux ou cinq jours pour les visiteurs qui veulent aller plus loin dans la nature hivernale avec leur propre attelage.",
+      "2-day or 5-day expedition": "Expédition de 2 ou 5 jours",
+      "Drive your own dog team": "Conduisez votre propre attelage",
+      "Remote Arctic wilderness": "Nature sauvage arctique reculée",
+      "Overnight trail experience": "Expérience avec nuit sur la piste",
+      "Warm meals included": "Repas chauds inclus",
+      "Contact to book": "Contactez-nous pour réserver",
+      "Available by direct contact only.": "Disponible uniquement par contact direct.",
+      "View expedition": "Voir l'expédition",
       "Ice Fishing": "Pêche sur glace",
       "A slower Arctic day with local guiding, frozen lakes and warm breaks.":
         "Une journée arctique plus douce avec guide local, lacs gelés et pauses au chaud.",
@@ -266,12 +281,12 @@ window.IntoNatureLanguages = (() => {
       "NOK 1,995,-": "NOK 1,995,-",
       "Winter adventures": "Aventures hivernales",
       "Choose your Arctic experience": "Choisissez votre expérience arctique",
-      "Compare Into Nature's dog sledding, aurora and ice fishing activities. Each experience is small-scale, local and based from Malangen near Tromsø.":
-        "Comparez les activités de traîneau à chiens, d'aurores et de pêche sur glace d'Into Nature. Chaque expérience est locale, en petit groupe et basée à Malangen près de Tromsø.",
+      "Compare Into Nature's dog sledding, multi-day expeditions, aurora and ice fishing activities. Each experience is small-scale, local and based from Malangen near Tromsø.":
+        "Comparez les activités de traîneau à chiens, les expéditions de plusieurs jours, les sorties sous les aurores et la pêche sur glace d'Into Nature. Chaque expérience est locale, en petit groupe et basée à Malangen, près de Tromsø.",
       "A first-time friendly way to try driving a dog sled with local guides.":
-        "Une façon adaptée aux débutants d'essayer de conduire un traîneau à chiens avec des guides locaux.",
+        "Une manière accessible de découvrir la conduite d'un traîneau à chiens avec des guides locaux.",
       "Hands-on husky sledding through quiet forest trails and open Arctic landscapes. A first-time friendly way to try driving a dog sled with local guides.":
-        "Conduite active d'un traîneau de huskies à travers des sentiers forestiers paisibles et de grands paysages arctiques. Une façon adaptée aux débutants d'essayer de conduire un traîneau à chiens avec des guides locaux.",
+        "Conduite active d'un traîneau de huskies à travers des sentiers forestiers paisibles et de grands paysages arctiques. Une manière accessible de découvrir la conduite d'un traîneau à chiens avec des guides locaux.",
       "Dog sledding": "Traîneau à chiens",
       "Price": "Prix",
       "Duration": "Durée",
@@ -286,7 +301,7 @@ window.IntoNatureLanguages = (() => {
       "Good to know": "Bon à savoir",
       "Guided husky sledding experience": "Expérience guidée en traîneau avec huskies",
       "Guests should be prepared for a physical outdoor activity.":
-        "Les clients doivent être prêts pour une activité physique en plein air.",
+        "Les visiteurs doivent être prêts pour une activité physique en plein air.",
       "Book this tour": "Réserver cette excursion",
       "A guided evening sled ride through snowy wilderness, with a chance to see the Northern Lights while travelling with racing huskies.":
         "Une sortie guidée en soirée en traîneau dans la nature enneigée, avec une chance d'observer les aurores boréales en compagnie de huskies de course.",
@@ -294,12 +309,13 @@ window.IntoNatureLanguages = (() => {
       "Northern Lights sightings can never be guaranteed.":
         "L'observation des aurores boréales ne peut jamais être garantie.",
       "Full Day": "Journée complète",
+      "Multi-Day Expeditions": "Expéditions de plusieurs jours",
       "Full day sledding": "Journée complète en traîneau",
       "A full-day hands-on sledding experience across forests, hills, lakes and rivers, with a campfire lunch in the Arctic landscape.":
         "Une journée complète de conduite de traîneau à travers forêts, collines, lacs et rivières, avec déjeuner autour du feu dans le paysage arctique.",
       "Long hands-on sledding experience": "Longue expérience active en traîneau",
       "Small group format with a maximum of 4 guests.":
-        "Format en petit groupe avec un maximum de 4 personnes.",
+        "Format en petit groupe, avec un maximum de 4 personnes.",
       "Slow Arctic day": "Journée arctique douce",
       "A slower Arctic day with local guiding, frozen lakes, snowshoe hiking, ice fishing and warm breaks around a bonfire.":
         "Une journée arctique plus calme avec guide local, lacs gelés, raquettes, pêche sur glace et pauses chaudes autour d'un feu de camp.",
@@ -307,7 +323,7 @@ window.IntoNatureLanguages = (() => {
       "Bonfire, hot drink, snack and marshmallows":
         "Feu de camp, boisson chaude, en-cas et marshmallows",
       "A quieter activity for guests who want a slower Arctic day.":
-        "Une activité plus tranquille pour les clients qui veulent une journée arctique plus douce.",
+        "Une activité plus tranquille pour les visiteurs qui souhaitent une journée arctique plus lente et détendue.",
       "Snack and marshmallows": "En-cas et marshmallows",
       "Booking will be added here": "La réservation sera ajoutée ici",
       "This site will later embed the 2izii booking and payment service. Until then, the booking buttons stay internal and do not send visitors to the old Wix site.":
@@ -316,24 +332,22 @@ window.IntoNatureLanguages = (() => {
       "Winter Adventures": "Aventures hivernales",
       "Be the Musher": "Devenez musher",
       "Remote Malangen Fjord - approx. 90 minutes drive from Tromsø":
-        "Fjord de Malangen isolé - environ 90 minutes de route depuis Tromsø",
+        "Fjord de Malangen reculé - environ 90 minutes de route depuis Tromsø",
       "Location": "Lieu",
       "Max capacity": "Capacité maximale",
       "Service Description": "Description du service",
       "Important": "Important",
-      "This service is not available, please contact for more information.":
-        "Ce service n'est pas disponible, veuillez nous contacter pour plus d'informations.",
       "Terms and conditions": "Conditions générales",
-      "Join our dog sledding adventure on the beautiful Malangen Fjord peninsula, where you'll drive your own team of eager Alaskan huskies through quiet forest trails and open landscapes.":
-        "Rejoignez notre aventure en traîneau à chiens sur la magnifique péninsule du fjord de Malangen, où vous conduirez votre propre attelage de huskies d'Alaska à travers des sentiers forestiers paisibles et de grands paysages ouverts.",
+      "Join our dog sledding adventure on the beautiful Malangen Fjord peninsula, where you'll drive your own sled through quiet forest trails and open landscapes with the dogs leading out front.":
+        "Rejoignez notre aventure en traîneau à chiens sur la magnifique péninsule du fjord de Malangen. Vous conduirez votre propre traîneau à travers des sentiers forestiers paisibles et de grands paysages ouverts, avec les chiens en tête.",
       "This is a small-group experience that offers a calm, personal encounter with our dogs and the Arctic wilderness.":
-        "C'est une expérience en petit groupe qui offre une rencontre calme et personnelle avec nos chiens et la nature arctique.",
+        "Cette expérience en petit groupe offre une rencontre calme et personnelle avec nos chiens et la nature arctique.",
       "During your visit, you will also see the dogs running freely in their enclosure, a unique part of the experience that guests often love.":
         "Pendant votre visite, vous verrez aussi les chiens courir librement dans leur enclos, une partie unique de l'expérience que les visiteurs apprécient souvent beaucoup.",
       "Before starting the tour, you'll receive clear instructions on how to handle the sled, how to brake, and how to work with your husky team. Once we're ready, you'll head out on the trail for a peaceful ride surrounded by snow-covered mountains and pure winter silence.":
         "Avant de commencer l'excursion, vous recevrez des instructions claires pour manier le traîneau, freiner et travailler avec votre attelage de huskies. Une fois prêts, vous partirez sur la piste pour une sortie paisible entourée de montagnes enneigées et du silence pur de l'hiver.",
       "We provide warm clothing and winter boots, to stay comfortable during the excursion. Don't forget to bring your own hat an winter gloves / mittens.":
-        "Nous fournissons des vêtements chauds et des bottes d'hiver pour rester confortable pendant l'excursion. N'oubliez pas d'apporter votre propre bonnet et des gants / moufles d'hiver.",
+        "Nous fournissons des vêtements chauds et des bottes d'hiver pour que vous restiez à l'aise pendant l'excursion. N'oubliez pas d'apporter votre propre bonnet et des gants ou moufles d'hiver.",
       "Our starting point is easy to reach by car, and winter roads are normally well maintained.":
         "Notre point de départ est facile d'accès en voiture, et les routes d'hiver sont normalement bien entretenues.",
       "Warm clothing and winter boots": "Vêtements chauds et bottes d'hiver",
@@ -347,23 +361,23 @@ window.IntoNatureLanguages = (() => {
       "Firecamp": "Camp autour du feu",
       "Cuddling dogs": "Moments avec les chiens",
       "We provide warm clothing and winter boots, to stay comfortable during the excursion.":
-        "Nous fournissons des vêtements chauds et des bottes d'hiver pour rester confortable pendant l'excursion.",
+        "Nous fournissons des vêtements chauds et des bottes d'hiver pour que vous restiez à l'aise pendant l'excursion.",
       "Don't forget to bring your own hat an winter gloves / mittens.":
-        "N'oubliez pas d'apporter votre propre bonnet et des gants / moufles d'hiver.",
+        "N'oubliez pas d'apporter votre propre bonnet et des gants ou moufles d'hiver.",
       "Group size: max 6-8 guests ( For bigger group, please send us an email).":
         "Taille du groupe : max. 6-8 personnes (pour un groupe plus grand, veuillez nous envoyer un e-mail).",
       "Skill level: This tour requires basic fitness and the ability to balance on the sled. There are a few gentle uphills where you will need to help the dogs by stepping or pushing.":
         "Niveau requis : cette excursion demande une condition physique de base et la capacité de garder l'équilibre sur le traîneau. Il y a quelques montées douces où vous devrez aider les chiens en marchant ou en poussant.",
       "Transport from Tromsø is not included. Most guests choose to drive themselves, or you can come with a taxi.":
-        "Le transport depuis Tromsø n'est pas inclus. La plupart des clients choisissent de venir avec leur propre voiture, ou vous pouvez venir en taxi.",
+        "Le transport depuis Tromsø n'est pas inclus. La plupart des visiteurs choisissent de venir avec leur propre voiture, mais vous pouvez aussi venir en taxi.",
       "If you're looking for an authentic dogsledding experience away from the big crowds around Tromsø, this tour is perfect for you.":
-        "Si vous cherchez une expérience authentique de traîneau à chiens loin des grandes foules autour de Tromsø, cette excursion est parfaite pour vous.",
+        "Si vous cherchez une expérience authentique de traîneau à chiens, loin des grands groupes autour de Tromsø, cette excursion est faite pour vous.",
       "PLEASE READ OUR TERMS AND CONDITIONS BEFORE BOOKING:":
         "VEUILLEZ LIRE NOS CONDITIONS GÉNÉRALES AVANT DE RÉSERVER :",
       "Embark on a Magical Dog Sledding Adventure Under the Northern Lights!":
         "Embarquez pour une aventure magique en traîneau à chiens sous les aurores boréales !",
       "Step into the magic of winter with our guided dog sledding adventure.":
-        "Entrez dans la magie de l'hiver avec notre aventure guidée en traîneau à chiens.",
+        "Entrez dans la magie de l'hiver avec notre sortie guidée en traîneau à chiens.",
       "Sit back in the sled, wrapped up warmly, while our guides handle the driving, using a large team of our racing huskies. This means you'll experience more speed and excitement as the dogs race through the trails, giving you an exhilarating ride through the snow-covered wilderness.":
         "Installez-vous confortablement dans le traîneau, bien au chaud, pendant que nos guides conduisent avec un grand attelage de nos huskies de course. Vous vivrez ainsi plus de vitesse et d'intensité lorsque les chiens parcourent les pistes, pour une sortie exaltante dans la nature enneigée.",
       "And As we glide through the serene landscape, you'll feel the peacefulness of nature all around...":
@@ -385,7 +399,7 @@ window.IntoNatureLanguages = (() => {
       "The experience takes place in the crisp evening air, surrounded by snow and stars.":
         "L'expérience se déroule dans l'air frais du soir, entouré de neige et d'étoiles.",
       "This tour is for guests looking for winter beauty or the thrill of spotting the Aurora Borealis.":
-        "Cette excursion s'adresse aux clients qui recherchent la beauté de l'hiver ou le frisson d'observer les aurores boréales.",
+        "Cette excursion s'adresse aux visiteurs qui recherchent la beauté de l'hiver ou le frisson d'observer les aurores boréales.",
       "Important: Please note that transportation to and from this activity is not included!":
         "Important : veuillez noter que le transport vers et depuis cette activité n'est pas inclus !",
       "Dog sledding Expeditions": "Expéditions en traîneau à chiens",
@@ -405,7 +419,7 @@ window.IntoNatureLanguages = (() => {
         "Feu de camp, repas léger et boissons chaudes",
       "Snack and hot drink in our traditional Lavvo":
         "En-cas et boisson chaude dans notre lavvo traditionnel",
-      "1 guest per sled: Only driver.": "1 client par traîneau : conducteur uniquement.",
+      "1 guest per sled: Only driver.": "1 visiteur par traîneau : conducteur uniquement.",
       "We run on our own trails, and will go through forests, hills, lakes and rivers in our beautiful winter landscape.":
         "Nous circulons sur nos propres pistes et traversons forêts, collines, lacs et rivières dans notre magnifique paysage hivernal.",
       "Half way we will stop to make a campfire and enjoy a light meal and some hot drinks with a beautiful scenery on mountains peaks and fjords.":
@@ -414,13 +428,73 @@ window.IntoNatureLanguages = (() => {
         "À notre retour, nous laisserons les chiens courir librement à nouveau dans leur enclos et leur donnerons un en-cas bien mérité.",
       "Then we go enjoy a snack as well and a hot drink in our traditional Lavvo.":
         "Ensuite, nous irons aussi profiter d'un en-cas et d'une boisson chaude dans notre lavvo traditionnel.",
+      "Available by direct contact only": "Disponible uniquement par contact direct",
+      "2 or 5 days": "2 ou 5 jours",
+      "Booking": "Réservation",
+      "Contact directly": "Contact direct",
+      "Experience": "Expérience",
+      "Drive your own team": "Conduisez votre propre attelage",
+      "Overnight": "Nuitée",
+      "Tent / wilderness cabin": "Tente / cabane en pleine nature",
+      "Leave the ordinary behind and experience the Arctic the way it has been traveled for generations.":
+        "Laissez l'ordinaire derrière vous et découvrez l'Arctique tel qu'il est parcouru depuis des générations.",
+      "Our multi-day dog sledding expeditions take you deep into untouched winter landscapes, where the rhythm of the sled dogs and the silence of the wilderness become part of your journey.":
+        "Nos expéditions de plusieurs jours en traîneau à chiens vous emmènent au cœur de paysages hivernaux intacts, où le rythme des chiens de traîneau et le silence de la nature sauvage font partie du voyage.",
+      "Whether you choose a 2-day adventure or a 5-day wilderness expedition, you'll learn to drive your own team of enthusiastic Alaskan huskies while exploring frozen lakes, snow-covered forests, and breathtaking mountain scenery.":
+        "Que vous choisissiez une aventure de 2 jours ou une expédition de 5 jours en pleine nature, vous apprendrez à conduire votre propre attelage de huskies d'Alaska tout en explorant des lacs gelés, des forêts enneigées et des paysages de montagne à couper le souffle.",
+      "Each day brings new trails, changing landscapes, and unforgettable moments. Evenings are spent in cozy wilderness cabins or traditional accommodations, sharing stories over warm meals before resting for another day on the trail.":
+        "Chaque jour apporte de nouvelles pistes, des paysages changeants et des moments inoubliables. Les soirées se passent dans des cabanes confortables en pleine nature ou dans des hébergements traditionnels, autour de repas chauds et d'histoires partagées avant une nouvelle journée sur la piste.",
+      "No previous dog sledding experience is required. Before departure, our experienced guides will teach you everything you need to know about handling the sled, working with your dogs, and traveling safely in Arctic conditions.":
+        "Aucune expérience préalable en traîneau à chiens n'est requise. Avant le départ, nos guides expérimentés vous apprendront tout ce qu'il faut savoir pour manier le traîneau, travailler avec les chiens et voyager en sécurité dans les conditions arctiques.",
+      "What to Expect": "À quoi s'attendre",
+      "Drive your own team of well-trained Alaskan huskies":
+        "Conduire votre propre attelage de huskies d'Alaska entraînés",
+      "Explore remote Arctic wilderness far from the crowds":
+        "Explorer une nature arctique isolée, loin des foules",
+      "Learn about dog sledding traditions and caring for the dogs":
+        "Découvrir les traditions du traîneau à chiens et les soins apportés aux chiens",
+      "Sleeping in a tent.": "Dormir dans une tente.",
+      "Enjoy hearty homemade meals and warm evenings by the fire":
+        "Profiter de repas maison nourrissants et de soirées chaleureuses près du feu",
+      "Experience the magic of the Northern winter—and, if conditions allow, the Northern Lights":
+        "Vivre la magie de l'hiver nordique et, si les conditions le permettent, les aurores boréales",
+      "Trail style": "Style de l'expédition",
+      "Our expeditions are designed for those who want more than a dog sledding tour. They are an opportunity to disconnect from everyday life, slow down to the rhythm of the trail, and experience the Arctic in its purest form.":
+        "Nos expéditions sont conçues pour celles et ceux qui veulent plus qu'une simple sortie en traîneau à chiens. Elles offrent l'occasion de se déconnecter du quotidien, de ralentir au rythme de la piste et de découvrir l'Arctique dans sa forme la plus pure.",
+      "At Into Nature, we offer two carefully designed expeditions, each providing a different way to experience life on the trail.":
+        "Chez Into Nature, nous proposons deux expéditions soigneusement pensées, chacune offrant une manière différente de vivre la vie sur la piste.",
+      "2-Day Expedition": "Expédition de 2 jours",
+      "Our two-day expedition begins directly from our kennel, allowing you to step straight into the adventure. After learning how to handle your sled and getting to know your dogs, you'll travel through forests, across frozen lakes, and into the mountains before spending the night in a tent.":
+        "Notre expédition de deux jours commence directement depuis notre chenil, ce qui vous permet d'entrer immédiatement dans l'aventure. Après avoir appris à manier votre traîneau et fait connaissance avec vos chiens, vous traverserez des forêts, des lacs gelés et des paysages de montagne avant de passer la nuit sous tente.",
+      "This expedition is perfect for those looking for an authentic overnight adventure while experiencing the joy of driving their own dog team.":
+        "Cette expédition est idéale pour celles et ceux qui recherchent une vraie aventure avec nuit dehors, tout en découvrant la joie de conduire leur propre attelage.",
+      "5-Day Wilderness Expedition": "Expédition de 5 jours en pleine nature",
+      "For those seeking the full Arctic experience, our five-day expedition ventures into more remote wilderness areas, where we can explore longer trails, spectacular mountain landscapes, and untouched nature far from civilization.":
+        "Pour celles et ceux qui recherchent l'expérience arctique complète, notre expédition de cinq jours s'aventure dans des zones plus reculées, où nous pouvons explorer de plus longues pistes, des paysages de montagne spectaculaires et une nature intacte, loin de la civilisation.",
+      "Over five unforgettable days, you'll become part of the team—caring for your dogs each morning, driving your own sled through changing landscapes, and sharing evenings around the fire in comfortable wilderness cabins.":
+        "Pendant cinq jours inoubliables, vous ferez partie de l'équipe : vous vous occuperez de vos chiens chaque matin, conduirez votre propre traîneau à travers des paysages changeants et partagerez les soirées autour du feu dans des cabanes confortables en pleine nature.",
+      "This is not simply a holiday activity; it's a genuine expedition that allows you to experience the Arctic as it was meant to be explored.":
+        "Ce n'est pas simplement une activité de vacances ; c'est une véritable expédition qui vous permet de découvrir l'Arctique tel qu'il mérite d'être exploré.",
+      "A Real Dog Sledding Experience": "Une véritable expérience de traîneau à chiens",
+      "Every expedition is unique.": "Chaque expédition est unique.",
+      "Our routes and daily distances are adapted to the weather, snow conditions, and the wellbeing of our dogs. While the overall experience remains the same, no two expeditions are exactly alike.":
+        "Nos itinéraires et les distances quotidiennes sont adaptés à la météo, aux conditions de neige et au bien-être de nos chiens. Même si l'expérience globale reste la même, aucune expédition ne se ressemble exactement.",
+      "Dog sledding is not about the destination—it's about becoming part of the team. On our expeditions, you'll drive your own sled, care for your dogs, and travel through the Arctic at the pace nature intended. Whether you join us for two days from our home kennel or embark on our five-day wilderness expedition, you'll experience dog sledding as more than an activity—it's a way of life.":
+        "Le traîneau à chiens ne se résume pas à une destination : il s'agit de faire partie de l'équipe. Lors de nos expéditions, vous conduirez votre propre traîneau, prendrez soin de vos chiens et traverserez l'Arctique au rythme de la nature. Que vous nous rejoigniez pour deux jours depuis notre chenil ou que vous partiez pour notre expédition de cinq jours en pleine nature, vous découvrirez le traîneau à chiens comme bien plus qu'une activité : comme un mode de vie.",
+      "No previous experience is necessary. Before setting off, our guides will teach you everything you need to know about driving a sled, working with your dogs, and traveling safely in winter conditions.":
+        "Aucune expérience préalable n'est nécessaire. Avant le départ, nos guides vous apprendront tout ce qu'il faut savoir pour conduire un traîneau, travailler avec les chiens et voyager en sécurité dans les conditions hivernales.",
+      "Throughout the journey, you'll work closely with your dog team, learning how to harness them, care for them, and understand their incredible enthusiasm for running. By the end of your expedition, you'll have formed a connection with your dogs that many guests describe as the highlight of their trip.":
+        "Tout au long du voyage, vous travaillerez étroitement avec votre attelage : apprendre à les harnacher, prendre soin d'eux et comprendre leur incroyable enthousiasme pour la course. À la fin de l'expédition, vous aurez créé un lien avec vos chiens que de nombreux visiteurs décrivent comme le moment fort de leur voyage.",
+      "Whether you choose our 2-day or 5-day expedition, you'll leave with unforgettable memories, new skills, and a deeper appreciation for the Arctic wilderness and the remarkable dogs that make these journeys possible.":
+        "Que vous choisissiez notre expédition de 2 ou 5 jours, vous repartirez avec des souvenirs inoubliables, de nouvelles compétences et une compréhension plus profonde de la nature arctique et des chiens remarquables qui rendent ces voyages possibles.",
+      "This expedition is available by direct contact only. Please contact Into Nature to ask about dates, availability and which expedition fits your group.":
+        "Cette expédition est disponible uniquement par contact direct. Veuillez contacter Into Nature pour connaître les dates, les disponibilités et l'expédition qui convient le mieux à votre groupe.",
       "3 hr": "3 h",
       "4 people": "4 personnes",
       "8 people": "8 personnes",
       "Approx. 5 hours": "Environ 5 heures",
       "6 hours": "6 heures",
       "NOK 2,490": "NOK 2,490",
-      "Adult NOK 3,290 Child NOK 2,490": "Adulte NOK 3,290 Enfant NOK 2,490",
       "NOK 3,690": "NOK 3,690",
       "NOK 8,000": "NOK 8,000",
       "NOK 1,995": "NOK 1,995",
@@ -463,9 +537,9 @@ window.IntoNatureLanguages = (() => {
       "Clothing guidance": "Conseils vestimentaires",
       "Warm clothes are being provided, but gloves\\mittens and hat needs to be brought.":
         "Des vêtements chauds sont fournis, mais les gants\\moufles et le bonnet doivent être apportés.",
-      "What our guests say": "Ce que disent nos clients",
+      "What our guests say": "Ce que disent nos visiteurs",
       "Real feedback from guests who joined us for husky experiences, quiet Arctic days and wilderness adventures in Malangen.":
-        "De vrais retours de clients qui nous ont rejoints pour des expériences avec les huskies, des journées arctiques paisibles et des aventures en pleine nature à Malangen.",
+        "De vrais retours de visiteurs qui nous ont rejoints pour des expériences avec les huskies, des journées arctiques paisibles et des aventures en pleine nature à Malangen.",
       "Read more Google reviews": "Lire plus d'avis Google",
       "Google review": "Avis Google",
       "The only place you should go for a husky experience. Truly amazing! Absolutely phenomenal.":
@@ -476,161 +550,161 @@ window.IntoNatureLanguages = (() => {
         "Un endroit merveilleux ! Tout chez Into Nature est absolument fantastique.",
       "“A wonderful place! Everything about Into Nature is absolutely fantastic.”":
         "« Un endroit merveilleux ! Tout chez Into Nature est absolument fantastique. »",
-      "Google guests": "Clients Google",
+      "Google guests": "Avis Google",
       "More reviews": "Plus d'avis",
       "Guests mention the dogs, calm guiding and personal feeling as reasons the experience stands out.":
-        "Les clients mentionnent les chiens, l'accompagnement calme et l'ambiance personnelle comme raisons qui rendent l'expérience unique.",
+        "Les visiteurs mentionnent les chiens, l'accompagnement calme et l'atmosphère personnelle comme ce qui rend l'expérience unique.",
       "Dogs & welfare": "Chiens & bien-être",
-      "About Into Nature": "A propos d'Into Nature",
+      "About Into Nature": "À propos d'Into Nature",
       "A life built around dogs, nature and the Arctic.":
         "Une vie construite autour des chiens, de la nature et de l'Arctique.",
       "Into Nature is a small, family-run kennel and outdoor company in Malangen. The work is simple at heart: care for the dogs, live close to nature and invite guests into honest Arctic experiences.":
-        "Into Nature est un petit chenil familial et une entreprise de plein air a Malangen. L'essentiel est simple : prendre soin des chiens, vivre pres de la nature et inviter les visiteurs a vivre des experiences arctiques sinceres.",
+        "Into Nature est un petit chenil familial et une entreprise de plein air à Malangen. Au fond, notre travail est simple : prendre soin des chiens, vivre près de la nature et inviter les visiteurs à vivre des expériences arctiques sincères.",
       "Our story": "Notre histoire",
       "From one dream to a working husky kennel.":
-        "D'un reve a un chenil de huskies en activite.",
+        "D'un rêve à un chenil de huskies en activité.",
       "Quentin came from France to Norway in 2008, drawn north by wilderness, dogs and adventure. He began working as a sled dog handler in 2010 and guided guests in Northern Norway and Svalbard before building Into Nature.":
-        "Quentin est arrive de France en Norvege en 2008, attire par la nature sauvage, les chiens et l'aventure. Il a commence a travailler comme handler de chiens de traineau en 2010 et a guide des visiteurs dans le nord de la Norvege et au Svalbard avant de creer Into Nature.",
+        "Quentin est arrivé de France en Norvège en 2008, attiré par la nature sauvage, les chiens et l'aventure. Il a commencé à travailler comme handler de chiens de traîneau en 2010 et a guidé des visiteurs dans le nord de la Norvège et au Svalbard avant de créer Into Nature.",
       "The first four dogs arrived in 2013. Since then the kennel has grown slowly and personally, shaped by daily care, training, guiding and a belief that small groups create better experiences for guests and dogs.":
-        "Les quatre premiers chiens sont arrives en 2013. Depuis, le chenil a grandi lentement et personnellement, avec les soins quotidiens, l'entrainement, le guidage et la conviction que les petits groupes creent de meilleures experiences pour les visiteurs et les chiens.",
-      "What defines Into Nature": "Ce qui definit Into Nature",
+        "Les quatre premiers chiens sont arrivés en 2013. Depuis, le chenil a grandi lentement et de manière personnelle, façonné par les soins quotidiens, l'entraînement, le guidage et la conviction que les petits groupes créent de meilleures expériences pour les visiteurs comme pour les chiens.",
+      "What defines Into Nature": "Ce qui définit Into Nature",
       "Dogs first": "Les chiens d'abord",
       "The dogs are family and working partners. Their wellbeing shapes the pace, the tours and the decisions.":
-        "Les chiens sont la famille et des partenaires de travail. Leur bien-etre influence le rythme, les excursions et les decisions.",
+        "Les chiens font partie de la famille et sont aussi nos partenaires de travail. Leur bien-être influence le rythme, les excursions et les décisions.",
       "Small by choice": "Petit par choix",
       "Small groups make the experience calmer, more personal and closer to the landscape around Malangen.":
-        "Les petits groupes rendent l'experience plus calme, plus personnelle et plus proche des paysages autour de Malangen.",
+        "Les petits groupes rendent l'expérience plus calme, plus personnelle et plus proche des paysages autour de Malangen.",
       "Real Arctic life": "La vraie vie arctique",
       "Guests step into the life of a working kennel, not a rushed stop on a crowded route.":
-        "Les visiteurs entrent dans la vie d'un chenil en activite, pas dans un arret presse sur un itineraire bonde.",
+        "Les visiteurs entrent dans la vie d'un chenil en activité, pas dans une halte pressée sur un itinéraire bondé.",
       "Long distance racing": "Course longue distance",
       "Crazy mushing, steady care and thousands of quiet kilometres.":
-        "Mushing engage, soins constants et des milliers de kilometres silencieux.",
+        "Mushing engagé, soins constants et des milliers de kilomètres silencieux.",
       "Long distance dog sledding is part of Into Nature's identity. The races demand patience, trust, preparation and a deep understanding of every dog in the team.":
-        "Le traineau a chiens longue distance fait partie de l'identite d'Into Nature. Les courses demandent patience, confiance, preparation et une comprehension profonde de chaque chien de l'equipe.",
+        "Le traîneau à chiens longue distance fait partie de l'identité d'Into Nature. Les courses demandent patience, confiance, préparation et une compréhension profonde de chaque chien de l'équipe.",
       "Quentin has been involved with sled dogs since 2010 and has raced in long distance events such as Finnmarkslopet and Femundlopet. That experience feeds directly back into the kennel: training, nutrition, rest, recovery and respect for each dog's limits.":
-        "Quentin travaille avec les chiens de traineau depuis 2010 et a participe a des courses longue distance comme la Finnmarkslopet et la Femundlopet. Cette experience revient directement au chenil : entrainement, nutrition, repos, recuperation et respect des limites de chaque chien.",
+        "Quentin travaille avec les chiens de traîneau depuis 2010 et a participé à des courses longue distance comme la Finnmarksløpet et la Femundløpet. Cette expérience nourrit directement le chenil : entraînement, nutrition, repos, récupération et respect des limites de chaque chien.",
       "Meet the dogs": "Rencontrer les chiens",
       "Choose an adventure": "Choisir une aventure",
       "Into Nature was born from a simple idea: building a life around sled dogs, nature, and genuine outdoor experiences.":
-        "Into Nature est ne d'une idee simple : construire une vie autour des chiens de traineau, de la nature et d'experiences authentiques en plein air.",
+        "Into Nature est né d'une idée simple : construire une vie autour des chiens de traîneau, de la nature et d'expériences authentiques en plein air.",
       "A path that eventually led north.":
         "Un chemin qui a fini par mener vers le nord.",
       "I am Quentin, originally from Belgium, but my path eventually led me north.":
-        "Je suis Quentin, originaire de Belgique, mais mon chemin m'a finalement mene vers le nord.",
+        "Je suis Quentin, originaire de Belgique, mais mon chemin m'a finalement mené vers le nord.",
       "For many years I travelled in search of adventure, working with sled dogs, exploring remote wilderness areas, and challenging myself through long-distance expeditions. Along the way I spent time in countries such as Canada, Finland, Russia and Nepal, always drawn to wild places and life outdoors.":
-        "Pendant de nombreuses annees, j'ai voyage a la recherche d'aventure, travaille avec des chiens de traineau, explore des regions sauvages et reculees, et releve des defis lors d'expeditions longue distance. En chemin, j'ai passe du temps dans des pays comme le Canada, la Finlande, la Russie et le Nepal, toujours attire par les lieux sauvages et la vie dehors.",
+        "Pendant de nombreuses années, j'ai voyagé à la recherche d'aventure, travaillé avec des chiens de traîneau, exploré des régions sauvages et reculées, et relevé des défis lors d'expéditions longue distance. En chemin, j'ai passé du temps dans des pays comme le Canada, la Finlande, la Russie et le Népal, toujours attiré par les lieux sauvages et la vie dehors.",
       "Yet it was Norway that truly felt like home.":
-        "Pourtant, c'est la Norvege qui m'a vraiment donne le sentiment d'etre chez moi.",
+        "Pourtant, c'est la Norvège qui m'a vraiment donné le sentiment d'être chez moi.",
       "After returning to Northern Norway to work with sled dogs, I met the person who would change my life. Together, we bought an old farm on the Malangen Peninsula and began building what would become Into Nature.":
-        "Apres etre revenu dans le nord de la Norvege pour travailler avec des chiens de traineau, j'ai rencontre la personne qui allait changer ma vie. Ensemble, nous avons achete une vieille ferme sur la peninsule de Malangen et commence a construire ce qui deviendrait Into Nature.",
+        "Après être revenu dans le nord de la Norvège pour travailler avec des chiens de traîneau, j'ai rencontré la personne qui allait changer ma vie. Ensemble, nous avons acheté une vieille ferme sur la péninsule de Malangen et commencé à construire ce qui deviendrait Into Nature.",
       "What started as a dream slowly became reality: our own kennel, our own dogs, and a life centred around the Arctic wilderness.":
-        "Ce qui avait commence comme un reve est lentement devenu realite : notre propre chenil, nos propres chiens et une vie centree sur la nature sauvage arctique.",
-      "The dogs remain at the heart": "Les chiens restent au coeur",
+        "Ce qui avait commencé comme un rêve est lentement devenu réalité : notre propre chenil, nos propres chiens et une vie centrée sur la nature sauvage arctique.",
+      "The dogs remain at the heart": "Les chiens restent au cœur",
       "Today, the dogs remain at the heart of everything we do. Tourism is not the reason we have dogs. In many ways, it is the opposite. Sharing our life with guests allows us to continue caring for the dogs, training them, racing them, and dedicating ourselves fully to this lifestyle.":
-        "Aujourd'hui, les chiens restent au coeur de tout ce que nous faisons. Le tourisme n'est pas la raison pour laquelle nous avons des chiens. A bien des egards, c'est l'inverse. Partager notre vie avec des visiteurs nous permet de continuer a prendre soin des chiens, les entrainer, courir avec eux et nous consacrer pleinement a ce mode de vie.",
+        "Aujourd'hui, les chiens restent au cœur de tout ce que nous faisons. Le tourisme n'est pas la raison pour laquelle nous avons des chiens. À bien des égards, c'est l'inverse. Partager notre vie avec des visiteurs nous permet de continuer à prendre soin des chiens, à les entraîner, à courir avec eux et à nous consacrer pleinement à ce mode de vie.",
       "Exceptional dog care": "Des soins exceptionnels pour les chiens",
       "Our kennel is built around the belief that great dog sledding starts with exceptional dog care. Every dog receives individual attention, quality nutrition, structured training, and daily care. Their wellbeing is our highest priority and shapes every decision we make.":
-        "Notre chenil repose sur la conviction qu'un excellent traineau a chiens commence par des soins exceptionnels. Chaque chien recoit une attention individuelle, une alimentation de qualite, un entrainement structure et des soins quotidiens. Leur bien-etre est notre priorite absolue et guide chacune de nos decisions.",
+        "Notre chenil repose sur la conviction qu'un excellent traîneau à chiens commence par des soins exceptionnels. Chaque chien reçoit une attention individuelle, une alimentation de qualité, un entraînement structuré et des soins quotidiens. Leur bien-être est notre priorité absolue et guide chacune de nos décisions.",
       "Intentionally small": "Intentionnellement petit",
       "Into Nature is intentionally small. We prefer personal experiences over large groups, meaningful encounters over mass tourism, and quality over quantity.":
-        "Into Nature est volontairement petit. Nous preferons les experiences personnelles aux grands groupes, les rencontres significatives au tourisme de masse, et la qualite a la quantite.",
+        "Into Nature est volontairement une petite structure. Nous préférons les expériences personnelles aux grands groupes, les rencontres authentiques au tourisme de masse, et la qualité à la quantité.",
       "Daily life": "Vie quotidienne",
       "A small part of the Arctic world we call home.":
         "Une petite partie du monde arctique que nous appelons chez nous.",
       "Beyond our tours, we remain deeply involved in long-distance mushing. Racing teaches patience, humility, and an incredible respect for the dogs. Over the years we have competed in events such as Finnmarksløpet, including the demanding 1200 km race, constantly learning and growing alongside our team.":
-        "Au-dela de nos excursions, nous restons profondement impliques dans le mushing longue distance. La course enseigne la patience, l'humilite et un immense respect pour les chiens. Au fil des ans, nous avons participe a des evenements comme la Finnmarkslopet, y compris l'exigeante course de 1200 km, en apprenant et en evoluant constamment aux cotes de notre equipe.",
+        "Au-delà de nos excursions, nous restons profondément impliqués dans le mushing longue distance. La course enseigne la patience, l'humilité et un immense respect pour les chiens. Au fil des ans, nous avons participé à des événements comme la Finnmarksløpet, y compris l'exigeante course de 1200 km, en apprenant et en évoluant constamment aux côtés de notre équipe.",
       "When you visit us, you are not simply joining an activity.":
-        "Lorsque vous nous rendez visite, vous ne participez pas simplement a une activite.",
+        "Lorsque vous nous rendez visite, vous ne participez pas simplement à une activité.",
       "You are stepping into our daily life, meeting the dogs that make it possible, and experiencing a small part of the Arctic world we are fortunate to call home.":
-        "Vous entrez dans notre vie quotidienne, rencontrez les chiens qui la rendent possible et decouvrez une petite partie du monde arctique que nous avons la chance d'appeler notre maison.",
+        "Vous entrez dans notre vie quotidienne, rencontrez les chiens qui la rendent possible et découvrez une petite partie du monde arctique que nous avons la chance d'appeler notre maison.",
       "We look forward to welcoming you.":
-        "Nous avons hate de vous accueillir.",
+        "Nous avons hâte de vous accueillir.",
       "Crazy Mushing is the name for our Long Distance Racing Dogyard.":
         "Crazy Mushing est le nom de notre chenil de course longue distance.",
       "Long distance mushing competitions are a test of endurance, skill, and teamwork between mushers and their sled dogs. These competitions can cover hundreds of kilometers across remote, rugged terrain, challenging both the physical and mental capabilities of the participants.":
-        "Les competitions de mushing longue distance sont un test d'endurance, de competence et de travail d'equipe entre les mushers et leurs chiens de traineau. Elles peuvent couvrir des centaines de kilometres a travers des terrains recules et difficiles, mettant a l'epreuve les capacites physiques et mentales des participants.",
+        "Les compétitions de mushing longue distance mettent à l'épreuve l'endurance, les compétences et le travail d'équipe entre les mushers et leurs chiens de traîneau. Elles peuvent couvrir des centaines de kilomètres à travers des terrains reculés et difficiles, testant les capacités physiques et mentales des participants.",
       "We do participate to the longest race in Europe, The Finnmarksløpet.":
-        "Nous participons a la plus longue course d'Europe, la Finnmarkslopet.",
+        "Nous participons à la plus longue course d'Europe, la Finnmarksløpet.",
       "The bond between the musher and their dogs is crucial in long distance mushing, as they work together to navigate through the unpredictable conditions of the wilderness. This partnership requires a deep understanding of each other's strengths and weaknesses, and an unbreakable trust between them.":
-        "Le lien entre le musher et ses chiens est essentiel en mushing longue distance, car ils travaillent ensemble pour traverser les conditions imprevisibles de la nature sauvage. Ce partenariat exige une profonde comprehension des forces et faiblesses de chacun, ainsi qu'une confiance indefectible.",
+        "Le lien entre le musher et ses chiens est essentiel en mushing longue distance, car ils avancent ensemble dans les conditions imprévisibles de la nature sauvage. Ce partenariat exige une profonde compréhension des forces et faiblesses de chacun, ainsi qu'une confiance indéfectible.",
       "The stunning natural beauty of the landscapes that these competitions traverse is a breathtaking sight to behold. The icy tundras, snow-capped mountains, and frozen lakes create a surreal and almost otherworldly atmosphere. The quiet solitude of the wilderness is only broken by the sound of sled runners gliding over the snow, and the harmonious barking of the dogs.":
-        "La beaute naturelle des paysages traverses par ces competitions est a couper le souffle. Les toundras glacees, les montagnes enneigees et les lacs geles creent une atmosphere presque surnaturelle. Le silence de la nature sauvage n'est rompu que par le bruit des patins du traineau sur la neige et les aboiements harmonieux des chiens.",
+        "La beauté naturelle des paysages traversés par ces compétitions est à couper le souffle. Les toundras glacées, les montagnes enneigées et les lacs gelés créent une atmosphère presque irréelle. Le silence de la nature sauvage n'est rompu que par le bruit des patins du traîneau sur la neige et les aboiements harmonieux des chiens.",
       "Despite the grueling nature of the competition, the spirit of camaraderie and sportsmanship is ever-present. Competitors often help each other out on the trail, sharing food and supplies, and lending a helping hand whenever necessary. The shared love and respect for the sled dogs, and the wilderness they traverse, create a sense of community among the participants.":
-        "Malgre la durete de la competition, l'esprit de camaraderie et de sportivite est toujours present. Les concurrents s'aident souvent sur la piste, partagent nourriture et materiel, et donnent un coup de main lorsque c'est necessaire. L'amour et le respect communs pour les chiens de traineau et les espaces sauvages traverses creent un vrai sentiment de communaute.",
+        "Malgré la difficulté de la compétition, l'esprit de camaraderie et de sportivité reste toujours présent. Les concurrents s'aident souvent sur la piste, partagent nourriture et matériel, et donnent un coup de main lorsque c'est nécessaire. L'amour et le respect communs pour les chiens de traîneau et les espaces sauvages traversés créent un véritable sentiment de communauté.",
       "In the end, the long distance mushing competition is a celebration of the bond between humans and animals, the beauty of nature, and the human spirit of perseverance and endurance. It is a true testament to the resilience and adaptability of both humans and animals, and a reminder of the power of teamwork and unity.":
-        "Au final, la competition de mushing longue distance celebre le lien entre les humains et les animaux, la beaute de la nature et l'esprit humain de perseverance et d'endurance. Elle temoigne de la resilience et de l'adaptabilite des humains comme des animaux, et rappelle la force du travail d'equipe et de l'unite.",
+        "Au final, la compétition de mushing longue distance célèbre le lien entre les humains et les animaux, la beauté de la nature et l'esprit de persévérance et d'endurance. Elle témoigne de la résilience et de l'adaptabilité des humains comme des animaux, et rappelle la force du travail d'équipe et de l'unité.",
       "For us, dog sledding is more than a winter activity.":
-        "Pour nous, le traineau a chiens est bien plus qu'une activite hivernale.",
+        "Pour nous, le traîneau à chiens est bien plus qu'une activité hivernale.",
       "It is a year-round commitment built on training, preparation, trust, and an extraordinary partnership between musher and dogs.":
-        "C'est un engagement toute l'annee, fonde sur l'entrainement, la preparation, la confiance et un partenariat extraordinaire entre le musher et les chiens.",
+        "C'est un engagement tout au long de l'année, fondé sur l'entraînement, la préparation, la confiance et un partenariat extraordinaire entre le musher et les chiens.",
       "Long-distance racing is where those values are put to the test.":
-        "La course longue distance est l'endroit ou ces valeurs sont mises a l'epreuve.",
+        "La course longue distance est le terrain où ces valeurs sont mises à l'épreuve.",
       "The lessons we learn on the trail shape how we train our dogs, care for them, and guide the experiences we share with our guests.":
-        "Les lecons apprises sur la piste influencent notre facon d'entrainer nos chiens, de prendre soin d'eux et de guider les experiences que nous partageons avec nos visiteurs.",
-      "What is Finnmarksløpet?": "Qu'est-ce que la Finnmarkslopet ?",
+        "Les leçons apprises sur la piste influencent notre façon d'entraîner nos chiens, de prendre soin d'eux et de guider les expériences que nous partageons avec nos visiteurs.",
+      "What is Finnmarksløpet?": "Qu'est-ce que la Finnmarksløpet ?",
       "Finnmarksløpet is Europe's longest sled dog race and one of the most demanding endurance events in the world.":
-        "La Finnmarkslopet est la plus longue course de chiens de traineau d'Europe et l'une des epreuves d'endurance les plus exigeantes au monde.",
+        "La Finnmarksløpet est la plus longue course de chiens de traîneau d'Europe et l'une des épreuves d'endurance les plus exigeantes au monde.",
       "The race crosses the vast landscapes of Northern Norway, taking mushers and their teams through mountains, plateaus, forests, coastal regions, and unpredictable Arctic weather.":
-        "La course traverse les vastes paysages du nord de la Norvege, emmenant les mushers et leurs equipes a travers montagnes, plateaux, forets, regions cotieres et meteo arctique imprevisible.",
+        "La course traverse les vastes paysages du nord de la Norvège, emmenant les mushers et leurs équipes à travers montagnes, plateaux, forêts, régions côtières et météo arctique imprévisible.",
       "Success is not determined by speed alone.":
-        "La reussite ne depend pas seulement de la vitesse.",
+        "La réussite ne dépend pas seulement de la vitesse.",
       "It depends on preparation, teamwork, navigation, strategy, dog care, and the ability to make good decisions while facing fatigue and changing conditions.":
-        "Elle depend de la preparation, du travail d'equipe, de la navigation, de la strategie, des soins aux chiens et de la capacite a prendre de bonnes decisions face a la fatigue et aux conditions changeantes.",
+        "Elle dépend de la préparation, du travail d'équipe, de la navigation, de la stratégie, des soins apportés aux chiens et de la capacité à prendre de bonnes décisions malgré la fatigue et les conditions changeantes.",
       "Every kilometre is completed together with the dogs.":
-        "Chaque kilometre est parcouru avec les chiens.",
-      "Check Finnmarksløpet website": "Voir le site de la Finnmarkslopet",
+        "Chaque kilomètre est parcouru avec les chiens.",
+      "Check Finnmarksløpet website": "Voir le site de la Finnmarksløpet",
       "People sometimes ask why we choose to take part in races lasting hundreds or even thousands of kilometres.":
-        "On nous demande parfois pourquoi nous choisissons de participer a des courses de plusieurs centaines, voire milliers de kilometres.",
+        "On nous demande parfois pourquoi nous choisissons de participer à des courses de plusieurs centaines, voire milliers de kilomètres.",
       "The answer is simple: we love working with our dogs.":
-        "La reponse est simple : nous aimons travailler avec nos chiens.",
+        "La réponse est simple : nous aimons travailler avec nos chiens.",
       "Racing gives our dogs a purpose, a challenge, and an opportunity to do what they were bred to do. It also pushes us to become better caretakers, trainers, and teammates.":
-        "La course donne a nos chiens un objectif, un defi et l'occasion de faire ce pour quoi ils ont ete eleves. Elle nous pousse aussi a devenir de meilleurs soigneurs, entraineurs et coequipiers.",
+        "La course donne à nos chiens un objectif, un défi et l'occasion de faire ce pour quoi ils ont été élevés. Elle nous pousse aussi à devenir de meilleurs soigneurs, entraîneurs et coéquipiers.",
       "Preparing for long-distance races requires attention to every detail, from nutrition and conditioning to recovery, health, and mental wellbeing.":
-        "La preparation aux courses longue distance demande une attention a chaque detail, de la nutrition et du conditionnement a la recuperation, la sante et le bien-etre mental.",
+        "La préparation aux courses longue distance demande une attention à chaque détail, de la nutrition et de la condition physique à la récupération, la santé et le bien-être mental.",
       "The dogs teach us patience, humility, and respect every single day.":
-        "Les chiens nous enseignent chaque jour la patience, l'humilite et le respect.",
+        "Les chiens nous enseignent chaque jour la patience, l'humilité et le respect.",
       "Everything we learn through racing benefits the kennel as a whole and helps us provide the highest level of care possible.":
-        "Tout ce que nous apprenons grace a la course profite au chenil dans son ensemble et nous aide a offrir le meilleur niveau de soins possible.",
-      "Our Finnmarksløpet Journey": "Notre parcours Finnmarkslopet",
+        "Tout ce que nous apprenons grâce à la course profite au chenil dans son ensemble et nous aide à offrir le meilleur niveau de soins possible.",
+      "Our Finnmarksløpet Journey": "Notre parcours Finnmarksløpet",
       "Long-distance racing has been part of our dream since the beginning.":
-        "La course longue distance fait partie de notre reve depuis le debut.",
+        "La course longue distance fait partie de notre rêve depuis le début.",
       "Year after year, we have trained, learned, and developed our team with the goal of becoming stronger together.":
-        "Annee apres annee, nous avons entraine, appris et developpe notre equipe avec l'objectif de devenir plus forts ensemble.",
+        "Année après année, nous avons entraîné, appris et développé notre équipe avec l'objectif de devenir plus forts ensemble.",
       "In 2026, we entered and completed the legendary Finnmarksløpet 1200 km race for the first time.":
-        "En 2026, nous avons pris le depart et termine pour la premiere fois la legendaire Finnmarkslopet 1200 km.",
+        "En 2026, nous avons pris le départ et terminé pour la première fois la légendaire Finnmarksløpet 1200 km.",
       "As rookies in the longest and most demanding category of the event, our goal was simply to complete the race while taking excellent care of the dogs along the way.":
-        "En tant que rookies dans la categorie la plus longue et la plus exigeante de l'evenement, notre objectif etait simplement de terminer la course tout en prenant excellent soin des chiens tout au long du parcours.",
+        "En tant que débutants dans la catégorie la plus longue et la plus exigeante de l'événement, notre objectif était simplement de terminer la course tout en prenant excellent soin des chiens tout au long du parcours.",
       "Together, we crossed the finish line in 5th place.":
-        "Ensemble, nous avons franchi la ligne d'arrivee a la 5e place.",
+        "Ensemble, nous avons franchi la ligne d'arrivée à la 5e place.",
       "For us, the result was far more than a ranking. It was a reflection of years of preparation, trust, and teamwork between musher and dogs.":
-        "Pour nous, ce resultat etait bien plus qu'un classement. Il refletait des annees de preparation, de confiance et de travail d'equipe entre le musher et les chiens.",
+        "Pour nous, ce résultat était bien plus qu'un classement. Il reflétait des années de préparation, de confiance et de travail d'équipe entre le musher et les chiens.",
       "Most importantly, every dog returned home healthy, proud, and ready for the next adventure.":
-        "Le plus important : chaque chien est rentre a la maison en bonne sante, fier et pret pour la prochaine aventure.",
+        "Le plus important : chaque chien est rentré à la maison en bonne santé, fier et prêt pour la prochaine aventure.",
       "What Racing Means for Our Guests": "Ce que la course signifie pour nos visiteurs",
       "Racing is not separate from what we do at Into Nature.":
-        "La course n'est pas separee de ce que nous faisons chez Into Nature.",
+        "La course n'est pas séparée de ce que nous faisons chez Into Nature.",
       "It is part of the same philosophy.":
-        "Elle fait partie de la meme philosophie.",
+        "Elle fait partie de la même philosophie.",
       "The knowledge gained through long-distance mushing influences how we train, feed, recover, and care for our dogs throughout the year.":
-        "Les connaissances acquises grace au mushing longue distance influencent notre facon d'entrainer, nourrir, recuperer et prendre soin de nos chiens toute l'annee.",
+        "Les connaissances acquises grâce au mushing longue distance influencent notre façon d'entraîner, nourrir, récupérer et prendre soin de nos chiens tout au long de l'année.",
       "When guests visit our kennel, they are meeting dogs that are not only beloved family members, but also dedicated athletes.":
-        "Lorsque les visiteurs viennent au chenil, ils rencontrent des chiens qui sont non seulement des membres adores de la famille, mais aussi des athletes devoues.",
+        "Lorsque les visiteurs viennent au chenil, ils rencontrent des chiens qui sont non seulement des membres adorés de la famille, mais aussi des athlètes dévoués.",
       "They are experiencing a way of life built around respect for the dogs and a deep understanding of what they are capable of achieving.":
-        "Ils decouvrent un mode de vie construit autour du respect des chiens et d'une comprehension profonde de ce qu'ils sont capables d'accomplir.",
+        "Ils découvrent un mode de vie construit autour du respect des chiens et d'une compréhension profonde de ce qu'ils sont capables d'accomplir.",
       "Long-distance racing is one chapter of our story, but the heart of it remains unchanged.":
-        "La course longue distance est un chapitre de notre histoire, mais le coeur de celle-ci reste inchange.",
+        "La course longue distance est un chapitre de notre histoire, mais son cœur reste inchangé.",
       "Whether we are preparing for a 1200 km race or introducing a guest to dog sledding for the first time, our focus is always the same:":
-        "Que nous preparions une course de 1200 km ou que nous fassions decouvrir le traineau a chiens a un visiteur pour la premiere fois, notre priorite reste toujours la meme :",
+        "Que nous préparions une course de 1200 km ou que nous fassions découvrir le traîneau à chiens à un visiteur pour la première fois, notre priorité reste toujours la même :",
       "healthy dogs, meaningful experiences, and a lifelong passion for the trail.":
-        "des chiens en bonne sante, des experiences qui ont du sens et une passion de toute une vie pour la piste.",
+        "des chiens en bonne santé, des expériences qui ont du sens et une passion de toute une vie pour la piste.",
       "Our dogs are family before they are athletes.":
-        "Nos chiens sont une famille avant d'être des athlètes.",
+        "Nos chiens font partie de la famille avant d'être des athlètes.",
       "Into Nature is a small family-run kennel where every tour starts with respect for the dogs. Daily care, rest, training and time in nature are part of the work, not an afterthought.":
         "Into Nature est un petit chenil familial où chaque excursion commence par le respect des chiens. Les soins quotidiens, le repos, l'entraînement et le temps passé dans la nature font partie du travail, pas un détail secondaire.",
       "Individual care": "Soins individuels",
       "Each dog is known by personality, needs, training rhythm and recovery.":
-        "Chaque chien est connu par sa personnalité, ses besoins, son rythme d'entraînement et sa récupération.",
+        "Nous connaissons chaque chien : sa personnalité, ses besoins, son rythme d'entraînement et sa récupération.",
       "Room to be dogs": "De l'espace pour être des chiens",
       "A large natural forest enclosure gives the pack space to move, play and relax.":
         "Un grand enclos naturel en forêt donne à la meute de l'espace pour bouger, jouer et se détendre.",
@@ -639,7 +713,7 @@ window.IntoNatureLanguages = (() => {
         "Soins des pattes, massage, alimentation et temps de repos font partie de la routine pendant la saison.",
       "Lifetime responsibility": "Responsabilité à vie",
       "Their care continues after working life, because the dogs remain part of the family.":
-        "Leur prise en charge continue après leur vie de travail, car les chiens restent membres de la famille.",
+        "Leur prise en charge continue après leur vie de travail, car les chiens restent une partie de la famille.",
       "Meet our dogs": "Rencontrer nos chiens",
       "Our dogs come first": "Nos chiens passent avant tout",
       "What dog wellbeing means at Into Nature":
@@ -654,7 +728,7 @@ window.IntoNatureLanguages = (() => {
       "For us, calling our dogs family isn’t a slogan — it is how we live with them.":
         "Pour nous, dire que nos chiens font partie de la famille n'est pas un slogan : c'est notre façon de vivre avec eux.",
       "We know each dog’s personality, their quirks, their favorite scratch spots, the teammates they prefer to run beside, and how they express excitement or tiredness.":
-        "Nous connaissons la personnalité de chaque chien, ses petites habitudes, ses endroits préférés pour les caresses, les coéquipiers avec lesquels il préfère courir, et sa façon d'exprimer l'excitation ou la fatigue.",
+        "Nous connaissons la personnalité de chaque chien, ses petites habitudes, ses endroits préférés pour les caresses, les coéquipiers avec lesquels il préfère courir et sa façon d'exprimer l'excitation ou la fatigue.",
       "Being small allows us to give every dog real individual attention.":
         "Notre petite taille nous permet d'accorder une véritable attention individuelle à chaque chien.",
       "We spend time with them even when no tours are running — playtime, free-running, brushing sessions, warm-up walks, recovery routines and simple quiet moments together.":
@@ -689,7 +763,7 @@ window.IntoNatureLanguages = (() => {
       "Warm, safe and stimulating": "Chaud, sûr et stimulant",
       "Our dogs live in a warm, safe, and stimulating environment designed for their comfort and freedom.":
         "Nos chiens vivent dans un environnement chaud, sûr et stimulant, conçu pour leur confort et leur liberté.",
-      "A well and full insulated dog house": "Une niche bien et entièrement isolée",
+      "A well and full insulated dog house": "Une niche bien isolée",
       "Fresh, clean bedding": "Une litière fraîche et propre",
       "Protection from wind and snow": "Protection contre le vent et la neige",
       "Daily cleaning and checkups": "Nettoyage et contrôles quotidiens",
@@ -698,9 +772,9 @@ window.IntoNatureLanguages = (() => {
       "This huge space gives them mental stimulation, natural movement, and the freedom they deserve.":
         "Ce vaste espace leur offre une stimulation mentale, du mouvement naturel et la liberté qu'ils méritent.",
       "Health, massage & recovery": "Santé, massage & récupération",
-      "Daily care that keeps them strong": "Des soins quotidiens qui les gardent forts",
+      "Daily care that keeps them strong": "Des soins quotidiens qui les gardent en forme",
       "Caring for hardworking dogs means giving their bodies the recovery they need.":
-        "Prendre soin de chiens travailleurs signifie donner à leur corps la récupération dont il a besoin.",
+        "Prendre soin de chiens actifs signifie aussi offrir à leur corps la récupération dont il a besoin.",
       "Gentle muscle massage": "Massage musculaire doux",
       "Stretching before and after activity": "Étirements avant et après l'activité",
       "Infrared light therapy for circulation and recovery":
@@ -767,7 +841,7 @@ window.IntoNatureLanguages = (() => {
         "Tout ce que vous devez savoir avant de nous rejoindre à Malangen, du transport et des vêtements à la météo, la sécurité et le déroulement de la journée.",
       "Getting here": "Venir jusqu'ici",
       "Our base is in Malangen, around 90 minutes from Tromsø. Transport is unfortunally not included, so guests usually arrive by car or taxi.":
-        "Notre base se trouve à Malangen, à environ 90 minutes de Tromsø. Le transport n'est malheureusement pas inclus, les clients arrivent donc généralement en voiture ou en taxi.",
+        "Notre base se trouve à Malangen, à environ 90 minutes de Tromsø. Le transport n'est malheureusement pas inclus, les visiteurs arrivent donc généralement en voiture ou en taxi.",
       "What to wear": "Que porter",
       "Warm outerwear and winter boots are provided for selected tours. Bring your own hat, gloves or mittens, and warm base layers.":
         "Des vêtements d'extérieur chauds et des bottes d'hiver sont fournis pour certaines excursions. Apportez votre bonnet, vos gants ou moufles, ainsi que des sous-couches chaudes.",
@@ -781,7 +855,7 @@ window.IntoNatureLanguages = (() => {
         "Quelques réponses pratiques sur le transport, les vêtements, la météo et le choix de la bonne excursion.",
       "Is transport from and to Tromsø included?": "Le transport depuis et vers Tromsø est-il inclus ?",
       "Unfortunally no. Transport to and from our activities is not included. Most guests drive themselves or arrange a taxi to our base in Malangen.":
-        "Malheureusement non. Le transport vers et depuis nos activités n'est pas inclus. La plupart des clients viennent en voiture ou organisent un taxi jusqu'à notre base à Malangen.",
+        "Malheureusement non. Le transport vers et depuis nos activités n'est pas inclus. La plupart des visiteurs viennent en voiture ou organisent un taxi jusqu'à notre base à Malangen.",
       "Can I see the Northern Lights?": "Puis-je voir les aurores boréales ?",
       "The Aurora dog sledding package is offering evening trips for a better chance of seeing the Northern Lights. Unfortunally we can not promise that you will see the Northern Lights.":
         "L'offre de traîneau à chiens sous les aurores propose des sorties en soirée pour augmenter les chances de voir les aurores boréales. Malheureusement, nous ne pouvons pas garantir que vous les verrez.",
@@ -790,7 +864,7 @@ window.IntoNatureLanguages = (() => {
         "Nous fournissons des vêtements chauds et des chaussures d'hiver, sauf les gants\\moufles et le bonnet. Veuillez consulter l'activité souhaitée pour savoir ce qui est inclus.",
       "What happens if there is bad weather?": "Que se passe-t-il en cas de mauvais temps ?",
       "Arctic weather can change quickly, and routes or programs may be adjusted for safety. If Into Nature decides conditions are unsafe and cancels the tour, guests receive a 100% refund. This refund does not apply if a guest chooses not to attend.":
-        "La météo arctique peut changer rapidement, les itinéraires ou programmes peuvent donc être adaptés pour des raisons de sécurité. Si Into Nature juge que les conditions ne sont pas sûres et annule l'excursion, les clients reçoivent un remboursement de 100 %. Ce remboursement ne s'applique pas si un client choisit de ne pas participer.",
+        "La météo arctique peut changer rapidement, les itinéraires ou programmes peuvent donc être adaptés pour des raisons de sécurité. Si Into Nature juge que les conditions ne sont pas sûres et annule l'excursion, les visiteurs reçoivent un remboursement de 100 %. Ce remboursement ne s'applique pas si un visiteur choisit de ne pas participer.",
       "More frequently asked questions": "Plus de questions fréquentes",
       "Start planning your day in Malangen": "Commencez à planifier votre journée à Malangen",
       "Dog sledding, aurora evenings and ice fishing, guided by a small family-run kennel outside Tromsø.":
