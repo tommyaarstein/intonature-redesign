@@ -101,18 +101,6 @@ window.IntoNatureLanguages = (() => {
           "Questions fréquentes et formulaire de contact pour Into Nature Arctic Adventures près de Tromsø.",
       },
     },
-    "booking.html": {
-      en: {
-        title: "Booking | Into Nature Arctic Adventures",
-        description:
-          "Book Into Nature Arctic Adventures through the secure booking system.",
-      },
-      fr: {
-        title: "Réservation | Into Nature Arctic Adventures",
-        description:
-          "Réservez les aventures arctiques d'Into Nature via le système de réservation sécurisé.",
-      },
-    },
   };
 
   const translations = {
@@ -124,7 +112,6 @@ window.IntoNatureLanguages = (() => {
       "Homepage actions": "Actions de la page d'accueil",
       "Quick booking details": "Informations rapides de réservation",
       "Key booking facts": "Informations clés pour réserver",
-      "Booking system": "Système de réservation",
       "Dog welfare highlights": "Points clés sur le bien-être des chiens",
       "Dog sled team crossing a snowy Arctic landscape":
         "Attelage de chiens traversant un paysage arctique enneigé",
@@ -449,9 +436,6 @@ window.IntoNatureLanguages = (() => {
       "Available by direct contact only": "Disponible uniquement par contact direct",
       "2 or 5 days": "2 ou 5 jours",
       "Booking": "Réservation",
-      "Book your Arctic adventure": "Réservez votre aventure arctique",
-      "Choose available activities and complete your booking through Into Nature's secure booking system.":
-        "Choisissez les activités disponibles et finalisez votre réservation via le système sécurisé d'Into Nature.",
       "Contact directly": "Contact direct",
       "Experience": "Expérience",
       "Drive your own team": "Conduisez votre propre attelage",

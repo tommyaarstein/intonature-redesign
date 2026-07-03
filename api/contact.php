@@ -142,6 +142,12 @@ if (!filter_var($to, FILTER_VALIDATE_EMAIL) || !filter_var($from, FILTER_VALIDAT
 }
 
 $subject = $subjectPrefix . ' from ' . $name;
+$languageLabel = match (strtolower($language)) {
+    'en' => 'English',
+    'fr' => 'French',
+    default => $language !== '' ? $language : 'not provided',
+};
+
 $body = implode("\n", [
     'New contact form submission',
     '',
@@ -150,14 +156,15 @@ $body = implode("\n", [
     'Country: ' . $country,
     'Preferred dates: ' . $preferredDates,
     'Number of guests: ' . $guests,
-    'Language: ' . ($language !== '' ? $language : 'not provided'),
-    'Source page: ' . ($sourcePage !== '' ? $sourcePage : 'not provided'),
+    'Selected language: ' . $languageLabel,
     '',
     'Message:',
     $message,
     '',
-    'Privacy policy accepted: yes',
-    'Accepted at: ' . $now->format(DateTimeInterface::ATOM),
+    '',
+    'Privacy accepted: Yes',
+    '',
+    '',
     'Submission ID: ' . $submissionId,
 ]);
 
