@@ -1,0 +1,20 @@
+CREATE TABLE IF NOT EXISTS contact_submissions (
+  id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
+  created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  retention_until DATETIME NOT NULL,
+  name VARCHAR(160) NOT NULL,
+  email VARCHAR(254) NOT NULL,
+  country VARCHAR(120) NOT NULL,
+  preferred_dates VARCHAR(160) NOT NULL,
+  guests SMALLINT UNSIGNED NOT NULL,
+  message TEXT NOT NULL,
+  privacy_accepted TINYINT(1) NOT NULL DEFAULT 0,
+  privacy_accepted_at DATETIME NOT NULL,
+  source_page VARCHAR(255) DEFAULT NULL,
+  language VARCHAR(8) DEFAULT NULL,
+  email_sent TINYINT(1) NOT NULL DEFAULT 0,
+  email_sent_at DATETIME DEFAULT NULL,
+  PRIMARY KEY (id),
+  KEY idx_created_at (created_at),
+  KEY idx_retention_until (retention_until)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;

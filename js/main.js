@@ -348,13 +348,68 @@ document.addEventListener("click", (event) => {
   }
 });
 
-contactForm?.addEventListener("submit", (event) => {
+contactForm?.addEventListener("submit", async (event) => {
   event.preventDefault();
 
+  if (!contactForm.reportValidity()) {
+    return;
+  }
+
+  const isFrench = document.documentElement.lang === "fr";
+  const submitButton = contactForm.querySelector('button[type="submit"]');
+  const formData = new FormData(contactForm);
+
+  formData.set("language", document.documentElement.lang || "en");
+  formData.set("source_page", window.location.href);
+
+  formStatus?.classList.remove("is-success", "is-error");
   if (formStatus) {
-    formStatus.textContent = document.documentElement.lang === "fr"
-      ? "Le formulaire n'est pas encore connecté pendant que le site est en test. Aucun message n'a été envoyé."
-      : "The form is not connected yet while the website is in testing. No message was sent.";
+    formStatus.textContent = isFrench ? "Envoi en cours..." : "Sending...";
+  }
+
+  if (submitButton) {
+    submitButton.disabled = true;
+  }
+
+  try {
+    const response = await fetch(contactForm.action, {
+      method: "POST",
+      body: formData,
+      headers: {
+        Accept: "application/json",
+      },
+    });
+
+    const payload = await response.json().catch(() => ({}));
+
+    if (!response.ok || payload.success !== true) {
+      throw new Error(payload.message || "Contact form request failed.");
+    }
+
+    contactForm.reset();
+    hideCountryOptions();
+
+    if (messageCount) {
+      messageCount.textContent = "0";
+    }
+
+    formStatus?.classList.add("is-success");
+    if (formStatus) {
+      formStatus.textContent = isFrench
+        ? "Merci. Votre message a été envoyé à Into Nature."
+        : "Thank you. Your message has been sent to Into Nature.";
+    }
+  } catch {
+    formStatus?.classList.add("is-error");
+    if (formStatus) {
+      formStatus.textContent = isFrench
+        ? "Désolé, le message n'a pas pu être envoyé. Veuillez réessayer ou contacter info@intonaturearctic.com."
+        : "Sorry, the message could not be sent. Please try again or contact info@intonaturearctic.com.";
+    }
+  } finally {
+    if (submitButton) {
+      submitButton.disabled = false;
+    }
   }
 });
 

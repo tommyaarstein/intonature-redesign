@@ -101,6 +101,18 @@ window.IntoNatureLanguages = (() => {
           "Questions fréquentes et formulaire de contact pour Into Nature Arctic Adventures près de Tromsø.",
       },
     },
+    "booking.html": {
+      en: {
+        title: "Booking | Into Nature Arctic Adventures",
+        description:
+          "Book Into Nature Arctic Adventures through the secure booking system.",
+      },
+      fr: {
+        title: "Réservation | Into Nature Arctic Adventures",
+        description:
+          "Réservez les aventures arctiques d'Into Nature via le système de réservation sécurisé.",
+      },
+    },
   };
 
   const translations = {
@@ -112,6 +124,7 @@ window.IntoNatureLanguages = (() => {
       "Homepage actions": "Actions de la page d'accueil",
       "Quick booking details": "Informations rapides de réservation",
       "Key booking facts": "Informations clés pour réserver",
+      "Booking system": "Système de réservation",
       "Dog welfare highlights": "Points clés sur le bien-être des chiens",
       "Dog sled team crossing a snowy Arctic landscape":
         "Attelage de chiens traversant un paysage arctique enneigé",
@@ -183,9 +196,13 @@ window.IntoNatureLanguages = (() => {
         "Besoin d'aide pour choisir la bonne activité ?",
       "Send a short message with your dates, group size and what you are hoping to experience. The form is prepared for email delivery, but sending is not connected while the site is still in testing.":
         "Envoyez un court message avec vos dates, la taille du groupe et ce que vous souhaitez vivre. Le formulaire est préparé pour l'envoi par e-mail, mais l'envoi n'est pas encore connecté tant que le site est en test.",
+      "The message is sent securely to Into Nature and stored so the team can follow up.":
+        "Le message est envoyé de manière sécurisée à Into Nature et conservé afin que l'équipe puisse y répondre.",
       "Name": "Nom",
       "Email": "E-mail",
       "Country": "Pays",
+      "Country*": "Pays*",
+      "Website": "Site web",
       "Preferred dates of the activity": "Dates préférées de l'activité",
       "Example: 12-15 February 2027": "Exemple : 12-15 février 2027",
       "Number of guests": "Nombre de visiteurs",
@@ -198,6 +215,8 @@ window.IntoNatureLanguages = (() => {
         "Le formulaire n'est pas encore connecté pendant que le site est en test.",
       "The form is not connected yet while the website is in testing. No message was sent.":
         "Le formulaire n'est pas encore connecté pendant que le site est en test. Aucun message n'a été envoyé.",
+      "Your message will be sent to Into Nature without opening your email app.":
+        "Votre message sera envoyé à Into Nature sans ouvrir votre application e-mail.",
       "Arctic adventures near Tromsø": "Aventures arctiques près de Tromsø",
       "A small family-run kennel and outdoor company where dogs, nature and authentic Arctic experiences come first.":
         "Un petit chenil familial et une entreprise d'activités de plein air où les chiens, la nature et les expériences arctiques authentiques passent avant tout.",
@@ -302,7 +321,6 @@ window.IntoNatureLanguages = (() => {
       "Guided husky sledding experience": "Expérience guidée en traîneau avec huskies",
       "Guests should be prepared for a physical outdoor activity.":
         "Les visiteurs doivent être prêts pour une activité physique en plein air.",
-      "Book this tour": "Réserver cette excursion",
       "A guided evening sled ride through snowy wilderness, with a chance to see the Northern Lights while travelling with racing huskies.":
         "Une sortie guidée en soirée en traîneau dans la nature enneigée, avec une chance d'observer les aurores boréales en compagnie de huskies de course.",
       "Evening wilderness experience": "Expérience en pleine nature le soir",
@@ -431,6 +449,9 @@ window.IntoNatureLanguages = (() => {
       "Available by direct contact only": "Disponible uniquement par contact direct",
       "2 or 5 days": "2 ou 5 jours",
       "Booking": "Réservation",
+      "Book your Arctic adventure": "Réservez votre aventure arctique",
+      "Choose available activities and complete your booking through Into Nature's secure booking system.":
+        "Choisissez les activités disponibles et finalisez votre réservation via le système sécurisé d'Into Nature.",
       "Contact directly": "Contact direct",
       "Experience": "Expérience",
       "Drive your own team": "Conduisez votre propre attelage",
@@ -952,13 +973,22 @@ window.IntoNatureLanguages = (() => {
       "Name and contact details": "Nom et coordonnées",
       "Booking details, group size and selected activity":
         "Détails de réservation, taille du groupe et activité choisie",
+      "Preferred dates, country and number of guests":
+        "Dates souhaitées, pays et nombre de participants",
       "Relevant messages, preferences or safety information you choose to share":
         "Messages pertinents, préférences ou informations de sécurité que vous choisissez de partager",
+      "Source page, selected language and the time privacy consent was accepted":
+        "Page d'origine, langue sélectionnée et heure d'acceptation de la politique de confidentialité",
       "Payment or transaction details handled through our booking/payment providers":
         "Détails de paiement ou de transaction traités par nos prestataires de réservation/paiement",
       "How we use information": "Comment nous utilisons les informations",
       "We use guest information to manage bookings, answer questions, prepare safe activities, process payments and send practical updates related to a tour.":
         "Nous utilisons les informations des clients pour gérer les réservations, répondre aux questions, préparer des activités sûres, traiter les paiements et envoyer des informations pratiques liées à une excursion.",
+      "Contact form storage": "Stockage du formulaire de contact",
+      "Contact form submissions are stored in Into Nature's database so the team can respond and document that the Privacy Policy was accepted.":
+        "Les demandes envoyées via le formulaire de contact sont conservées dans la base de données d'Into Nature afin que l'équipe puisse répondre et documenter l'acceptation de la politique de confidentialité.",
+      "Submissions are kept for up to 2 years, then deleted automatically unless a legal obligation requires longer storage.":
+        "Les demandes sont conservées jusqu'à 2 ans, puis supprimées automatiquement, sauf si une obligation légale impose une conservation plus longue.",
       "Sharing information": "Partage des informations",
       "We do not sell personal information. Information may be shared with trusted service providers when needed for booking, payment, communication or legal requirements.":
         "Nous ne vendons pas les informations personnelles. Les informations peuvent être partagées avec des prestataires de confiance lorsque cela est nécessaire pour la réservation, le paiement, la communication ou les obligations légales.",

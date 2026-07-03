@@ -3,3 +3,4 @@ assets/*section*.png
 assets/tour-card-*.png
 *.tmp
 *.log
+api/config.php

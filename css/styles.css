@@ -1413,12 +1413,29 @@ body.modal-open {
   background: linear-gradient(180deg, var(--snow), #eef5f2 58%, var(--snow));
 }
 
+.booking-page {
+  background: linear-gradient(180deg, var(--snow), #eef5f2 58%, var(--snow));
+}
+
 .faq-hero {
   max-width: 980px;
   padding: clamp(140px, 14vw, 190px) clamp(20px, 6vw, 86px) clamp(54px, 7vw, 90px);
 }
 
+.booking-hero {
+  max-width: 980px;
+  padding: clamp(140px, 14vw, 190px) clamp(20px, 6vw, 86px) clamp(36px, 5vw, 70px);
+}
+
 .faq-hero h1 {
+  max-width: 900px;
+  margin-bottom: 22px;
+  color: var(--ink);
+  font-size: clamp(48px, 7.5vw, 100px);
+  line-height: 0.94;
+}
+
+.booking-hero h1 {
   max-width: 900px;
   margin-bottom: 22px;
   color: var(--ink);
@@ -1431,6 +1448,25 @@ body.modal-open {
   color: var(--muted);
   font-size: 18px;
   line-height: 1.65;
+}
+
+.booking-hero p {
+  max-width: 720px;
+  color: var(--muted);
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+.booking-frame-section {
+  padding: 0 clamp(20px, 6vw, 86px) clamp(70px, 8vw, 112px);
+}
+
+.booking-frame {
+  display: block;
+  min-height: 900px;
+  border-radius: 8px;
+  background: var(--white);
+  box-shadow: 0 18px 42px rgba(16, 54, 50, 0.12);
 }
 
 .faq-page-section,
@@ -1486,6 +1522,14 @@ body.modal-open {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 18px;
+}
+
+.form-honeypot {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
 }
 
 .contact-form label {
@@ -1622,11 +1666,24 @@ body.modal-open {
   margin-top: 22px;
 }
 
+.contact-form .button:disabled {
+  cursor: wait;
+  opacity: 0.72;
+}
+
 .form-status {
   margin: 16px 0 0;
   color: var(--muted);
   font-size: 14px;
   line-height: 1.55;
+}
+
+.form-status.is-success {
+  color: #1b6b43;
+}
+
+.form-status.is-error {
+  color: #9f2f2f;
 }
 
 .activity-nav {
@@ -2843,10 +2900,20 @@ body.modal-open {
   }
 
   .faq-hero,
+  .booking-hero,
   .faq-page-section,
-  .contact-section {
+  .contact-section,
+  .booking-frame-section {
     padding-right: 16px;
     padding-left: 16px;
+  }
+
+  .booking-frame-section {
+    padding-bottom: 56px;
+  }
+
+  .booking-frame {
+    min-height: 780px;
   }
 
   .form-grid {

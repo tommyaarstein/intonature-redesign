@@ -32,7 +32,7 @@
           <span class="language-toggle-current">English</span>
           <span class="language-toggle-next">FR</span>
         </button>
-        <a class="nav-cta" href="index.html#booking">Book</a>
+        <a class="nav-cta" href="booking.html">Book</a>
       </div>
       <nav class="mobile-menu" id="mobile-menu" aria-label="Mobile menu">
         <a href="index.html#top">Home</a>
@@ -40,7 +40,7 @@
         <a href="index.html#welfare">Dogs &amp; Welfare</a>
         <a href="index.html#faq">FAQ</a>
         <a href="about.html">About</a>
-        <a class="mobile-book-link" href="index.html#booking">Book</a>
+        <a class="mobile-book-link" href="booking.html">Book</a>
       </nav>
     </header>
 
@@ -104,11 +104,15 @@
           <h2>Need help choosing the right activity?</h2>
           <p>
             Send a short message with your dates, group size and what you are hoping to experience.
-            The form is prepared for email delivery, but sending is not connected while the site is still in testing.
+            The message is sent securely to Into Nature and stored so the team can follow up.
           </p>
         </div>
-        <form class="contact-form" action="#" method="post" data-contact-form>
+        <form class="contact-form" action="api/contact.php" method="post" data-contact-form>
           <div class="form-grid">
+            <label class="form-honeypot" aria-hidden="true">
+              <span>Website</span>
+              <input type="text" name="website" autocomplete="off" tabindex="-1">
+            </label>
             <label>
               <span>Name*</span>
               <input type="text" name="name" autocomplete="name" required>
@@ -118,7 +122,7 @@
               <input type="email" name="email" autocomplete="email" required>
             </label>
             <label class="country-field">
-              <span>Country</span>
+              <span>Country*</span>
               <span class="country-combobox">
                 <input
                   type="text"
@@ -133,7 +137,7 @@
             </label>
             <label>
               <span>Preferred dates of the activity*</span>
-              <input type="text" name="preferred_dates" placeholder="Example: 12-15 February 2027">
+              <input type="text" name="preferred_dates" placeholder="Example: 12-15 February 2027" required>
             </label>
             <label>
               <span>Number of guests*</span>
@@ -154,7 +158,7 @@
           </div>
           <button class="button button-primary dark" type="submit">Send message</button>
           <p class="form-status" data-form-status aria-live="polite">
-            The form is not connected yet while the website is in testing.
+            Your message will be sent to Into Nature without opening your email app.
           </p>
         </form>
       </section>
