@@ -221,9 +221,11 @@ window.IntoNatureLanguages = (() => {
       "Group style": "Type de groupe",
       "Small groups & private trips by request":
         "Petits groupes et sorties privées sur demande",
-      "Base": "Base",
+      "Base": "Camp",
       "Malangen, near Tromsø": "Malangen, près de Tromsø",
+      "Great for": "Parfait pour",
       "Best for": "Idéal pour",
+      "Couples, families and adventurers": "Couples, familles et aventuriers",
       "Couples, families and curious travelers": "Couples, familles et voyageurs curieux",
       "Choose the right winter adventure": "Choisissez la bonne aventure hivernale",
       "We are offering a selection of 5 unique trips in the arctic wilderness ranging from a relaxing trip to a more hands-on experience.":
