@@ -181,6 +181,8 @@ window.IntoNatureLanguages = (() => {
       "Contact us": "Contactez-nous",
       "Need help choosing the right activity?":
         "Besoin d'aide pour choisir la bonne activité ?",
+      "Send a short message with your dates, group size and what you are hoping to experience. The message is sent securely to Into Nature and stored so the team can follow up.":
+        "Envoyez-nous un message avec vos dates, taille du groupe et ce que vous souhaitez comme experience. Le message envoyé est sécurisé et stocké pour que notre équipe puisse faire le suivi.",
       "Send a short message with your dates, group size and what you are hoping to experience.":
         "Envoyez-nous un message avec vos dates, taille du groupe et ce que vous souhaitez comme experience.",
       "Send a short message with your dates, group size and what you are hoping to experience. The form is prepared for email delivery, but sending is not connected while the site is still in testing.":
