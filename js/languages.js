@@ -535,7 +535,7 @@ window.IntoNatureLanguages = (() => {
       "A calmer experience and more time with the guide and dogs.":
         "Une expérience plus calme et plus de temps avec le guide et les chiens.",
       "Only 90 min from Tromsø": "À seulement 90 min de Tromsø",
-      "Remote but still close to Tromsø city.": "Isolé, tout en restant proche de la ville de Tromsø.",
+      "Remote but still close to Tromsø city.": "Reculé, tout en restant proche de la ville de Tromsø.",
       "Our husky family": "Notre famille de huskies",
       "Our dogs are being cared for with love and respect.":
         "Nos chiens sont soignés avec amour et respect.",
@@ -780,7 +780,7 @@ window.IntoNatureLanguages = (() => {
       "Daily care that keeps them strong": "Des soins quotidiens qui les gardent en forme",
       "Caring for hardworking dogs means giving their bodies the recovery they need.":
         "Prendre soin de chiens actifs signifie aussi offrir à leur corps la récupération dont il a besoin.",
-      "Gentle muscle massage": "Massage musculaire doux",
+      "Gentle muscle massage": "Massage musculaire",
       "Stretching before and after activity": "Étirements avant et après l'activité",
       "Infrared light therapy for circulation and recovery":
         "Thérapie par lumière infrarouge pour la circulation et la récupération",
@@ -795,7 +795,7 @@ window.IntoNatureLanguages = (() => {
       "A good life is not only about physical health — it’s also about joy and curiosity.":
         "Une bonne vie ne concerne pas seulement la santé physique : elle concerne aussi la joie et la curiosité.",
       "Our dogs enjoy daily enrichment such as exploring the forest enclosure, social play with compatible friends, spending time with us, and discovering new smells and paths.":
-        "Nos chiens profitent chaque jour d'activités enrichissantes comme explorer l'enclos forestier, jouer avec des compagnons compatibles, passer du temps avec nous et découvrir de nouvelles odeurs et de nouveaux chemins.",
+        "Nos chiens profitent chaque jour d'activités enrichissantes comme explorer l'enclos forestier, jouer avec des compagnons, passer du temps avec nous et découvrir de nouvelles odeurs et de nouveaux chemins.",
       "We love seeing them roll in the snow, nap in the sun, race each other for fun, or simply wander quietly through the trees.":
         "Nous aimons les voir se rouler dans la neige, faire la sieste au soleil, courir ensemble pour le plaisir ou simplement se promener tranquillement entre les arbres.",
       "These free moments are part of what makes their life rich and fulfilling.":
