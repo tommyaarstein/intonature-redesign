@@ -39,7 +39,7 @@ const storeLanguage = (language) => {
 const updateLanguageLabels = (isFrench) => {
   if (languageCurrent && languageNext) {
     languageCurrent.textContent = isFrench ? "EN" : "English";
-    languageNext.textContent = isFrench ? "français" : "FR";
+    languageNext.textContent = isFrench ? "Français" : "FR";
   }
 };
 

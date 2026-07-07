@@ -8,7 +8,7 @@ window.IntoNatureLanguages = (() => {
       toggleAria: "Switch language to French",
     },
     fr: {
-      label: "fran\u00e7ais",
+      label: "Fran\u00e7ais",
       shortLabel: "FR",
       nextLabel: "EN",
       htmlLang: "fr",
@@ -169,8 +169,8 @@ window.IntoNatureLanguages = (() => {
       "Open location in Google Maps": "Ouvrir l'emplacement dans Google Maps",
       "Can children or beginners join?":
         "Les enfants ou les débutants peuvent-ils participer ?",
-      "Some activities are beginner friendly, while others require more balance, fitness or time outdoors. The best choice depends on the activity, age, weather and group size.":
-        "Certaines activités conviennent aux débutants, tandis que d'autres demandent plus d'équilibre, de condition physique ou de temps dehors. Le meilleur choix dépend de l'activité, de l'âge, de la météo et de la taille du groupe.",
+      "Some activities are beginner friendly, while others require more balance, fitness or time outdoors. The best choice depends on the activity, age and group size.":
+        "Certaines activités sont pour débutants, d'autres demandent une certaine condition physique, de l'équilibre et de savoir rester plusieurs heures dehors dans le froid. Le Meilleur choix depend de l'activité, age et taille du groupe.",
       "How many guests can join a tour?":
         "Combien de visiteurs peuvent participer à une excursion ?",
       "The tours are kept small so the experience stays calm and personal. Group size depends on the activity, and larger private groups should contact Into Nature before booking.":
@@ -181,10 +181,12 @@ window.IntoNatureLanguages = (() => {
       "Contact us": "Contactez-nous",
       "Need help choosing the right activity?":
         "Besoin d'aide pour choisir la bonne activité ?",
+      "Send a short message with your dates, group size and what you are hoping to experience.":
+        "Envoyez-nous un message avec vos dates, taille du groupe et ce que vous souhaitez comme experience.",
       "Send a short message with your dates, group size and what you are hoping to experience. The form is prepared for email delivery, but sending is not connected while the site is still in testing.":
         "Envoyez un court message avec vos dates, la taille du groupe et ce que vous souhaitez vivre. Le formulaire est préparé pour l'envoi par e-mail, mais l'envoi n'est pas encore connecté tant que le site est en test.",
       "The message is sent securely to Into Nature and stored so the team can follow up.":
-        "Le message est envoyé de manière sécurisée à Into Nature et conservé afin que l'équipe puisse y répondre.",
+        "Le message envoyé est sécurisé et stocké pour que notre équipe puisse faire le suivi.",
       "Name": "Nom",
       "Email": "E-mail",
       "Country": "Pays",
@@ -254,6 +256,7 @@ window.IntoNatureLanguages = (() => {
       "Guided sled ride": "Sortie guidée en traîneau",
       "Evening tour": "Excursion en soirée",
       "Racing huskies": "Huskies de course",
+      "2-3 hours": "2-3 heures",
       "Aurora chance": "Chance d'aurores",
       "NOK 3,690,-": "NOK 3,690,-",
       "Dog Sledding Full Day": "Journée complète en traîneau à chiens",
@@ -850,8 +853,8 @@ window.IntoNatureLanguages = (() => {
       "Our base is in Malangen, around 90 minutes from Tromsø. Transport is unfortunally not included, so guests usually arrive by car or taxi.":
         "Notre base se trouve à Malangen, à environ 90 minutes de Tromsø. Le transport n'est malheureusement pas inclus, les visiteurs arrivent donc généralement en voiture ou en taxi.",
       "What to wear": "Que porter",
-      "Warm outerwear and winter boots are provided for selected tours. Bring your own hat, gloves or mittens, and warm base layers.":
-        "Des vêtements d'extérieur chauds et des bottes d'hiver sont fournis pour certaines excursions. Apportez votre bonnet, vos gants ou moufles, ainsi que des sous-couches chaudes.",
+      "Warm outerwear and winter boots are provided for selected tours. Bring your own hat, gloves or mittens, woolen socks and warm base layers.":
+        "Combinaison chaude et bottes d'hiver sont fournis. Apporter son propre bonnet, gants / mouffles d'hiver, chaussettes et vêtements - première couche chaude.",
       "Weather & safety": "Météo & sécurité",
       "Tours are adapted to Arctic conditions. If weather or trail conditions affect safety, we’ll help you reschedule or find the best option.":
         "Les excursions sont adaptées aux conditions arctiques. Si la météo ou l'état des pistes affectent la sécurité, nous vous aiderons à reprogrammer ou à trouver la meilleure option.",
