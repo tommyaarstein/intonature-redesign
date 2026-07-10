@@ -936,10 +936,13 @@ window.IntoNatureLanguages = (() => {
         "Sauf accord écrit distinct conclu entre les parties, les présentes Conditions générales constituent un accord juridiquement contraignant entre Into Nature (ci-après dénommé « l’Organisateur ») et le client (ci-après dénommé « le Client »).",
       "All laws and regulations applicable to tourism in Norway and Svalbard apply to package tours and other travel services provided by Into Nature.":
         "Toutes les lois et réglementations applicables au tourisme en Norvège et au Svalbard s’appliquent aux voyages organisés et autres services touristiques proposés par Into Nature.",
+      "1. Agreement": "1. Accord",
       "Once the Organiser sends the booking confirmation to the Client, the booking is considered accepted unless the Client immediately notifies the Organiser in writing of any discrepancies or errors in the booking confirmation.":
         "Dès que l’Organisateur envoie la confirmation de réservation au Client, la réservation est considérée comme acceptée, sauf si le Client informe immédiatement l’Organisateur par écrit de toute erreur ou divergence présente dans la confirmation de réservation.",
+      "2. Booking": "2. Réservation",
       "All bookings must be paid in full at the time of booking.":
         "Toutes les réservations doivent être réglées intégralement au moment de la réservation.",
+      "3. Payment": "3. Paiement",
       "Payment can be made through the online booking system or by bank transfer, as agreed with the Organiser.":
         "Le paiement peut être effectué via le système de réservation en ligne ou par virement bancaire, selon l’accord établi avec l’Organisateur.",
       "A booking is only considered confirmed once full payment has been received.":
@@ -989,6 +992,7 @@ window.IntoNatureLanguages = (() => {
         "Si le problème ne peut pas être résolu et que le Client souhaite poursuivre sa réclamation, celle-ci doit être soumise rapidement après l’activité.",
       "All complaints must be made in writing and received by Into Nature no later than one month after the date of the booked activity, accommodation or rental.":
         "Toutes les réclamations doivent être formulées par écrit et reçues par Into Nature au plus tard un mois après la date de l’activité, de l’hébergement ou de la location concernée.",
+      "8. Insurance": "8. Assurance",
       "Activities provided by Into Nature are not covered by personal accident insurance for participants.":
         "Les activités proposées par Into Nature ne sont pas couvertes par une assurance accident personnelle pour les participants.",
       "It is therefore the Client's responsibility to ensure that their own travel insurance covers this type of activity.":
