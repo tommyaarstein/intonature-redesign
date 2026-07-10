@@ -232,8 +232,8 @@ window.IntoNatureLanguages = (() => {
       "Couples, families and adventurers": "Couples, familles et aventuriers",
       "Couples, families and curious travelers": "Couples, familles et voyageurs curieux",
       "Choose the right winter adventure": "Choisissez la bonne aventure hivernale",
-      "We are offering a selection of 5 unique trips in the arctic wilderness ranging from a relaxing trip to a more hands-on experience.":
-        "Nous proposons une sélection de 5 excursions uniques dans la nature arctique, allant d'une sortie relaxante à une expérience plus active.",
+      "We are offering a selection of 6 unique trips in the arctic wilderness ranging from a relaxing trip to a more hands-on experience.":
+        "Nous proposons une sélection de 6 excursions uniques dans la nature arctique, allant d'une sortie relaxante à une expérience plus active.",
 
       "Dog Sledding - Be the Musher": "Traîneau à chiens - Devenez musher",
       "Hands-on husky sledding through quiet forest trails and open Arctic landscapes.":
@@ -249,7 +249,7 @@ window.IntoNatureLanguages = (() => {
       "Small group pace": "Rythme de petit groupe",
       "From NOK 2,490,-": "À partir de NOK 2,490,-",
       "Adults 12+": "Adultes 12+",
-      "Children 0-11": "Enfants 0-11",
+      "Children 3-11": "Enfants 3-11",
       "Transport from Tromsø not included.": "Transport depuis Tromsø non inclus.",
       "View tour": "Voir l'excursion",
       "Aurora Dog Sledding": "Traîneau à chiens sous les aurores",
@@ -261,6 +261,23 @@ window.IntoNatureLanguages = (() => {
       "2-3 hours": "2-3 heures",
       "Aurora chance": "Chance d'aurores",
       "NOK 3,690,-": "NOK 3,690,-",
+      "Dog sledding team travelling through an Arctic winter landscape":
+        "Attelage de chiens de traîneau traversant un paysage hivernal arctique",
+      "Dog Sledding – Extended Arctic Experience":
+        "Traîneau à chiens – Expérience Arctique Prolongée",
+      "Extended Arctic Experience": "Expérience Arctique Prolongée",
+      "A deeper Arctic experience with more time behind the sled, your own team of huskies, and the freedom to discover the trail at a slower pace.":
+        "Une expérience arctique plus immersive, avec davantage de temps derrière le traîneau, votre propre attelage de huskies et la liberté de découvrir les paysages à un rythme plus lent.",
+      "Approximately 3.5 hours": "Environ 3h30",
+      "Approximately 2 hours": "Environ 2 heures",
+      "Approximately 2 hours of dog sledding":
+        "Environ 2 heures de conduite en traîneau à chiens",
+      "Maximum 2 guests": "Maximum 2 participants",
+      "16+": "16 ans",
+      "NOK 4490": "NOK 4490",
+      "4490 Nok / person": "4490 Nok / personne",
+      "Meeting point: Into Nature kennel, Tromsø area":
+        "Lieu de rendez-vous : Chenil Into Nature, région de Tromsø",
       "Dog Sledding Full Day": "Journée complète en traîneau à chiens",
       "A full-day hands-on sledding experience across forests, hills, lakes and rivers, with campfire lunch in the Arctic landscape.":
         "Une journée complète de conduite de traîneau à travers forêts, collines, lacs et rivières, avec déjeuner autour du feu dans le paysage arctique.",
@@ -282,7 +299,7 @@ window.IntoNatureLanguages = (() => {
       "Contact to book": "Contactez-nous pour réserver",
       "Available by direct contact only.": "Disponible uniquement par contact direct.",
       "View expedition": "Voir l'expédition",
-      "Ice Fishing": "Pêche sur glace",
+      "Ice Fishing & Snowshoes": "Pêche sur glace & raquettes",
       "A slower Arctic day with local guiding, frozen lakes and warm breaks.":
         "Une journée arctique plus douce avec guide local, lacs gelés et pauses au chaud.",
       "Snowshoe hike": "Randonnée en raquettes",
@@ -311,7 +328,7 @@ window.IntoNatureLanguages = (() => {
       "Total duration": "Durée totale",
       "Start time": "Heure de départ",
       "Included": "Inclus",
-      "Good to know": "Bon à savoir",
+      "Good to know": "Informations importantes",
       "Guided husky sledding experience": "Expérience guidée en traîneau avec huskies",
       "Guests should be prepared for a physical outdoor activity.":
         "Les visiteurs doivent être prêts pour une activité physique en plein air.",
@@ -331,7 +348,6 @@ window.IntoNatureLanguages = (() => {
       "Slow Arctic day": "Journée arctique douce",
       "A slower Arctic day with local guiding, frozen lakes, snowshoe hiking, ice fishing and warm breaks around a bonfire.":
         "Une journée arctique plus calme avec guide local, lacs gelés, raquettes, pêche sur glace et pauses chaudes autour d'un feu de camp.",
-      "Ice fishing": "Pêche sur glace",
       "Bonfire, hot drink, snack and marshmallows":
         "Feu de camp, boisson chaude, en-cas et marshmallows",
       "A quieter activity for guests who want a slower Arctic day.":
@@ -414,6 +430,58 @@ window.IntoNatureLanguages = (() => {
         "Cette excursion s'adresse aux visiteurs qui recherchent la beauté de l'hiver ou le frisson d'observer les aurores boréales.",
       "Important: Please note that transportation to and from this activity is not included!":
         "Important : veuillez noter que le transport vers et depuis cette activité n'est pas inclus !",
+      "Meeting point": "Lieu de rendez-vous",
+      "Into Nature kennel, Tromsø area": "Chenil Into Nature, région de Tromsø",
+      "Languages": "Langues",
+      "English, French, Norwegian": "Anglais, français, norvégien",
+      "Age": "Âge minimum",
+      "Details": "Description",
+      "For guests looking for more time on the trail and a more personal connection with our dogs, the Extended Arctic Experience offers a unique opportunity to discover dog sledding at a slower pace.":
+        "Pour les personnes qui souhaitent aller plus loin qu’une sortie classique en traîneau à chiens, l’Expérience Arctique Prolongée offre davantage de temps sur la piste et une connexion plus personnelle avec les chiens.",
+      "Limited to only two guests per departure, this experience allows you to fully immerse yourself in the world of mushing. Each participant drives their own team of Alaskan huskies, learning to work together with the dogs and experience the rhythm of travelling through the Arctic landscape.":
+        "Limitée à seulement deux participants par départ, cette activité vous permet de vous immerger pleinement dans l’univers du mushing. Chaque participant conduit son propre attelage de huskies et apprend à travailler avec ses chiens tout en découvrant le rythme unique d’un voyage à travers les paysages arctiques.",
+      "For this experience, we use our most experienced racing dogs—dogs who have proven themselves on some of the toughest long-distance races in Norway, including the Finnmarksløpet 1200 km. These athletes have the endurance, focus, and passion for running that makes them exceptional partners on the trail.":
+        "Pour cette expérience, nous travaillons uniquement avec nos chiens de course les plus expérimentés — des chiens qui ont démontré leurs capacités sur certaines des courses longue distance les plus exigeantes de Norvège, notamment le Finnmarksløpet 1200 km. Ces athlètes possèdent l’endurance, la concentration et l’envie de courir qui font d’eux des partenaires exceptionnels sur la piste.",
+      "Before departure, your guide will introduce you to your dog team, explain the equipment, and teach you the basics of handling the sled. Once ready, you will head out into the Arctic landscape for approximately two hours of dog sledding.":
+        "Avant le départ, votre guide vous présentera votre attelage, vous expliquera le fonctionnement de l’équipement et vous enseignera les bases de la conduite d’un traîneau à chiens. Une fois prêts, vous partirez pour environ deux heures de découverte à travers les paysages hivernaux de l’Arctique.",
+      "The longer time on the trail allows you to go beyond a simple sled ride. You will experience the teamwork between you and your dogs, the silence of the winter landscape, and the unique feeling of travelling through nature powered only by your huskies.":
+        "Le temps supplémentaire passé sur la piste vous permet d’aller au-delà d’une simple balade en traîneau. Vous découvrirez le travail d’équipe entre vous et vos chiens, le silence des grands espaces enneigés et cette sensation unique de voyager uniquement grâce à la puissance et à l’énergie de votre attelage.",
+      "After returning to the kennel, you will have time to spend with the dogs, ask questions, and learn more about their lives both on and off the trail.":
+        "De retour au chenil, vous aurez le temps de remercier vos chiens, de prendre des photos et d’en apprendre davantage sur leur vie, aussi bien pendant la saison des courses qu’au quotidien.",
+      "What's included": "Inclus",
+      "Your own team of Alaskan huskies": "Votre propre attelage de huskies",
+      "Experienced guide": "Guide expérimenté",
+      "Introduction to mushing and dog handling":
+        "Introduction au mushing et à la conduite d’attelage",
+      "Winter clothing and equipment (if needed)":
+        "Équipement grand froid (combinaison thermique, bottes et moufles si nécessaire)",
+      "Time with the dogs after the tour":
+        "Temps avec les chiens après l’activité",
+      "What to bring": "À prévoir",
+      "Warm base layers": "Plusieurs couches de vêtements chauds",
+      "Wool socks": "Chaussettes en laine",
+      "Hat and gloves": "Bonnet et gants chauds",
+      "Warm outdoor clothing": "Vêtements adaptés aux conditions hivernales",
+      "Camera (optional)": "Appareil photo (optionnel)",
+      "No previous dog sledding experience is required.":
+        "Aucune expérience préalable en traîneau à chiens n’est nécessaire.",
+      "This is a physically active experience. Participants need a good level of fitness and should be comfortable helping the sled on uphill sections.":
+        "Cette activité demande une bonne condition physique. Les participants doivent être capables d’aider leur attelage en poussant le traîneau dans certaines montées.",
+      "Dog sledding in Arctic conditions requires energy and active participation. Two hours on the trail in cold temperatures can be demanding.":
+        "Deux heures sur un traîneau dans les conditions hivernales arctiques peuvent être exigeantes. Nous recommandons cette expérience aux personnes qui aiment les activités de plein air et qui sont à l’aise avec l’effort physique dans le froid.",
+      "Routes and duration may vary depending on snow conditions, weather, and the wellbeing of the dogs.":
+        "Le parcours et la durée peuvent varier selon les conditions de neige, la météo et avant tout le bien-être de nos chiens.",
+      "Highlights": "Points forts",
+      "Exclusive small-group experience (maximum 2 guests)":
+        "Expérience exclusive en petit groupe (maximum 2 participants)",
+      "Drive your own team of Alaskan huskies":
+        "Conduisez votre propre attelage de huskies",
+      "Extended time on the sled": "Davantage de temps sur la piste",
+      "Experience with highly trained racing dogs":
+        "Découvrez des chiens de course hautement entraînés",
+      "A deeper look into the world of professional mushing":
+        "Une immersion plus profonde dans l’univers du mushing arctique",
+      "Book now": "Réserver",
       "Dog sledding Expeditions": "Expéditions en traîneau à chiens",
       "We meet at our place: Skutvikveien 186, 9055 Mestervik":
         "Nous nous retrouvons chez nous : Skutvikveien 186, 9055 Mestervik",
@@ -820,29 +888,6 @@ window.IntoNatureLanguages = (() => {
       "Meet all our dogs here — their names and adorable quirks.":
         "Rencontrez tous nos chiens ici : leurs noms et leurs adorables particularités.",
       "Into Nature dog pack": "Meute de chiens Into Nature",
-      "The Queen": "La reine",
-      "The Legend": "La légende",
-      "The Colonel": "Le colonel",
-      "The Unique": "L'unique",
-      "The Magic": "Le magique",
-      "The Machine": "La machine",
-      "The Golden boy": "Le garçon en or",
-      "Boss": "Chef",
-      "The Fabulous": "Le fabuleux",
-      "The clown": "Le clown",
-      "The Tank": "Le tank",
-      "The calm student": "L'élève calme",
-      "The Princess": "La princesse",
-      "The Big guy": "Le grand gars",
-      "The Champion": "Le champion",
-      "The high on caffeine": "L'hyperactif",
-      "The sweet one": "Le doux",
-      "The Viking": "Le viking",
-      "The teddy bear": "L'ours en peluche",
-      "The cutty": "Le malin",
-      "Mister Lova lova": "Monsieur Lova lova",
-      "The wild": "Le sauvage",
-      "The Bad Boy": "Le bad boy",
       "Thank you for caring": "Merci de vous en soucier",
       "By choosing a small, transparent company like Into Nature, you support ethical dog sledding in Tromsø.":
         "En choisissant une petite entreprise transparente comme Into Nature, vous soutenez le traîneau à chiens éthique à Tromsø.",
@@ -886,72 +931,136 @@ window.IntoNatureLanguages = (() => {
       "Privacy": "Confidentialité",
 
       "Terms and Conditions for Activities / Accommodation / Rentals at Into Nature":
-        "Conditions générales pour les activités / hébergements / locations chez Into Nature",
-      "1. Agreement": "1. Accord",
-      "Unless a separate written agreement is made, this is a binding agreement between Into Nature (hereafter referred to as \"The Arranger\") and the customer (referred to as \"The Client\"). All laws and regulations related to tourism in Norway and Svalbard apply to package tours and other travel with Into Nature.":
-        "Sauf accord écrit séparé, ceci constitue un accord contraignant entre Into Nature (ci-après appelé « L'Organisateur ») et le client (appelé « Le Client »). Toutes les lois et réglementations relatives au tourisme en Norvège et au Svalbard s'appliquent aux voyages à forfait et autres voyages avec Into Nature.",
-      "2. Booking": "2. Réservation",
-      "When the Arranger sends the booking confirmation to the Client, the booking is considered accepted unless the Client immediately notifies the Arranger in writing about discrepancies or errors in the booking.":
-        "Lorsque l'Organisateur envoie la confirmation de réservation au Client, la réservation est considérée comme acceptée, sauf si le Client informe immédiatement l'Organisateur par écrit de divergences ou d'erreurs dans la réservation.",
-      "3. Payment": "3. Paiement",
-      "Bookings are paid via bank transfer. Reservations under NOK 10,000 and reservations made online will be charged in full immediately.":
-        "Les réservations sont payées par virement bancaire. Les réservations inférieures à NOK 10,000 et les réservations effectuées en ligne seront facturées intégralement immédiatement.",
-      "For amounts over NOK 10,000:": "Pour les montants supérieurs à NOK 10,000 :",
-      "100% of the total amount must be paid upon the Client's confirmation order.":
-        "100 % du montant total doit être payé lors de la confirmation de commande du Client.",
-      "4. Cancellation Rules": "4. Règles d'annulation",
-      "Only written cancellations are valid. No refunds will be given due to flight cancellations, lack of a valid driver's license/passport, or illness. We recommend that our customers always book additional personal travel insurance in case of cancellations. Please contact your insurance company for more information.":
-        "Seules les annulations écrites sont valables. Aucun remboursement ne sera accordé en cas d'annulation de vol, d'absence de permis de conduire/passeport valide ou de maladie. Nous recommandons à nos clients de toujours souscrire une assurance voyage personnelle supplémentaire en cas d'annulation. Veuillez contacter votre compagnie d'assurance pour plus d'informations.",
-      "Cancellation 30 days or more prior to the agreed activity start date":
-        "Annulation 30 jours ou plus avant la date de début convenue de l'activité",
-      "→ You will be automatically refunded the full activity price, minus the booking fee.":
-        "→ Le prix complet de l'activité vous sera automatiquement remboursé, moins les frais de réservation.",
-      "Cancellation between 30 and 10 days prior to the agreed activity start date":
-        "Annulation entre 30 et 10 jours avant la date de début convenue de l'activité",
-      "→ You are entitled to a 50% refund.": "→ Vous avez droit à un remboursement de 50 %.",
-      "Cancellation 10 days or less prior to the agreed activity start date":
-        "Annulation 10 jours ou moins avant la date de début convenue de l'activité",
-      "→ This will be considered a last-minute cancellation. No refund will be issued.":
-        "→ Cela sera considéré comme une annulation de dernière minute. Aucun remboursement ne sera effectué.",
-      "5. Program Changes on a Guided Tour": "5. Modifications du programme lors d'une excursion guidée",
-      "Circumstances such as extreme temperatures or rapid weather changes may force changes in our programs to ensure the safety of our guests. In the event of unforeseen circumstances or weather conditions affecting the routes related to the program, no refunds will be issued. The safety of our guests is always our top priority. Into Nature also reserves the right to cancel the activity if the minimum number of participants is not reached or if the conditions are deemed unsafe.":
-        "Des circonstances telles que des températures extrêmes ou des changements météorologiques rapides peuvent nous obliger à modifier nos programmes afin d'assurer la sécurité de nos clients. En cas de circonstances imprévues ou de conditions météorologiques affectant les itinéraires liés au programme, aucun remboursement ne sera effectué. La sécurité de nos clients est toujours notre priorité absolue. Into Nature se réserve également le droit d'annuler l'activité si le nombre minimum de participants n'est pas atteint ou si les conditions sont jugées dangereuses.",
-      "In such cases, the Client will receive a 100% refund.":
-        "Dans de tels cas, le Client recevra un remboursement de 100 %.",
-      "6. Responsibility and Liability": "6. Responsabilité",
-      "Participants are responsible for evaluating whether they are physically and mentally prepared for the activities they have booked. Participants must follow all instructions given by our tour guides. Into Nature reserves the right to refuse participation if the participant is considered a safety risk. In this case, the participant will receive a 40% refund of the total amount.":
-        "Les participants sont responsables d'évaluer s'ils sont physiquement et mentalement prêts pour les activités qu'ils ont réservées. Les participants doivent suivre toutes les instructions données par nos guides. Into Nature se réserve le droit de refuser la participation si le participant est considéré comme présentant un risque pour la sécurité. Dans ce cas, le participant recevra un remboursement de 40 % du montant total.",
-      "During our activities, participants must not be under the influence of alcohol or other intoxicants. If damage to equipment or the dogs occurs due to negligent behavior, the Client may be held responsible and liable.":
-        "Pendant nos activités, les participants ne doivent pas être sous l'influence de l'alcool ou d'autres substances intoxicantes. Si des dommages au matériel ou aux chiens surviennent en raison d'un comportement négligent, le Client peut être tenu responsable.",
-      "7. Complaint": "7. Réclamation",
-      "If the Client wishes to make a complaint about the product, this should be addressed to Into Nature at the earliest opportunity. If the issue cannot be resolved, and the Client wishes to complain further, the complaint must be made as soon as possible after the activity. Complaints must be submitted in writing and received no later than one month after the date of the booked activity/accommodation/rental.":
-        "Si le Client souhaite formuler une réclamation concernant le produit, celle-ci doit être adressée à Into Nature dès que possible. Si le problème ne peut pas être résolu et que le Client souhaite poursuivre sa réclamation, celle-ci doit être faite dès que possible après l'activité. Les réclamations doivent être soumises par écrit et reçues au plus tard un mois après la date de l'activité/l'hébergement/la location réservé(e).",
-      "8. Insurance": "8. Assurance",
-      "Into Nature’s activities are not covered by insurance, so please ensure your travel insurance covers these types of activities. Into Nature is not liable for accidents, injuries, damages, or losses that are outside the company’s control.":
-        "Les activités d'Into Nature ne sont pas couvertes par une assurance. Veuillez donc vous assurer que votre assurance voyage couvre ce type d'activités. Into Nature n'est pas responsable des accidents, blessures, dommages ou pertes qui échappent au contrôle de l'entreprise.",
-      "9. Misprints and Price Changes": "9. Erreurs d'impression et modifications de prix",
-      "Into Nature is not responsible for typographical errors and reserves the right to change the program and adjust prices without prior notice.":
-        "Into Nature n'est pas responsable des erreurs typographiques et se réserve le droit de modifier le programme et d'ajuster les prix sans préavis.",
-      "10. Physical Condition": "10. Condition physique",
-      "A good physical condition is required to complete this tour. This is defined as:":
-        "Une bonne condition physique est requise pour effectuer cette excursion. Elle est définie comme suit :",
-      "Being able to maintain balance on the sled.": "Être capable de garder l'équilibre sur le traîneau.",
-      "No injuries affecting the knees, back, or arms.":
+        "Conditions générales de vente pour les activités / hébergements / locations chez Into Nature",
+      "Unless a separate written agreement has been concluded between the parties, these Terms and Conditions constitute a legally binding agreement between Into Nature (hereinafter referred to as \"the Organiser\") and the customer (hereinafter referred to as \"the Client\").":
+        "Sauf accord écrit distinct conclu entre les parties, les présentes Conditions générales constituent un accord juridiquement contraignant entre Into Nature (ci-après dénommé « l’Organisateur ») et le client (ci-après dénommé « le Client »).",
+      "All laws and regulations applicable to tourism in Norway and Svalbard apply to package tours and other travel services provided by Into Nature.":
+        "Toutes les lois et réglementations applicables au tourisme en Norvège et au Svalbard s’appliquent aux voyages organisés et autres services touristiques proposés par Into Nature.",
+      "Once the Organiser sends the booking confirmation to the Client, the booking is considered accepted unless the Client immediately notifies the Organiser in writing of any discrepancies or errors in the booking confirmation.":
+        "Dès que l’Organisateur envoie la confirmation de réservation au Client, la réservation est considérée comme acceptée, sauf si le Client informe immédiatement l’Organisateur par écrit de toute erreur ou divergence présente dans la confirmation de réservation.",
+      "All bookings must be paid in full at the time of booking.":
+        "Toutes les réservations doivent être réglées intégralement au moment de la réservation.",
+      "Payment can be made through the online booking system or by bank transfer, as agreed with the Organiser.":
+        "Le paiement peut être effectué via le système de réservation en ligne ou par virement bancaire, selon l’accord établi avec l’Organisateur.",
+      "A booking is only considered confirmed once full payment has been received.":
+        "Une réservation est considérée comme confirmée uniquement après réception du paiement intégral.",
+      "4. Cancellation Policy": "4. Politique d’annulation",
+      "Only cancellations made in writing will be accepted.":
+        "Seules les annulations effectuées par écrit seront acceptées.",
+      "Flight cancellations, failure to hold the necessary travel documents, illness, or other personal circumstances do not entitle the Client to a refund outside the cancellation terms set out in this section. Clients are strongly advised to purchase comprehensive travel insurance  to protect themselves against cancellation costs. Please contact your insurance provider for further information.":
+        "Les annulations de vols, l’absence des documents de voyage nécessaires, une maladie ou toute autre circonstance personnelle ne donnent pas droit à un remboursement en dehors des conditions d’annulation définies dans cette section.",
+      "Cancellation 30 days or more before the scheduled activity":
+        "Annulation 30 jours ou plus avant l’activité prévue",
+      "→ The full activity price will be refunded automatically. .":
+        "→ Le montant total de l’activité sera automatiquement remboursé.",
+      "Cancellation between 30 and 10 days before the scheduled activity":
+        "Annulation entre 30 et 10 jours avant l’activité prévue",
+      "→ The Client is entitled to a 50% refund of the activity price.":
+        "→ Le Client a droit à un remboursement de 50 % du prix de l’activité.",
+      "Cancellation 10 days or less before the scheduled activity":
+        "Annulation 10 jours ou moins avant l’activité prévue",
+      "→ This will be considered a last-minute cancellation and no refund will be issued.":
+        "→ Cette situation sera considérée comme une annulation de dernière minute et aucun remboursement ne sera effectué.",
+      "5. Changes to the Programme During Guided Activities":
+        "5. Modifications du programme pendant les activités guidées",
+      "Certain circumstances, such as extreme temperatures or rapidly changing weather conditions, may require us to modify the programme in order to ensure the safety of our guests.Routes and itineraries may also be adjusted according to weather, snow conditions, ice conditions, or the welfare of our dogs.":
+        "Certaines circonstances, telles que des températures extrêmes ou des changements météorologiques rapides, peuvent nous obliger à modifier le programme afin de garantir la sécurité de nos clients.",
+      "In the event of unforeseen circumstances or weather conditions affecting the planned routes or programme, no refund will be issued.":
+        "En cas de circonstances imprévues ou de conditions météorologiques affectant les parcours ou le programme prévus, aucun remboursement ne sera effectué.",
+      "The safety of our guests is always our highest priority.":
+        "La sécurité de nos clients reste toujours notre priorité absolue.",
+      "Into Nature also reserves the right to cancel an activity if the minimum required number of participants has not been reached or if the conditions are considered unsafe.":
+        "Into Nature se réserve également le droit d’annuler une activité si le nombre minimum de participants requis n’est pas atteint ou si les conditions sont jugées dangereuses.",
+      "In such cases, the Client will receive a 100% refund of the amount paid.":
+        "Dans ce cas, le Client recevra un remboursement de 100 % du montant payé.",
+      "6. Responsibility and Liability": "6. Responsabilité et responsabilité civile",
+      "Participants are responsible for assessing whether they are physically and mentally fit to take part in the activities they have booked. Participants must follow all instructions provided by our guides.Into Nature reserves the right to refuse participation to anyone considered to present a safety risk to themselves, the dogs, our guides, or other participants.":
+        "Les participants sont responsables d’évaluer s’ils sont physiquement et mentalement aptes à participer aux activités réservées. Les participants doivent suivre toutes les instructions données par nos guides.",
+      "No refund will be issued if participation is refused because the participant does not comply with these Terms and Conditions or the safety requirements of the activity.":
+        "Aucun remboursement ne sera effectué si la participation est refusée parce que le participant ne respecte pas les présentes Conditions générales ou les exigences de sécurité liées à l’activité.",
+      "During our activities, participants must not be under the influence of alcohol or any other intoxicating substances.":
+        "Pendant nos activités, les participants ne doivent pas être sous l’influence d’alcool ou de toute autre substance intoxicante.",
+      "If equipment or dogs are damaged as a result of negligent or irresponsible behaviour, the Client may be held liable for the resulting damage and associated costs.":
+        "Si du matériel ou des chiens sont endommagés en raison d’un comportement négligent ou irresponsable, le Client pourra être tenu responsable des dommages causés ainsi que des coûts associés.",
+      "7. Complaints": "7. Réclamations",
+      "If the Client wishes to make a complaint regarding the product or service provided, it should be submitted to Into Nature as soon as possible.":
+        "Si le Client souhaite déposer une réclamation concernant le produit ou le service fourni, celle-ci doit être adressée à Into Nature dans les meilleurs délais.",
+      "If the issue cannot be resolved and the Client wishes to pursue the complaint further, it must be submitted promptly after the activity.":
+        "Si le problème ne peut pas être résolu et que le Client souhaite poursuivre sa réclamation, celle-ci doit être soumise rapidement après l’activité.",
+      "All complaints must be made in writing and received by Into Nature no later than one month after the date of the booked activity, accommodation or rental.":
+        "Toutes les réclamations doivent être formulées par écrit et reçues par Into Nature au plus tard un mois après la date de l’activité, de l’hébergement ou de la location concernée.",
+      "Activities provided by Into Nature are not covered by personal accident insurance for participants.":
+        "Les activités proposées par Into Nature ne sont pas couvertes par une assurance accident personnelle pour les participants.",
+      "It is therefore the Client's responsibility to ensure that their own travel insurance covers this type of activity.":
+        "Il appartient donc au Client de s’assurer que sa propre assurance voyage couvre ce type d’activité.",
+      "Into Nature accepts no liability for accidents, injuries, damage or losses resulting from circumstances beyond the company's control.":
+        "Into Nature décline toute responsabilité en cas d’accident, de blessure, de dommage ou de perte résultant de circonstances indépendantes de sa volonté.",
+      "9. Pricing Errors and Programme Changes":
+        "9. Erreurs de prix et modifications du programme",
+      "Into Nature accepts no responsibility for typographical or printing errors and reserves the right to modify programmes and adjust prices without prior notice.":
+        "Into Nature décline toute responsabilité concernant les erreurs typographiques ou d’impression et se réserve le droit de modifier les programmes et d’ajuster les prix sans préavis.",
+      "10. Physical Requirements": "10. Exigences physiques",
+      "Participants should be in good physical condition to take part in the activities they have booked. The physical requirements below apply to dog sledding activities and any other activities where such requirements are relevant.":
+        "Les participants doivent être en bonne condition physique pour participer aux activités réservées.",
+      "Participants must be able to:": "Les participants doivent être capables de :",
+      "Maintain their balance on the sled.":
+        "Maintenir leur équilibre sur le traîneau.",
+      "Have no injuries affecting the knees, back or arms.":
         "Ne pas avoir de blessures affectant les genoux, le dos ou les bras.",
-      "No heart conditions or other pre-existing conditions that could increase risk during physical activity, including obesity.":
-        "Ne pas avoir de problèmes cardiaques ou d'autres conditions préexistantes pouvant augmenter les risques pendant une activité physique, y compris l'obésité.",
-      "Not being intoxicated.": "Ne pas être sous l'influence de substances.",
-      "Ability to push the sled uphill.": "Être capable de pousser le traîneau en montée.",
-      "It is the responsibility of the purchasing party to ensure that all participants are properly informed of the physical requirements before booking. Participants who do not meet these criteria may have their activity canceled without refund.":
-        "Il est de la responsabilité de la personne effectuant l'achat de s'assurer que tous les participants sont correctement informés des exigences physiques avant la réservation. Les participants qui ne répondent pas à ces critères peuvent voir leur activité annulée sans remboursement.",
-      "You should not participate in this tour if you are, for example:":
-        "Vous ne devez pas participer à cette excursion si vous êtes, par exemple :",
-      "Pregnant": "Enceinte",
-      "Recovering from surgery": "En convalescence après une opération",
-      "Not accustomed to physical exercise": "Peu habitué(e) à l'exercice physique",
-      "Experiencing back or joint pain": "Souffrant de douleurs au dos ou aux articulations",
-      "Have a history of narcolepsy or blackouts": "Ayant des antécédents de narcolepsie ou de pertes de connaissance",
-      "Please contact us if you have any questions.": "Veuillez nous contacter si vous avez des questions.",
+      "Have no heart conditions or other pre-existing medical conditions that may increase the risks associated with physical activity, including obesity.":
+        "Ne pas souffrir de problèmes cardiaques ou d’autres problèmes médicaux préexistants pouvant augmenter les risques liés à une activité physique, notamment l’obésité.",
+      "Not be under the influence of alcohol or other intoxicating substances.":
+        "Ne pas être sous l’influence d’alcool ou de toute autre substance intoxicante.",
+      "Be capable of helping push the sled uphill when required.":
+        "Être capables d’aider à pousser le traîneau dans les montées si nécessaire.",
+      "It is the responsibility of the person making the booking to ensure that all participants are fully informed of these physical requirements before booking.":
+        "Il est de la responsabilité de la personne effectuant la réservation de s’assurer que tous les participants sont pleinement informés de ces exigences physiques avant la réservation.",
+      "Participants who do not meet these requirements may have their participation cancelled without refund.":
+        "Les participants qui ne répondent pas à ces exigences pourront voir leur participation annulée sans remboursement.",
+      "You should not participate in this activity if you are, for example:":
+        "Vous ne devriez pas participer à cette activité si vous êtes, par exemple :",
+      "Pregnant.": "Enceinte.",
+      "Recovering from surgery.": "En période de récupération après une intervention chirurgicale.",
+      "Not accustomed to regular physical exercise.":
+        "Peu habitué(e) à une activité physique régulière.",
+      "Experiencing back or joint pain.":
+        "Sujet(te) à des douleurs au dos ou aux articulations.",
+      "Suffering from, or having a history of, narcolepsy or loss of consciousness.":
+        "Atteint(e) de narcolepsie ou ayant des antécédents de pertes de connaissance.",
+      "10. Force Majeure": "11. Force majeure",
+      "Into Nature shall not be held liable for cancellations, delays, or changes caused by circumstances beyond its reasonable control. These include, but are not limited to, severe weather, natural disasters, road closures, government restrictions, strikes, pandemics, or other force majeure events.":
+        "Into Nature ne pourra être tenu responsable des annulations, retards ou modifications causés par des circonstances indépendantes de sa volonté raisonnable.",
+      "In such circumstances, Into Nature will make every reasonable effort to offer an alternative activity, reschedule the booking, or provide a refund where appropriate.":
+        "Dans de telles circonstances, Into Nature fera tout son possible pour proposer une activité alternative, reporter la réservation ou effectuer un remboursement lorsque cela sera approprié.",
+      "10. Governing Law": "12. Droit applicable",
+      "These Terms and Conditions are governed by Norwegian law. Any dispute arising from these Terms and Conditions shall be subject to the jurisdiction of the Norwegian courts.":
+        "Les présentes Conditions générales sont régies par le droit norvégien.",
+      "Please contact us if you have any questions.":
+        "Veuillez ne pas hésiter à nous contacter si vous avez des questions.",
+      "Flight cancellations, failure to hold the necessary travel documents, illness, or other personal circumstances do not entitle the Client to a refund outside the cancellation terms set out in this section.":
+        "Les annulations de vols, l’absence des documents de voyage nécessaires, une maladie ou toute autre circonstance personnelle ne donnent pas droit à un remboursement en dehors des conditions d’annulation définies dans cette section.",
+      "Clients are strongly advised to purchase comprehensive travel insurance  to protect themselves against cancellation costs. Please contact your insurance provider for further information.":
+        "Il est fortement recommandé aux Clients de souscrire une assurance voyage complète afin de se protéger contre les frais liés aux annulations. Veuillez contacter votre compagnie d’assurance pour plus d’informations.",
+      "Certain circumstances, such as extreme temperatures or rapidly changing weather conditions, may require us to modify the programme in order to ensure the safety of our guests.":
+        "Certaines circonstances, telles que des températures extrêmes ou des changements météorologiques rapides, peuvent nous obliger à modifier le programme afin de garantir la sécurité de nos clients.",
+      "Routes and itineraries may also be adjusted according to weather, snow conditions, ice conditions, or the welfare of our dogs.":
+        "Les itinéraires et les parcours peuvent également être adaptés en fonction des conditions météorologiques, de l’état de la neige, des conditions de glace ou du bien-être de nos chiens.",
+      "Participants are responsible for assessing whether they are physically and mentally fit to take part in the activities they have booked. Participants must follow all instructions provided by our guides.":
+        "Les participants sont responsables d’évaluer s’ils sont physiquement et mentalement aptes à participer aux activités réservées. Les participants doivent suivre toutes les instructions données par nos guides.",
+      "Into Nature reserves the right to refuse participation to anyone considered to present a safety risk to themselves, the dogs, our guides, or other participants.":
+        "Into Nature se réserve le droit de refuser la participation à toute personne considérée comme présentant un risque pour elle-même, les chiens, nos guides ou les autres participants.",
+      "Participants should be in good physical condition to take part in the activities they have booked.":
+        "Les participants doivent être en bonne condition physique pour participer aux activités réservées.",
+      "The physical requirements below apply to dog sledding activities and any other activities where such requirements are relevant.":
+        "Les exigences physiques ci-dessous s’appliquent aux activités de traîneau à chiens ainsi qu’à toute autre activité lorsque de telles exigences sont pertinentes.",
+      "Into Nature shall not be held liable for cancellations, delays, or changes caused by circumstances beyond its reasonable control.":
+        "Into Nature ne pourra être tenu responsable des annulations, retards ou modifications causés par des circonstances indépendantes de sa volonté raisonnable.",
+      "These include, but are not limited to, severe weather, natural disasters, road closures, government restrictions, strikes, pandemics, or other force majeure events.":
+        "Ces circonstances incluent notamment, sans s’y limiter, les conditions météorologiques extrêmes, les catastrophes naturelles, les fermetures de routes, les restrictions gouvernementales, les grèves, les pandémies ou tout autre événement relevant de la force majeure.",
+      "These Terms and Conditions are governed by Norwegian law.":
+        "Les présentes Conditions générales sont régies par le droit norvégien.",
+      "Any dispute arising from these Terms and Conditions shall be subject to the jurisdiction of the Norwegian courts.":
+        "Tout litige découlant des présentes Conditions générales sera soumis à la compétence des tribunaux norvégiens.",
 
       "Privacy": "Confidentialité",
       "Last updated: June 2026": "Dernière mise à jour : juin 2026",

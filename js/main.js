@@ -297,6 +297,7 @@ const openLegalModal = async (link) => {
   try {
     const content = await getLegalContent(href);
     contentTarget.replaceChildren(content.cloneNode(true));
+    window.IntoNatureLanguages?.applyLanguage(document.documentElement.lang);
     contentTarget.scrollTop = 0;
     contentTarget.focus();
   } catch {
