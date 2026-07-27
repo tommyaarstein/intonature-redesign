@@ -203,17 +203,19 @@ img {
   background: rgba(255, 255, 255, 0.1);
 }
 
-.mobile-book-link {
+.mobile-menu .mobile-book-link {
   margin-top: 8px;
-  border: 1px solid rgba(255, 255, 255, 0.34);
-  background: rgba(255, 255, 255, 0.92);
-  color: var(--pine);
+  border: 1px solid var(--amber);
+  background: var(--amber);
+  color: var(--ink);
+  box-shadow: 0 14px 32px rgba(214, 155, 74, 0.22);
 }
 
-.mobile-book-link:hover,
-.mobile-book-link:focus-visible {
-  background: var(--white);
-  color: var(--pine);
+.mobile-menu .mobile-book-link:hover,
+.mobile-menu .mobile-book-link:focus-visible {
+  border-color: #e0aa59;
+  background: #e0aa59;
+  color: var(--ink);
 }
 
 .nav-links a,
